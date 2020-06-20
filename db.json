@@ -1,55 +1,55 @@
 [
   {
-    "type": "company",
+    "type": "COMPANY",
     "name": "Bajaj",
     "origin": "India"
   },
   {
-    "type": "company",
+    "type": "COMPANY",
     "origin": "China",
     "name": "Xiaomi"
   },
   {
-    "type": "company",
+    "type": "COMPANY",
     "origin": "China",
     "name": "Lenovo"
   },
   {
-    "type": "company",
+    "type": "COMPANY",
     "origin": "China",
     "name": "Oppo"
   },
   {
-    "type": "company",
+    "type": "COMPANY",
     "origin": "China",
     "name": "Vivo"
   },
   {
-    "type": "company",
+    "type": "COMPANY",
     "origin": "China",
     "name": "Huawei"
   },
   {
-    "type": "company",
+    "type": "COMPANY",
     "origin": "China",
     "name": "OnePlus"
   },
   {
-    "type": "company",
+    "type": "COMPANY",
     "origin": "China",
     "name": "Coolpad"
   },
   {
-    "type": "company",
+    "type": "COMPANY",
     "origin": "China",
     "name": "Gionee"
   },
   {
-    "type": "product",
+    "type": "PRODUCT",
     "origin": "India",
     "name": "Bajaj Pulsar 150",
 
-    "company": "Bajaj",
+    "COMPANY": "Bajaj",
     "manufacturedIn": "India"
   }
 ]
