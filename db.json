@@ -48,8 +48,267 @@
     "type": "PRODUCT",
     "origin": "India",
     "name": "Bajaj Pulsar 150",
-
     "COMPANY": "Bajaj",
     "manufacturedIn": "India"
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "Tik Tok"
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "Bigo Live"
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "Share it"
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "Beauty plus"
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "Helo"
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "ROMWE"
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "Photo Wonder"
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "Perfect Corp"
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "MI Community "
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "MI Store "
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "DU Browser"
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "Weibo "
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "UC News "
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "Xender "
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "LIKE "
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "SHEIN "
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "APUS Browser"
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "CM Browser"
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "DU Recorder"
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "360 Security "
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "DU Cleaner"
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "Clean Master"
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "Baidu Translate "
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "ES File Explorer "
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "Security Centre"
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "QQMail"
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "Selfie City Cheetah "
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "Baidu Map "
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "QQ International "
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "QQ Player "
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "QQ News Feed "
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "Clash of Kings "
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "MI Video Call-Xiaomi "
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "Parallel Space"
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "Vault-Hide "
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "Vigo Video "
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "We Chat "
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "UC Browser "
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "Club Factory "
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "KWAI "
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "News Dog "
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "Viva Video- QU Video Inc."
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "Virus Cleaner (HI Security Lab) "
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "You Cam Makeup "
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "DU Battery Saver "
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "DU Privacy "
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "Cache Cleaner DU apps Studio "
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "Wonder Camera "
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "QQ Lancher "
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "QQ Music "
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "We Sync"
+  },
+  {
+    "type": "APP",
+    "origin": "China",
+    "name": "Mail Master"
   }
 ]
