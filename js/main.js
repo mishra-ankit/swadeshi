@@ -27,11 +27,16 @@ function setGaugeVaue(value) {
       fractionDigits: 0
     },
     staticZones: [
-      { strokeStyle: "#F03E3E", min: 0, max: 500 }, // Red from 100 to 130
-      { strokeStyle: "#800020", min: 500, max: 1000 }, // BURGUNDY
+      
+      { strokeStyle: "#30B32D", min: 0, max: 500 }, // Green
+     
+      { strokeStyle: "#FFDD00", min: 500, max: 1000 }, // Yellow
+     
       { strokeStyle: "#FFA500", min: 1000, max: 1500 }, // Orange
-      { strokeStyle: "#FFDD00", min: 1500, max: 2000 }, // Yellow
-      { strokeStyle: "#30B32D", min: 2000, max: 3000 }, // Green
+   
+      { strokeStyle: "#800020", min: 1500, max: 2000 }, // BURGUNDY
+
+      { strokeStyle: "#FF0000", min: 2000, max: 3000 }, // Red from 100 to 130
       // {strokeStyle: "#FFDD00", min: 220, max: 260}, // 
       // {strokeStyle: "#F03E3E", min: 260, max: 300}  // Red
     ],
@@ -48,24 +53,24 @@ var gaugeText = ' - '
   switch (value) {
 
     case Color.RED:
-      demoGauge.set(200);
+      demoGauge.set(2500);
       gaugeText = "No"
       break;
 
     case Color.GREEN:
-      demoGauge.set(2544);
+      demoGauge.set(200);
       gaugeText = "Yes"
       break;
     case Color.YELLOW:
-      demoGauge.set(1844);
+      demoGauge.set(544);
       gaugeText = "May be"
       break;
     case Color.BURGUNDY:
-      demoGauge.set(500);
+      demoGauge.set(1000);
       gaugeText = "May be"
       break;
     case Color.ORANGE:
-      demoGauge.set(1000);
+      demoGauge.set(1500);
       gaugeText = "May be"
       break;
   }
