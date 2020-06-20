@@ -15,6 +15,9 @@ html {
   color: #222;
   font-size: 1em;
   line-height: 1.4;
+  /* font-family: 'Alegreya Sans SC', sans-serif; */
+  /* font-family: 'Mali', cursive; */
+  font-family: 'Mada', sans-serif;
 }
 
 /*
@@ -268,8 +271,11 @@ textarea {
   --transition-2: all 0.1s ease-in-out;
 }
 
+.header{
+  color: #ff5200;
+}
 .selection {
-  margin-top: 15vh;
+  /* margin-top: 10vh; */
   font-size: 0.5rem;
   font-weight: bold;
   transition: var(--transition-1);
@@ -314,7 +320,7 @@ textarea {
 
 @media only screen and (max-width: 600px) {
   .selection {
-    margin-top: 10vh;
+    /* margin-top: 10vh; */
   }
 
   .footer {
@@ -332,4 +338,10 @@ textarea {
 
   #preview-textfield{
     font-size: 30px;
+  }
+
+  .userguide-text{
+    padding: 28px;
+    font-size: 23px;
+    color: #138808;
   }

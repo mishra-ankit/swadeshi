@@ -76,11 +76,11 @@ var gaugeText = ' - '
 function onItemSelected(feedback) {
   const selectedObj = feedback.selection.value;
   // Render selected choice to selection div
-  document.querySelector(".selection").innerHTML = JSON.stringify(
-    selectedObj,
-    null,
-    2
-  );
+  // document.querySelector(".selection").innerHTML = JSON.stringify(
+  //   selectedObj,
+  //   null,
+  //   2
+  // );
   // Clear Input
   document.querySelector("#autoComplete").value = "";
   // Change placeholder with the selected value
