@@ -15,20 +15,29 @@
   <link rel="manifest" href="site.webmanifest">
   <link rel="apple-touch-icon" href="icon.png">
   <!-- Place favicon.ico in the root directory -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tarekraafat/autocomplete.js@7.2.0/dist/css/autoComplete.min.css">
+  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tarekraafat/autocomplete.js@7.2.0/dist/css/autoComplete.min.css"> -->
+
+  <link rel="stylesheet" href="css/autocomplete.css">
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/main.css">
 
   <meta name="theme-color" content="#fafafa">
+  <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"> -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
 </head>
 
 <body align="center">
   <h1 class="header">Swadeshi</h1>
   <!-- Add your site or application content here -->
   <input id="autoComplete" tabindex="1">
-  <div class="selection"></div>
+  <div class="selection">
+    <canvas id="demo"></canvas>
+    <div id="preview-textfield"></div>
+  </div>
   <!--  Content ends here-->
-<!--  <script src="js/vendor/modernizr-3.11.2.min.js"></script>-->
+  <!--  <script src="js/vendor/modernizr-3.11.2.min.js"></script>-->
   <footer class="footer">
     <div class="copyrights">Copyright &copy; 2020 <a href="#">Swadeshi</a> All Rights Reserved</div>
   </footer>
@@ -40,7 +49,13 @@
   <script src="https://www.google-analytics.com/analytics.js" async></script>
   <script src="https://cdn.jsdelivr.net/npm/@tarekraafat/autocomplete.js@7.2.0/dist/js/autoComplete.min.js"></script>
   <script src="js/plugins.js"></script>
+  <script src="js/gauge.js"></script>
   <script src="js/main.js"></script>
+
+  <link rel="stylesheet" type="text/css" href="./includes/css/style.css">
+  <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+    integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+    crossorigin="anonymous"></script>
 </body>
 
 </html>

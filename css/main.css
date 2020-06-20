@@ -328,3 +328,8 @@ textarea {
     display: none;
   }
 }
+
+#autoComplete{
+  height: 2.1rem;
+  width: 6rem;
+}
