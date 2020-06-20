@@ -3,6 +3,7 @@ const Color = {
   GREEN: "GREEN",
   YELLOW: "YELLOW",
   BURGUNDY: "BURGUNDY",
+  ORANGE:'ORANGE'
 };
 
 const Country = {

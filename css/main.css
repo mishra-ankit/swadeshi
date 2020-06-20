@@ -269,8 +269,8 @@ textarea {
 }
 
 .selection {
-  margin-top: 25vh;
-  font-size: 2rem;
+  margin-top: 15vh;
+  font-size: 0.5rem;
   font-weight: bold;
   transition: var(--transition-1);
 }
@@ -314,7 +314,7 @@ textarea {
 
 @media only screen and (max-width: 600px) {
   .selection {
-    margin-top: 15vh;
+    margin-top: 10vh;
   }
 
   .footer {
@@ -328,3 +328,8 @@ textarea {
     display: none;
   }
 }
+
+
+  #preview-textfield{
+    font-size: 30px;
+  }
