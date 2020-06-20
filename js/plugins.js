@@ -63,23 +63,7 @@ const autoCompletejs = new autoComplete({
     result.innerHTML = "No Results";
     document.querySelector("#autoComplete_list").appendChild(result);
   },
-  onSelection: (feedback) => {
-    const selectedObj = feedback.selection.value;
-    // Render selected choice to selection div
-    document.querySelector(".selection").innerHTML = JSON.stringify(
-      selectedObj,
-      null,
-      2
-    );
-    // Clear Input
-    document.querySelector("#autoComplete").value = "";
-    // Change placeholder with the selected value
-    // document
-    //   .querySelector("#autoComplete")
-    //   .setAttribute("placeholder", selectedObj.name);
-    // Concole log autoComplete data feedback
-    console.log(feedback);
-  },
+  onSelection: onItemSelected,
 });
 
 // Toggle results list and other elements
