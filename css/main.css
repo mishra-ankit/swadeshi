@@ -279,13 +279,14 @@ textarea {
   font-size: 0.5rem;
   font-weight: bold;
   transition: var(--transition-1);
+  padding: 10px;
 }
 
 .footer {
   display: flex;
   width: 100vw;
   position: absolute;
-  bottom: 2rem;
+  bottom: 1rem;
   color: rgb(147, 147, 147);
   justify-content: center;
   transition: var(--transition-1);
@@ -344,4 +345,37 @@ textarea {
     padding: 28px;
     font-size: 23px;
     color: #138808;
+  }
+
+  .selected-item{
+    margin: 0px;
+    padding: 0;
+    padding-bottom: 10px;
+  }
+
+  .item-info-name, .item-info-origin {
+
+    display: inline;
+    font-size: 13px;
+    /* font-weight: normal; */
+    padding: 2px;
+  }
+  .item-info-India {
+    height: 58px;
+    background-repeat: no-repeat;
+    /* width: 69px; */
+    /* border: 0.05rem solid rgb(0, 0, 128); */
+    background-image: url(./Flag_of_India.svg);
+    background-size: 96px 101px;
+    background-position: center;
+  }
+
+  .item-info-China {
+    height: 58px;
+    background-repeat: no-repeat;
+    /* width: 69px; */
+    /* border: 0.05rem solid rgb(0, 0, 128); */
+    background-image: url(./Flag_of_China.png);
+    background-size: 96px 101px;
+    background-position: center;
   }

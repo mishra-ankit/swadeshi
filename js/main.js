@@ -81,19 +81,32 @@ var gaugeText = ' - '
 function onItemSelected(feedback) {
   const selectedObj = feedback.selection.value;
   // Render selected choice to selection div
-  // document.querySelector(".selection").innerHTML = JSON.stringify(
-  //   selectedObj,
-  //   null,
-  //   2
-  // );
+  document.querySelector(".selection").innerHTML =  
+  `<div class="selected-item-section">
+  <ul class="selected-item">
+    <li class="item-info-name">
+      `+selectedObj.name+`
+    </li>
+    <li class="item-info-name">
+    -
+    </li>
+    <li class="item-info-origin">
+    `+selectedObj.origin+`
+    </li>
+  </ul>
+  <div class="item-info-`+selectedObj.origin+`">
+  </div>
+</div>`
+
+
   // Clear Input
-  document.querySelector("#autoComplete").value = "";
+  document.querySelector("#autoComplete").value = selectedObj.name;
   // Change placeholder with the selected value
   // document
   //   .querySelector("#autoComplete")
   //   .setAttribute("placeholder", selectedObj.name);
   // Concole log autoComplete data feedback;
-  console.log(feedback);
+  console.log("feedback",feedback, selectedObj);
   console.log("getRating", getRating(selectedObj.type, selectedObj.origin));
   setGaugeVaue(getRating(selectedObj.type, selectedObj.origin));
 }
