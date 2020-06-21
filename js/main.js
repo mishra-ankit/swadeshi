@@ -1,14 +1,14 @@
-function setGaugeVaue(value) {
-  var opts = {
+function setGaugeValue(value) {
+  let opts = {
     // options here
   };
-  var target = document.getElementById("demo");
-  var demoGauge = new Gauge(target).setOptions(opts);
+  const target = document.getElementById("demo");
+  const demoGauge = new Gauge(target).setOptions(opts);
 
   document.getElementById("preview-textfield").className = "preview-textfield";
   //demoGauge.setTextField(document.getElementById("preview-textfield"));
 
-  var opts = {
+  opts = {
     angle: 0,
     lineWidth: 0.5,
     radiusScale: 0.9,
@@ -100,14 +100,8 @@ function onItemSelected(feedback) {
 
   // Clear Input
   document.querySelector("#autoComplete").value = selectedObj.name;
-  // Change placeholder with the selected value
-  // document
-  //   .querySelector("#autoComplete")
-  //   .setAttribute("placeholder", selectedObj.name);
-  // Concole log autoComplete data feedback;
-  console.log("feedback", feedback, selectedObj);
   console.log("getRating", getRating(selectedObj.type, selectedObj.origin));
-  setGaugeVaue(getRating(selectedObj.type, selectedObj.origin));
+  setGaugeValue(getRating(selectedObj.type, selectedObj.origin));
 }
 
 function getRating(type, origin, manufacturedIn) {

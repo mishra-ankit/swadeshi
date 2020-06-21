@@ -1,15 +1,12 @@
 Bugs -
 - Bajaj Pulsar maybe ?!!
 
-
 x- connect to DB
 x- add SW
 
 copy(JSON.stringify(localStorage));
 
-
 javascript:(function(){items = document.getElementsByClassName('p13n-sc-truncated');products = Array.from(items).map((i, index) => ({name : i.textContent, href: items[index].parentNode.href}));localStorage.setItem(location.href, JSON.stringify(products));alert('saved', products.length);})();
-
 
 Amazon data -
 
