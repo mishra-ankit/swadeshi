@@ -384,7 +384,7 @@ textarea {
 
 
   .share-section{
-    
+
   }
 
   .share-text{
@@ -404,7 +404,7 @@ textarea {
     padding: 11px;
   }
 
-  
+
 
   .share-button {
     display: inline-flex;
@@ -455,7 +455,7 @@ textarea {
     padding: 2px;
   }
 
-  
+
   .faq-heading{
     font-size: 20px;
     padding: 5px;
@@ -470,7 +470,7 @@ textarea {
     color: gray;
   }
 
-  
+
   .feedbackSharedDiv {
     display: none;
   }
@@ -518,3 +518,7 @@ textarea {
     outline: 0;
     box-shadow: rgba(0, 0, 128, 0.1) 0px 0px 20px 5px;
   }
+
+body {
+  text-align: center;
+}
