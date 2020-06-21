@@ -310,5 +310,305 @@
     "type": "APP",
     "origin": "China",
     "name": "Mail Master"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "Hang Seng China 50 Index",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "Agricultural Bank of China",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "Bank of China",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "Bank of Communications",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "Baowu",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "China CITIC Bank",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "China Communications Construction",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "China Construction Bank",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "China Everbright Bank",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "China Life Insurance Company",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "China Merchants Bank",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "China Minsheng Bank",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "China Mobile",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "China National Offshore Oil Corporation",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "China Overseas Land and Investment",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "China Pacific Insurance Company",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "China Railway Group Limited",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "China Shenhua Energy",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "China State Construction Engineering",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "China Telecom",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "China Tower",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "China Unicom",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "China Yangtze Power",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "CITIC Limited",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "CITIC Securities",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "CNOOC Limited",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "Country Garden",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "CRRC",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "Evergrande Group",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "Gree Electric",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "Hikvision",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "Industrial and Commercial Bank of China",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "Industrial Bank (China)",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "Jiangsu Hengrui Medicine",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "Kweichow Moutai",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "Midea Group",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "People's Insurance Company of China",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "PetroChina",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "PICC Property and Casualty",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "Ping An Bank",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "Ping An Insurance",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "Qihoo 360",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "SAIC Motor",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "SF Express",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "Shanghai Pudong Development Bank",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "Sinopec",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "Tencent",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "Vanke",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "Wuliangye Yibin",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "China",
+    "name": "Yili Group",
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
   }
 ]
