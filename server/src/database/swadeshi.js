@@ -8,7 +8,6 @@ const Collection = {
 async function getFeedback() {
   const database = await getDatabase();
   const feedback = await database.collection(Collection.FEEDBACK).find({}).toArray();
-  console.log(feedback);
   return feedback;
 }
 

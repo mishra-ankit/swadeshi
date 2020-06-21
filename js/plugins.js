@@ -62,6 +62,7 @@ const autoCompletejs = new autoComplete({
     result.setAttribute("tabindex", "1");
     result.innerHTML = "No Results";
     document.querySelector("#autoComplete_list").appendChild(result);
+    shareMyQuery(document.querySelector("#autoComplete").value);
   },
   onSelection: onItemSelected,
 });
@@ -89,8 +90,7 @@ const action = function (action) {
     footer.style.opacity = 0.1;
     gauge.style.opacity = 0.3;
     gaugeText.style.opacity = 0.3;
-    guideText.style.opacity =  0.3;
-
+    guideText.style.opacity = 0.3;
   }
 };
 

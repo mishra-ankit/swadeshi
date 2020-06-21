@@ -379,3 +379,7 @@ textarea {
     background-size: 96px 101px;
     background-position: center;
   }
+
+  .feedbackSharedDiv {
+    display: none;
+  }

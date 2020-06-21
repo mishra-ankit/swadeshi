@@ -41,9 +41,8 @@ app.put('/feedback', async (req, res) => {
 
 app.put('/query/:queryWord', async (req, res) => {
   const word = req.params.queryWord;
-  console.log(word);
   await insertQueryWord(word);
-  res.send();
+  res.send({});
 });
 
 // starting the server
