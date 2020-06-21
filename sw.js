@@ -1,6 +1,6 @@
 var CACHE_NAME = 'my-site-cache-v1';
 var urlsToCache = [
-  '/swadeshi/404.html',
+  // '/swadeshi/404.html',
 ];
 
 self.addEventListener('install', function(event) {
@@ -23,7 +23,7 @@ self.addEventListener('fetch', function(event) {
       return response || fetch(event.request);
     }).catch(function() {
       // If both fail, show a generic fallback:
-      return caches.match('/swadeshi/404.html');
+      return caches.match('404.html');
       // However, in reality you'd have many different
       // fallbacks, depending on URL & headers.
       // Eg, a fallback silhouette image for avatars.
