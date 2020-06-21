@@ -697,12 +697,6 @@
   },
   {
     "type": "COMPANY",
-    "name": "Coolpad",
-    "origin": "China",
-    "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country"
-  },
-  {
-    "type": "COMPANY",
     "name": "Dell",
     "origin": "USA",
     "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country"
@@ -763,12 +757,6 @@
   },
   {
     "type": "COMPANY",
-    "name": "Huawei",
-    "origin": "China",
-    "source": "https://en.wikipedia.org/wiki/Huawei"
-  },
-  {
-    "type": "COMPANY",
     "name": "i-mobile",
     "origin": "Thailand",
     "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country"
@@ -795,12 +783,6 @@
     "type": "COMPANY",
     "name": "Lava",
     "origin": "India",
-    "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country"
-  },
-  {
-    "type": "COMPANY",
-    "name": "Lenovo",
-    "origin": "China",
     "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country"
   },
   {
@@ -991,12 +973,6 @@
   },
   {
     "type": "COMPANY",
-    "name": "Xiaomi",
-    "origin": "China",
-    "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country"
-  },
-  {
-    "type": "COMPANY",
     "name": "XOLO",
     "origin": "India",
     "source": "https://en.wikipedia.org/wiki/Xolo_(COMPANY)"
@@ -1015,12 +991,6 @@
   },
   {
     "type": "COMPANY",
-    "name": "Amoi",
-    "origin": "China",
-    "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country"
-  },
-  {
-    "type": "COMPANY",
     "name": "Yota",
     "origin": "Russia",
     "source": "https://en.wikipedia.org/wiki/Yota"
@@ -1028,12 +998,6 @@
   {
     "type": "COMPANY",
     "name": "BBK",
-    "origin": "China",
-    "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country"
-  },
-  {
-    "type": "COMPANY",
-    "name": "Coolpad",
     "origin": "China",
     "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country"
   },
@@ -1051,25 +1015,7 @@
   },
   {
     "type": "COMPANY",
-    "name": "Haier",
-    "origin": "China",
-    "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country"
-  },
-  {
-    "type": "COMPANY",
     "name": "Hisense",
-    "origin": "China",
-    "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country"
-  },
-  {
-    "type": "COMPANY",
-    "name": "Honor",
-    "origin": "China",
-    "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country"
-  },
-  {
-    "type": "COMPANY",
-    "name": "Huawei",
     "origin": "China",
     "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country"
   },
@@ -1082,12 +1028,6 @@
   {
     "type": "COMPANY",
     "name": "LeEco",
-    "origin": "China",
-    "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country"
-  },
-  {
-    "type": "COMPANY",
-    "name": "Lenovo",
     "origin": "China",
     "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country"
   },
@@ -1106,24 +1046,6 @@
   {
     "type": "COMPANY",
     "name": "Ningbo Bird",
-    "origin": "China",
-    "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country"
-  },
-  {
-    "type": "COMPANY",
-    "name": "OnePlus",
-    "origin": "China",
-    "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country"
-  },
-  {
-    "type": "COMPANY",
-    "name": "Oppo",
-    "origin": "China",
-    "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country"
-  },
-  {
-    "type": "COMPANY",
-    "name": "Realme",
     "origin": "China",
     "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country"
   },
@@ -1153,12 +1075,6 @@
   },
   {
     "type": "COMPANY",
-    "name": "Vivo",
-    "origin": "China",
-    "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country"
-  },
-  {
-    "type": "COMPANY",
     "name": "Vsun",
     "origin": "China",
     "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country"
@@ -1171,19 +1087,7 @@
   },
   {
     "type": "COMPANY",
-    "name": "Xiaomi",
-    "origin": "China",
-    "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country"
-  },
-  {
-    "type": "COMPANY",
     "name": "Zopo Mobile",
-    "origin": "China",
-    "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country"
-  },
-  {
-    "type": "COMPANY",
-    "name": "ZTE",
     "origin": "China",
     "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country"
   },
@@ -1202,12 +1106,6 @@
   {
     "type": "COMPANY",
     "name": "Fujitsu",
-    "origin": "Japan",
-    "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country"
-  },
-  {
-    "type": "COMPANY",
-    "name": "Casio",
     "origin": "Japan",
     "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country"
   },
@@ -1237,31 +1135,7 @@
   },
   {
     "type": "COMPANY",
-    "name": "NEC",
-    "origin": "Japan",
-    "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country"
-  },
-  {
-    "type": "COMPANY",
-    "name": "Panasonic",
-    "origin": "Japan",
-    "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country"
-  },
-  {
-    "type": "COMPANY",
     "name": "Sansui",
-    "origin": "Japan",
-    "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country"
-  },
-  {
-    "type": "COMPANY",
-    "name": "Sharp",
-    "origin": "Japan",
-    "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country"
-  },
-  {
-    "type": "COMPANY",
-    "name": "Sony",
     "origin": "Japan",
     "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country"
   },
@@ -1274,12 +1148,6 @@
   {
     "type": "COMPANY",
     "name": "CREO",
-    "origin": "India",
-    "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country"
-  },
-  {
-    "type": "COMPANY",
-    "name": "Celkon",
     "origin": "India",
     "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country"
   },
@@ -1357,12 +1225,6 @@
   },
   {
     "type": "COMPANY",
-    "name": "Apple",
-    "origin": "USA",
-    "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country"
-  },
-  {
-    "type": "COMPANY",
     "name": "BLU Products",
     "origin": "USA",
     "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country"
@@ -1388,18 +1250,6 @@
   {
     "type": "COMPANY",
     "name": "Garmin",
-    "origin": "USA",
-    "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country"
-  },
-  {
-    "type": "COMPANY",
-    "name": "Google",
-    "origin": "USA",
-    "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country"
-  },
-  {
-    "type": "COMPANY",
-    "name": "HP",
     "origin": "USA",
     "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country"
   },

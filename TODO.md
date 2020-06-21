@@ -194,3 +194,28 @@ javascript:(function(){items = document.getElementsByClassName('p13n-sc-truncate
                               "iNQ",
                                 "Kyocera",
                                   "LeEco",
+
+
+Dup finder -
+comp = new Set();
+products = new Set();
+dbg = [];
+t = db.map(i=>{
+    if (i.type === "COMPANY") {
+        if (comp.has(i.name.toLowerCase())) {
+            console.error('Duplicate company found - ', i.name);
+        } else {
+            comp.add(i.name.toLowerCase());
+            return i;
+        }
+    } else {
+        if (products.has(i.name.toLowerCase())) {
+            console.error('Duplicate product found - ', i.name);
+        } else {
+            products.add(i.name.toLowerCase());
+            return i;
+        }
+    }
+}
+).filter(Boolean);
+
