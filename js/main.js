@@ -1,16 +1,12 @@
-
 function setGaugeVaue(value) {
-
-
   var opts = {
     // options here
   };
-  var target = document.getElementById('demo');
+  var target = document.getElementById("demo");
   var demoGauge = new Gauge(target).setOptions(opts);
 
   document.getElementById("preview-textfield").className = "preview-textfield";
   //demoGauge.setTextField(document.getElementById("preview-textfield"));
-
 
   var opts = {
     angle: 0,
@@ -19,85 +15,87 @@ function setGaugeVaue(value) {
     pointer: {
       length: 0.6,
       strokeWidth: 0.05,
-      color: '#000000'
+      color: "#000000",
     },
     staticLabels: {
       font: "10px sans-serif",
       labels: [],
-      fractionDigits: 0
+      fractionDigits: 0,
     },
     staticZones: [
-      
       { strokeStyle: "#30B32D", min: 0, max: 500 }, // Green
-     
+
       { strokeStyle: "#FFDD00", min: 500, max: 1000 }, // Yellow
-     
+
       { strokeStyle: "#FFA500", min: 1000, max: 1500 }, // Orange
-   
+
       { strokeStyle: "#800020", min: 1500, max: 2000 }, // BURGUNDY
 
       { strokeStyle: "#FF0000", min: 2000, max: 3000 }, // Red from 100 to 130
-      // {strokeStyle: "#FFDD00", min: 220, max: 260}, // 
+      // {strokeStyle: "#FFDD00", min: 220, max: 260}, //
       // {strokeStyle: "#F03E3E", min: 260, max: 300}  // Red
     ],
     limitMax: false,
     limitMin: false,
-    highDpiSupport: true
+    highDpiSupport: true,
   };
   demoGauge.setOptions(opts);
- // demoGauge.setTextField(document.getElementById("preview-textfield"));
+  // demoGauge.setTextField(document.getElementById("preview-textfield"));
   demoGauge.minValue = 0;
   demoGauge.maxValue = 3000;
   //demoGauge.set(1844);
-var gaugeText = ' - '
+  var gaugeText = " - ";
   switch (value) {
-
     case Color.RED:
       demoGauge.set(2500);
-      gaugeText = "No"
+      gaugeText = "No";
       break;
 
     case Color.GREEN:
       demoGauge.set(200);
-      gaugeText = "Yes"
+      gaugeText = "Yes";
       break;
     case Color.YELLOW:
       demoGauge.set(544);
-      gaugeText = "May be"
+      gaugeText = "May be";
       break;
     case Color.BURGUNDY:
       demoGauge.set(1000);
-      gaugeText = "May be"
+      gaugeText = "May be";
       break;
     case Color.ORANGE:
       demoGauge.set(1500);
-      gaugeText = "May be"
+      gaugeText = "May be";
       break;
   }
-  document.getElementById("preview-textfield").innerHTML=gaugeText;
+  document.getElementById("preview-textfield").innerHTML = gaugeText;
 }
-
 
 function onItemSelected(feedback) {
   const selectedObj = feedback.selection.value;
   // Render selected choice to selection div
-  document.querySelector(".selection").innerHTML =  
-  `<div class="selected-item-section">
+  document.querySelector(".selection").innerHTML =
+    `<div class="selected-item-section">
   <ul class="selected-item">
     <li class="item-info-name">
-      `+selectedObj.name+`
+      ` +
+    selectedObj.name +
+    `
     </li>
     <li class="item-info-name">
     -
     </li>
     <li class="item-info-origin">
-    `+selectedObj.origin+`
+    ` +
+    selectedObj.origin +
+    `
     </li>
   </ul>
-  <div class="item-info-`+selectedObj.origin+`">
+  <div class="item-info-` +
+    selectedObj.origin +
+    `">
   </div>
-</div>`
-
+</div>`;
 
   // Clear Input
   document.querySelector("#autoComplete").value = selectedObj.name;
@@ -106,7 +104,7 @@ function onItemSelected(feedback) {
   //   .querySelector("#autoComplete")
   //   .setAttribute("placeholder", selectedObj.name);
   // Concole log autoComplete data feedback;
-  console.log("feedback",feedback, selectedObj);
+  console.log("feedback", feedback, selectedObj);
   console.log("getRating", getRating(selectedObj.type, selectedObj.origin));
   setGaugeVaue(getRating(selectedObj.type, selectedObj.origin));
 }
@@ -156,4 +154,16 @@ function getRating(type, origin, manufacturedIn) {
       return Color.YELLOW;
     }
   }
+}
+
+function sendMyFeedback() {
+  const message = document.querySelector("#feedbackTxt").value;
+  sendFeedback(message);
+  document.getElementsByClassName("feedbackDiv")[0].style.display = "none";
+  document.getElementsByClassName("feedbackSharedDiv")[0].style.display =
+    "block";
+}
+
+function shareMyQuery(query) {
+  shareQuery(query);
 }

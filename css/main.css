@@ -403,6 +403,9 @@ textarea {
     /* font-weight: normal; */
     padding: 11px;
   }
+
+  
+
   .share-button {
     display: inline-flex;
     align-items: center;
@@ -417,6 +420,7 @@ textarea {
     cursor: pointer;
     transition: .4s ease-in;
     box-shadow: 0 4px 8px rgba(0,0,0,.1);
+    text-decoration: none;
   }
 
   .share-button:hover {
@@ -467,3 +471,50 @@ textarea {
   }
 
   
+  .feedbackSharedDiv {
+    display: none;
+  }
+
+
+  .send-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 67px;
+    height: 32px;
+    border-radius: 15px;
+    border-width: 0px;
+    font-size: 1.1rem;
+    background-color: #FF9933;
+    color: #ffffff;
+    cursor: pointer;
+    transition: .4s ease-in;
+    box-shadow: 0 4px 8px rgba(0,0,0,.1);
+    text-decoration: none;
+  }
+  .send-button:hover {
+    background-color: #ff8102;
+}
+
+.feedback-textarea{
+  display: inline-block;
+  max-width: 347px;
+    /* margin: 9px; */
+    width: 85%;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: 0.5rem;
+  transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.feedback-textarea:focus {
+    color: #495057;
+    background-color: #fff;
+    border: 0.05rem solid rgb(0, 0, 128);
+    outline: 0;
+    box-shadow: rgba(0, 0, 128, 0.1) 0px 0px 20px 5px;
+  }
