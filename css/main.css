@@ -283,13 +283,15 @@ textarea {
 }
 
 .footer {
-  display: flex;
+  /* display: flex;
   width: 100vw;
   position: absolute;
   bottom: 1rem;
   color: rgb(147, 147, 147);
   justify-content: center;
-  transition: var(--transition-1);
+  transition: var(--transition-1); */
+  padding: 10px;
+  font-size: 12px;
 }
 
 .no_result {
@@ -325,14 +327,14 @@ textarea {
   }
 
   .footer {
-    bottom: 1.5rem;
-    transition: var(--transition-1);
+    /* bottom: 1.5rem;
+    transition: var(--transition-1); */
   }
 }
 
 @media only screen and (max-height: 500px) {
   .footer {
-    display: none;
+  /* display: none; */
   }
 }
 
@@ -376,6 +378,92 @@ textarea {
     /* width: 69px; */
     /* border: 0.05rem solid rgb(0, 0, 128); */
     background-image: url(./Flag_of_China.png);
-    background-size: 96px 101px;
+    background-size: 96px 58px;
     background-position: center;
   }
+
+
+  .share-section{
+    
+  }
+
+  .share-text{
+    font-size: 20px;
+    padding: 20px;
+  }
+  .share-items{
+    margin: 0px;
+    padding: 0;
+    padding-bottom: 10px;
+  }
+
+  .share-info-item{
+    display: inline-block;
+    font-size: 13px;
+    /* font-weight: normal; */
+    padding: 11px;
+  }
+  .share-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 220px;
+    height: 60px;
+    border-radius: 30px;
+    border-width: 0px;
+    font-size: 1.1rem;
+    background-color: #fefefe;
+    color: #4e4e4e;
+    cursor: pointer;
+    transition: .4s ease-in;
+    box-shadow: 0 4px 8px rgba(0,0,0,.1);
+  }
+
+  .share-button:hover {
+    background-color: #f2f2f2;
+}
+
+.share-button img {
+  height: 24px;
+  width: 24px;
+  transform: translateX(-10px);
+}
+
+  .faq-section{
+    padding: 5px 20px;
+    max-width: 720px;
+    text-align: center;
+    display: inline-block;
+  }
+
+  .faq-questions-list{
+    margin: 0px;
+    padding: 0;
+    padding-bottom: 10px;
+    text-align: left;
+  }
+
+  .faq-questions-list-item{
+
+    display: inline;
+    font-size: 13px;
+    /* font-weight: normal; */
+    padding: 2px;
+  }
+
+  
+  .faq-heading{
+    font-size: 20px;
+    padding: 5px;
+  }
+  .faq-question{
+    font-size: 13px;
+    padding: 5px;
+  }
+  .faq-answer{
+    font-size: 13px;
+    padding: 5px;
+    color: gray;
+  }
+
+  
