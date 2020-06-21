@@ -6,16 +6,23 @@
   "license": "",
   "author": "",
   "scripts": {
-    "build": "parcel build index.html",
-    "dev": "parcel index.html --open",
-    "start": "npm run build && npm run dev",
+    "start:server": "node server/index.js",
+    "start:web": "serve -l 5000",
+    "dev": "concurrently \"npm run start:server\" \"npm run start:web\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "parcel-bundler": "^1.12.4",
-    "prettier": "2.0.5",
+    "body-parser": "^1.19.0",
+    "concurrently": "^5.2.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "helmet": "^3.23.1",
+    "husky": "^4.2.3",
     "lint-staged": "^10.1.1",
-    "husky": "^4.2.3"
+    "mongodb": "^3.5.9",
+    "morgan": "^1.10.0",
+    "parcel-bundler": "^1.12.4",
+    "prettier": "2.0.5"
   },
   "husky": {
     "hooks": {
@@ -23,6 +30,10 @@
     }
   },
   "lint-staged": {
-    "js/*.{js,css,md}": "prettier --write"
+    "js/*.{js,css,md}": "prettier --write",
+    "server/*.{js,css,md}": "prettier --write"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.4"
   }
 }

@@ -29,7 +29,7 @@
   <div id="container" class="container">
     <h1 class="header">Swadeshi</h1>
     <!-- Add your site or application content here -->
-    <input id="autoComplete" tabindex="1">
+    <input autofocus id="autoComplete" tabindex="1">
     <div class="userguide-text">
       Search the product and company before buying any product
     </div>
@@ -44,7 +44,7 @@
       <div class="share-text">Share it with your friends!</div>
       <ul class="share-items">
         <li class="share-info-item">
-          <a class="share-button" href="">
+          <a class="share-button" href="https://twitter.com/intent/tweet?url=&text=Let's all come together and use  https://mishra-ankit.github.io/swadeshi/ to support Indian products. #BoycottChineseGoods #BoycottChineseApps">
             <img src="./img/twitter.svg" alt="Twitter">
             Share on Twitter
           </a>
@@ -133,6 +133,14 @@
   <script src="js/serverSide.js"></script>
   <script src="js/main.js"></script>
   <script src="js/plugins.js"></script>
+  <script>
+    // register ServiceWorker, remember to use absolute path!
+    if (navigator.serviceWorker) {
+      navigator.serviceWorker.register('/swadeshi/sw.js', {scope: '/swadeshi/'})
+    }
+
+    // --- Application code here ---
+  </script>
 </body>
 
 </html>

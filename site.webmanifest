@@ -1,6 +1,7 @@
 {
   "short_name": "Swadeshi",
   "name": "Swadeshi",
+  "display":"fullscreen",
   "icons": [{
     "src": "icon.png",
     "type": "image/png",
