@@ -7,3 +7,4 @@ dist
 .idea
 /.npmrc
 package-lock.json
+.env
