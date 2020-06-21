@@ -1,3 +1,7 @@
+Bugs -
+- Bajaj Pulsar maybe ?!!
+
+
 x- connect to DB
 x- add SW
 

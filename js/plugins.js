@@ -73,21 +73,18 @@ const action = function (action) {
   const selection = document.querySelector(".selection");
   const guideText = document.querySelector(".userguide-text");
 
-  const footer = document.querySelector(".footer");
   const gauge = document.querySelector("#demo");
   const gaugeText = document.querySelector("#preview-textfield");
 
   if (action === "dim") {
     title.style.opacity = 1;
     selection.style.opacity = 1;
-    footer.style.opacity = 1;
     gauge.style.opacity = 1;
     gaugeText.style.opacity = 1;
     guideText.style.opacity = 1;
   } else {
     title.style.opacity = 0.3;
     selection.style.opacity = 0.1;
-    footer.style.opacity = 0.1;
     gauge.style.opacity = 0.3;
     gaugeText.style.opacity = 0.3;
     guideText.style.opacity = 0.3;

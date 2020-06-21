@@ -73,6 +73,7 @@ function setGaugeVaue(value) {
 
 function onItemSelected(feedback) {
   const selectedObj = feedback.selection.value;
+  action("dim");
   // Render selected choice to selection div
   document.querySelector(".selection").innerHTML =
     `<div class="selected-item-section">
