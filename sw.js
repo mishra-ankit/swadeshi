@@ -1,6 +1,6 @@
 var CACHE_NAME = 'my-site-cache-v1';
 var urlsToCache = [
-  // '/swadeshi/404.html',
+  // '/IndiaMade/404.html',
 ];
 
 self.addEventListener('install', function(event) {
