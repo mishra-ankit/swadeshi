@@ -292,6 +292,7 @@ textarea {
   transition: var(--transition-1); */
   padding: 10px;
   font-size: 12px;
+  background-color: #e8e8d8;
 }
 
 .no_result {
@@ -438,8 +439,8 @@ textarea {
 }
 
   .faq-section{
-    padding: 5px 20px;
-    max-width: 720px;
+    background-color: #e8e8d8;
+    padding: 5px 20%;
     text-align: center;
     display: inline-block;
   }
