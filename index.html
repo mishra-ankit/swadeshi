@@ -18,6 +18,7 @@
   <link rel="stylesheet" href="css/autocomplete.css">
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/main.css">
+
   <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"> -->
   <link href="https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC&family=Mada&family=Mali&display=swap"
     rel="stylesheet">
@@ -31,7 +32,7 @@
     <!-- Add your site or application content here -->
     <input autofocus id="autoComplete" tabindex="1">
     <div class="userguide-text">
-      Search the product and company before buying any product
+      <!-- Search the product and company before buying any product -->
     </div>
     <div class="selection">
 
@@ -40,23 +41,50 @@
     <div id="preview-textfield"></div>
     <!--  Content ends here-->
     <!--  <script src="js/vendor/modernizr-3.11.2.min.js"></script>-->
+    <div class="feedbackDiv">
+      <!-- <div class="collapse" id="feedbackSection">
+        <div>
+          <form>
+            <div class="form-group">
+              <textarea id="feedbackTxt" class="feedback-textarea" rows="2" cols="50" required minlength="5"
+                maxlength="500"></textarea>
+              <button id="feedbackBtn" class="send-button" type="button" data-toggle="collapse"
+                data-target="#feedbackSection" aria-expanded="false" aria-controls="feedbackSection"
+                onclick="sendMyFeedback()">
+                Send
+              </button>
+            </div>
+          </form>
+        </div>
+        <div>
+
+        </div> -->
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdD0vqYpWpEC_UuZ6CGDYwSDTkvngu4jecaC9zerAZmW_f8vA/viewform?usp=sf_link" target="_blank">Please share your feedback</a>
+      </div>
+      <div class="feedbackSharedDiv">
+        <span>Thanks for sharing your feedback! We appreciate your contribution in the cause.</span>
+      </div>
+    </div>
     <div class="share-section">
-      <div class="share-text">Share it with your friends!</div>
+      <div class="share-text">Help us spreading the word!</div>
       <ul class="share-items">
         <li class="share-info-item">
-          <a class="share-button" target="_blank" href="https://twitter.com/intent/tweet?url=&text=Let's all come together and use https://www.indiamade.org/ to support Indian products. #BoycottChineseGoods #BoycottChineseApps">
+          <a class="share-button" target="_blank"
+            href="https://twitter.com/intent/tweet?url=&text=Let's all come together and use https://www.indiamade.org/ to support Indian products. #BoycottChineseGoods #BoycottChineseApps">
             <img src="./img/twitter.svg" alt="Twitter">
             Share on Twitter
           </a>
         </li>
         <li class="share-info-item">
-          <a class="share-button" target="_blank"  href="https://www.facebook.com/sharer/sharer.php?u=https://www.indiamade.org/">
+          <a class="share-button" target="_blank"
+            href="https://www.facebook.com/sharer/sharer.php?u=https://www.indiamade.org/">
             <img src="./img/facebook.svg" alt="Facebook">
             Share on Facebook
           </a>
         </li>
         <li class="share-info-item">
-          <a class="share-button" target="_blank" href="https://api.whatsapp.com/send?text=https://www.indiamade.org/">
+          <a class="share-button" target="_blank"
+            href="https://api.whatsapp.com/send?text=https://www.indiamade.org/">
             <img src="./img/whatsapp.svg" alt="WhatsApp">
             Share on WhatsApp
           </a>
@@ -68,50 +96,26 @@
       <ul class="faq-questions-list">
         <li class="faq-questions-list-item">
           <div class="faq-question">
-            1. Why should I use Indian apps instead of Chinese?
+            1. Will boycotting Chineses products make any dent?
           </div>
           <div class="faq-answer">
-            This idea is inspired by Sonam Wangchuk‘s video in which he encourages Indians to boycott everything Chinese
-            to take revenge for rising tensions between India and China. Using Indian apps instead of Chinese will boost
-            the business of Indian companies and, as a result, the Indian economy. Many Chinese apps are also infamous
-            for their data breaches and have been reported as spyware applications.
+            We understand that China is not dependent only on India for exporting its goods. But, certainy India gets a
+            huge share of Chinese export. Our belief is that boycotting Chinese goods shall help in 2 ways. Firstly, it
+            will encourage fellow Indians to use more native products which will in turn encourage more indiginous
+            businesses in India. Secondly, it will send a strong message to China that India is united and Indians can
+            go at any length when its about the nation.
           </div>
         </li>
         <li class="faq-questions-list-item">
           <div class="faq-question">
-            2. Some of the companies mentioned above have Chinese investors. Why are they labelled as Indian?
+            2. I am not able to find many companies/brands or products.
           </div>
           <div class="faq-answer">
-            We agree that some of the companies mentioned above have foreign investors. However, they were founded in
-            India, have an Indian workforce and are primarily based in India. </div>
+            We are continuously working on enlarging our database. So far, we haven't been able to find a good source of
+            registered companies/brands. Please provide the list of companies which are not in our database in a
+            feedback. We will find the information and update. </div>
         </li>
       </ul>
-
-    </div>
-
-
-
-    <div class="feedbackDiv">
-      <a class="btn btn-primary" data-toggle="collapse" href="#feedbackSection" role="button" aria-expanded="false"
-        aria-controls="feedbackSection">
-        Link with href
-      </a>
-
-      <div class="collapse" id="feedbackSection">
-        <div>
-          <textarea id="feedbackTxt" class="feedback-textarea" rows="2" cols="50" required minlength="5" maxlength="500"></textarea>
-        </div>
-        <div>
-          <button id="feedbackBtn" class="send-button" type="button" data-toggle="collapse"
-            data-target="#feedbackSection" aria-expanded="false" aria-controls="feedbackSection"
-            onclick="sendMyFeedback()">
-            Send
-          </button>
-        </div>
-      </div>
-    </div>
-    <div class="feedbackSharedDiv">
-      <span>Thanks for sharing your feedback! We appreciate your contribution in the cause.</span>
     </div>
   </div>
   <footer class="footer">
@@ -136,7 +140,7 @@
   <script>
     // register ServiceWorker, remember to use absolute path!
     if (navigator.serviceWorker) {
-      navigator.serviceWorker.register('/sw.js', {scope: '/'})
+      navigator.serviceWorker.register('/sw.js', { scope: '/' })
     }
     // --- Application code here ---
   </script>
