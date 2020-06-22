@@ -387,9 +387,13 @@ textarea {
 
   }
 
-  .share-text{
-    font-size: 20px;
+  .feedbackDiv {
     padding: 20px;
+  }
+
+  .share-text{
+    font-size: 25px;
+    padding: 25px;
   }
   .share-items{
     margin: 0px;
@@ -448,24 +452,24 @@ textarea {
   }
 
   .faq-questions-list-item{
-
     display: inline;
-    font-size: 13px;
+    /*font-size: 13px;*/
     /* font-weight: normal; */
     padding: 2px;
   }
 
 
   .faq-heading{
-    font-size: 20px;
+    font-size: 25px;
     padding: 5px;
   }
   .faq-question{
-    font-size: 13px;
+    /*font-size: 13px;*/
     padding: 5px;
+    font-weight: bold;
   }
   .faq-answer{
-    font-size: 13px;
+    /*font-size: 13px;*/
     padding: 5px;
     color: gray;
   }
