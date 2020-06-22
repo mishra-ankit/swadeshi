@@ -24,6 +24,7 @@ const autoCompletejs = new autoComplete({
         .querySelector("#autoComplete")
         .setAttribute("placeholder", placeholder);
       // Returns Fetched data
+      console.log("DB length -", data.length);
       return data;
     },
     key: ["name", "company"],

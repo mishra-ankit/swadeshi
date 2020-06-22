@@ -116,7 +116,7 @@ function getRating(type, origin, manufacturedIn) {
 function sendMyFeedback() {
   const message = document.querySelector("#feedbackTxt").value;
   sendFeedback(message);
-  document.getElementsByClassName("feedbackDiv")[0].style.display = "none";
+  document.getElementsByClassName("collapsible")[0].style.display = "none";
   document.getElementsByClassName("feedbackSharedDiv")[0].style.display =
     "block";
 }
@@ -137,3 +137,8 @@ function getGaugeText(color) {
       return YellowPhrases[Math.floor(Math.random() * YellowPhrases.length)];
   }
 }
+
+$(".show-collapsed").on("click", function (e) {
+  e.preventDefault();
+  $(this).closest(".collapsible").find(".collapsed").slideToggle();
+});
