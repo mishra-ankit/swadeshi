@@ -23,15 +23,15 @@ function setGaugeValue(value) {
       fractionDigits: 0,
     },
     staticZones: [
-      { strokeStyle: "#30B32D", min: 0, max: 500 }, // Green
+      { strokeStyle: "#30B32D", min: 0, max: 750 }, // Green
 
-      { strokeStyle: "#FFDD00", min: 500, max: 1000 }, // Yellow
+      { strokeStyle: "#FFA500", min: 750, max: 1500 }, // Yellow
 
-      { strokeStyle: "#FFA500", min: 1000, max: 1500 }, // Orange
+      { strokeStyle: "#FFDD00", min: 1500, max: 2250 }, // Orange
 
-      { strokeStyle: "#800020", min: 1500, max: 2000 }, // BURGUNDY
+      //{ strokeStyle: "#800020", min: 1500, max: 2000 }, // BURGUNDY
 
-      { strokeStyle: "#FF0000", min: 2000, max: 3000 }, // Red from 100 to 130
+      { strokeStyle: "#FF0000", min: 2250, max: 3000 }, // Red from 100 to 130
       // {strokeStyle: "#FFDD00", min: 220, max: 260}, //
       // {strokeStyle: "#F03E3E", min: 260, max: 300}  // Red
     ],
@@ -47,25 +47,20 @@ function setGaugeValue(value) {
   var gaugeText = " - ";
   switch (value) {
     case Color.RED:
-      demoGauge.set(2500);
-      gaugeText = "No";
+      demoGauge.set(2625);
+      gaugeText = getGaugeText(Color.RED);
       break;
-
     case Color.GREEN:
-      demoGauge.set(200);
-      gaugeText = "Yes";
+      demoGauge.set(375);
+      gaugeText = getGaugeText(Color.GREEN);
       break;
     case Color.YELLOW:
-      demoGauge.set(544);
-      gaugeText = "May be";
-      break;
-    case Color.BURGUNDY:
-      demoGauge.set(1000);
-      gaugeText = "May be";
+      demoGauge.set(1875);
+      gaugeText = getGaugeText(Color.YELLOW);
       break;
     case Color.ORANGE:
-      demoGauge.set(1500);
-      gaugeText = "May be";
+      demoGauge.set(1125);
+      gaugeText = getGaugeText(Color.ORANGE);
       break;
   }
   document.getElementById("preview-textfield").innerHTML = gaugeText;
@@ -106,49 +101,16 @@ function onItemSelected(feedback) {
 
 function getRating(type, origin, manufacturedIn) {
   if (!origin) {
-    return Color.BURGUNDY;
+    return Color.YELLOW;
   }
 
-  if (type.toLowerCase() === Type.COMPANY.toLowerCase()) {
-    if (origin.toLowerCase() === Country.INDIA.toLowerCase()) {
-      return Color.GREEN;
-    } else if (origin.toLowerCase() === Country.CHINA.toLowerCase()) {
-      return Color.RED;
-    } else {
-      return Color.YELLOW;
-    }
+  if (origin.toLowerCase() === Country.INDIA.toLowerCase()) {
+    return Color.GREEN;
+  } else if (origin.toLowerCase() === Country.CHINA.toLowerCase()) {
+    return Color.RED;
   }
 
-  if (type.toLowerCase() === Type.PRODUCT.toLowerCase()) {
-    if (
-      origin.toLowerCase() === Country.INDIA.toLowerCase() &&
-      manufacturedIn === Country.INDIA.toLowerCase()
-    ) {
-      return Color.GREEN;
-    } else if (
-      origin.toLowerCase() === Country.CHINA.toLowerCase() &&
-      manufacturedIn === Country.CHINA.toLowerCase()
-    ) {
-      return Color.RED;
-    } else if (
-      origin.toLowerCase() === Country.CHINA.toLowerCase() ||
-      manufacturedIn === Country.CHINA.toLowerCase()
-    ) {
-      return Color.ORANGE;
-    } else {
-      return Color.YELLOW;
-    }
-  }
-
-  if (type.toLowerCase() === Type.APP.toLowerCase()) {
-    if (origin.toLowerCase() === Country.INDIA.toLowerCase()) {
-      return Color.GREEN;
-    } else if (origin.toLowerCase() === Country.CHINA.toLowerCase()) {
-      return Color.RED;
-    } else {
-      return Color.YELLOW;
-    }
-  }
+  return Color.YELLOW;
 }
 
 function sendMyFeedback() {
@@ -161,4 +123,17 @@ function sendMyFeedback() {
 
 function shareMyQuery(query) {
   shareQuery(query);
+}
+
+function getGaugeText(color) {
+  switch (color) {
+    case Color.GREEN:
+      return GreenPhrases[Math.floor(Math.random() * GreenPhrases.length)];
+    case Color.RED:
+      return RedPhrases[Math.floor(Math.random() * RedPhrases.length)];
+    case Color.ORANGE:
+      return OrangePhrases[Math.floor(Math.random() * OrangePhrases.length)];
+    case Color.YELLOW:
+      return YellowPhrases[Math.floor(Math.random() * YellowPhrases.length)];
+  }
 }
