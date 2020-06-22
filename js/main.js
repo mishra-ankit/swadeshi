@@ -45,25 +45,30 @@ function setGaugeValue(value) {
   demoGauge.maxValue = 3000;
   //demoGauge.set(1844);
   var gaugeText = " - ";
+  var gaugeTextEle = document.getElementById("preview-textfield");
   switch (value) {
     case Color.RED:
       demoGauge.set(2625);
       gaugeText = getGaugeText(Color.RED);
+      gaugeTextEle.style.color = Color.RED;
       break;
     case Color.GREEN:
       demoGauge.set(375);
       gaugeText = getGaugeText(Color.GREEN);
+      gaugeTextEle.style.color = Color.GREEN;
       break;
     case Color.YELLOW:
       demoGauge.set(1875);
       gaugeText = getGaugeText(Color.YELLOW);
+      gaugeTextEle.style.color = Color.YELLOW;
       break;
     case Color.ORANGE:
       demoGauge.set(1125);
       gaugeText = getGaugeText(Color.ORANGE);
+      gaugeTextEle.style.color = Color.ORANGE;
       break;
   }
-  document.getElementById("preview-textfield").innerHTML = gaugeText;
+  gaugeTextEle.innerHTML = gaugeText;
 }
 
 function onItemSelected(feedback) {
@@ -103,7 +108,6 @@ function getRating(type, origin, manufacturedIn) {
   if (!origin) {
     return Color.YELLOW;
   }
-
   if (origin.toLowerCase() === Country.INDIA.toLowerCase()) {
     return Color.GREEN;
   } else if (origin.toLowerCase() === Country.CHINA.toLowerCase()) {
