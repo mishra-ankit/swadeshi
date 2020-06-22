@@ -110,7 +110,7 @@ function getRating(type, origin, manufacturedIn) {
     return Color.RED;
   }
 
-  return Color.YELLOW;
+  return Color.ORANGE;
 }
 
 function sendMyFeedback() {
