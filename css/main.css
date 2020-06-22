@@ -283,16 +283,9 @@ textarea {
 }
 
 .footer {
-  /* display: flex;
-  width: 100vw;
-  position: absolute;
-  bottom: 1rem;
-  color: rgb(147, 147, 147);
-  justify-content: center;
-  transition: var(--transition-1); */
   padding: 10px;
   font-size: 12px;
-  background-color: #e8e8d8;
+  background-color: #f2f2f2;
 }
 
 .no_result {
@@ -389,7 +382,8 @@ textarea {
   }
 
   .feedbackDiv {
-    padding: 20px;
+    margin-top: 25px;
+    /*padding: 20px;*/
   }
 
   .share-text{
@@ -439,8 +433,8 @@ textarea {
 }
 
   .faq-section{
-    background-color: #e8e8d8;
-    padding: 5px 20%;
+    background-color: #f2f2f2;
+    padding: 5px 10%;
     text-align: center;
     display: inline-block;
   }
@@ -462,7 +456,7 @@ textarea {
 
   .faq-heading{
     font-size: 25px;
-    padding: 5px;
+    padding: 30px 5px 5px;
   }
   .faq-question{
     /*font-size: 13px;*/
@@ -536,8 +530,4 @@ body {
 }
 .collapsed {
   display: none;
-  /* background: #f4f4f4;
-  border: 2px solid lightgrey;
-  border-top: 0;
-  padding: 15px; */
 }
