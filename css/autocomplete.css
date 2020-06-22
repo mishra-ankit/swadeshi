@@ -97,10 +97,12 @@
     width: 25rem;
     transition: all 0.1s ease-in-out;
     -webkit-transition: all -webkit-transform 0.1s ease;
+    max-height: 400px;
+    overflow: hidden auto;
   }
 
   .autoComplete_result {
-    margin: 0.15rem auto;
+    /* margin: 0.15rem auto; */
     padding: 0.6rem;
     /* max-width: 280px; */
     border: 0.05rem solid #e3e3e3;
@@ -199,6 +201,8 @@
       width: 16rem;
       transition: all 0.1s ease-in-out;
       -webkit-transition: all -webkit-transform 0.1s ease;
+      max-height: 400px;
+      overflow: hidden auto;
     }
   }
 

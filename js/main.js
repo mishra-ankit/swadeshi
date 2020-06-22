@@ -154,7 +154,7 @@ function getRating(type, origin, manufacturedIn) {
 function sendMyFeedback() {
   const message = document.querySelector("#feedbackTxt").value;
   sendFeedback(message);
-  document.getElementsByClassName("feedbackDiv")[0].style.display = "none";
+  document.getElementsByClassName("collapsible")[0].style.display = "none";
   document.getElementsByClassName("feedbackSharedDiv")[0].style.display =
     "block";
 }
@@ -162,3 +162,8 @@ function sendMyFeedback() {
 function shareMyQuery(query) {
   shareQuery(query);
 }
+
+$(".show-collapsed").on('click', function(e){
+  e.preventDefault();
+  $(this).closest('.collapsible').find('.collapsed').slideToggle();
+});
