@@ -389,6 +389,7 @@ textarea {
   }
 
   .feedbackDiv {
+    margin-top: 25px;
     padding: 20px;
   }
 
@@ -440,7 +441,7 @@ textarea {
 
   .faq-section{
     background-color: #e8e8d8;
-    padding: 5px 20%;
+    padding: 5px 10%;
     text-align: center;
     display: inline-block;
   }
