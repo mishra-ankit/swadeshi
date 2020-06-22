@@ -283,13 +283,6 @@ textarea {
 }
 
 .footer {
-  /* display: flex;
-  width: 100vw;
-  position: absolute;
-  bottom: 1rem;
-  color: rgb(147, 147, 147);
-  justify-content: center;
-  transition: var(--transition-1); */
   padding: 10px;
   font-size: 12px;
   background-color: #f2f2f2;
@@ -537,8 +530,4 @@ body {
 }
 .collapsed {
   display: none;
-  /* background: #f4f4f4;
-  border: 2px solid lightgrey;
-  border-top: 0;
-  padding: 15px; */
 }
