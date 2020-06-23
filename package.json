@@ -1,5 +1,5 @@
 {
-  "name": "IndiaMade",
+  "name": "india-made",
   "version": "0.0.1",
   "description": "",
   "keywords": "",
@@ -9,7 +9,10 @@
     "start:server": "node server/index.js",
     "start:web": "serve -l 5000",
     "dev": "concurrently \"npm run start:server\" \"npm run start:web\"",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel build index.html && copy db.json dist/db.json && npm run minify-dist-images && ren dist docs",
+    "minify-images": "imagemin img/* --out-dir img",
+    "minify-dist-images": "imagemin dist/* --out-dir dist"
   },
   "devDependencies": {
     "body-parser": "^1.19.0",
@@ -18,10 +21,12 @@
     "express": "^4.17.1",
     "helmet": "^3.23.1",
     "husky": "^4.2.3",
+    "imagemin-cli": "^6.0.0",
     "lint-staged": "^10.1.1",
     "mongodb": "^3.5.9",
     "morgan": "^1.10.0",
     "parcel-bundler": "^1.12.4",
+    "parcel-plugin-imagemin": "^4.0.1",
     "prettier": "2.0.5"
   },
   "husky": {

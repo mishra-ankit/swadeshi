@@ -17,7 +17,7 @@ const autoCompletejs = new autoComplete({
         .querySelector("#autoComplete")
         .setAttribute("placeholder", "Loading...");
       // Fetch External Data Source
-      const source = fetch("db.json")
+      return fetch("db.json")
         .then((source) => source.json())
         .then((data) => {
           // Post loading placeholder text
