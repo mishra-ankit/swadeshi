@@ -1,8 +1,13 @@
 Bugs -
-- add minified build
+- switch to minified build
 - dedupe as npm task
-- google lighthouse
 - google analytics event, input and share
+- make PR necessary for all
+
+Template -
+- add lighthouse, pre-commit
+- fix accesibility
+- social cards, metadata etc
 
 x- connect to DB
 x- add SW
