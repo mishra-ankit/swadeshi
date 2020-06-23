@@ -1,5 +1,8 @@
 Bugs -
-- Bajaj Pulsar maybe ?!!
+- add minified build
+- dedupe as npm task
+- google lighthouse
+- google analytics event, input and share
 
 x- connect to DB
 x- add SW
