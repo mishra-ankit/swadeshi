@@ -11,21 +11,23 @@ const placeholder = "Type product or brand name to check...";
 // The autoComplete.js Engine instance creator
 const autoCompletejs = new autoComplete({
   data: {
-    src: async () => {
+    src: () => {
       // Loading placeholder text
       document
         .querySelector("#autoComplete")
         .setAttribute("placeholder", "Loading...");
       // Fetch External Data Source
-      const source = await fetch("db.json");
-      const data = await source.json();
-      // Post loading placeholder text
-      document
-        .querySelector("#autoComplete")
-        .setAttribute("placeholder", placeholder);
-      // Returns Fetched data
-      console.log("DB length -", data.length);
-      return data;
+      const source = fetch("db.json")
+        .then((source) => source.json())
+        .then((data) => {
+          // Post loading placeholder text
+          document
+            .querySelector("#autoComplete")
+            .setAttribute("placeholder", placeholder);
+          // Returns Fetched data
+          console.log("DB length -", data.length);
+          return data;
+        });
     },
     key: ["name", "company"],
     cache: true,
@@ -65,7 +67,7 @@ const autoCompletejs = new autoComplete({
     document.querySelector("#autoComplete_list").appendChild(result);
     shareMyQuery(document.querySelector("#autoComplete").value);
   },
-  onSelection: onItemSelected,
+  onSelection: window.onItemSelected,
 });
 
 // Toggle results list and other elements

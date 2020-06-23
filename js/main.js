@@ -139,8 +139,3 @@ function getGaugeText(color) {
       return YellowPhrases[Math.floor(Math.random() * YellowPhrases.length)];
   }
 }
-
-$(".show-collapsed").on("click", function (e) {
-  e.preventDefault();
-  $(this).closest(".collapsible").find(".collapsed").slideToggle();
-});
