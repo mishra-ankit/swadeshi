@@ -6,6 +6,8 @@ Bugs -
 
 Template -
 - add lighthouse, pre-commit
+    - maybe some can be auto fixed ?
+        - preconnect, dns-prefetch
 - fix accesibility
 - social cards, metadata etc
 
