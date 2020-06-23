@@ -79,9 +79,7 @@ function onItemSelected(feedback) {
     `<div class="selected-item-section">
   <ul class="selected-item">
     <li class="item-info-name">
-      ` +
-    selectedObj.name +
-    `
+      Origin Country
     </li>
     <li class="item-info-name">
     -

@@ -72,23 +72,23 @@ const autoCompletejs = new autoComplete({
 const action = function (action) {
   const title = document.querySelector(".header");
   const selection = document.querySelector(".selection");
-  const guideText = document.querySelector(".userguide-text");
+  //const guideText = document.querySelector(".userguide-text");
 
   const gauge = document.querySelector("#demo");
   const gaugeText = document.querySelector("#preview-textfield");
 
   if (action === "dim") {
-    title.style.opacity = 1;
+    //title.style.opacity = 1;
     selection.style.opacity = 1;
     gauge.style.opacity = 1;
     gaugeText.style.opacity = 1;
-    guideText.style.opacity = 1;
+    //guideText.style.opacity = 1;
   } else {
-    title.style.opacity = 0.3;
+    //title.style.opacity = 0.3;
     selection.style.opacity = 0.1;
     gauge.style.opacity = 0.3;
     gaugeText.style.opacity = 0.3;
-    guideText.style.opacity = 0.3;
+    //guideText.style.opacity = 0.3;
   }
 };
 
