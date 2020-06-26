@@ -12,7 +12,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "parcel build index.html && copy db.json dist/db.json && npm run minify-dist-images && ren dist docs",
     "minify-images": "imagemin img/* --out-dir img",
-    "minify-dist-images": "imagemin dist/* --out-dir dist"
+    "minify-dist-images": "imagemin * --out-dir ./"
   },
   "devDependencies": {
     "body-parser": "^1.19.0",
