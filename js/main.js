@@ -101,6 +101,7 @@ function onItemSelected(feedback) {
   console.log("getRating", getRating(selectedObj.type, selectedObj.origin));
   setGaugeValue(getRating(selectedObj.type, selectedObj.origin));
   gtag("event", "found", {
+    event_label: selectedObj.name,
     value: selectedObj.name,
   });
 }
