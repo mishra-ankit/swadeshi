@@ -100,6 +100,9 @@ function onItemSelected(feedback) {
   document.querySelector("#autoComplete").value = selectedObj.name;
   console.log("getRating", getRating(selectedObj.type, selectedObj.origin));
   setGaugeValue(getRating(selectedObj.type, selectedObj.origin));
+  gtag("event", "found", {
+    value: selectedObj.name,
+  });
 }
 
 function getRating(type, origin, manufacturedIn) {
