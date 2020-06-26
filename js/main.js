@@ -123,9 +123,9 @@ function sendMyFeedback() {
     "block";
 }
 
-function shareMyQuery(query) {
-  shareQuery(query);
-}
+// function shareMyQuery(query) {
+//   shareQuery(query);
+// }
 
 function getGaugeText(color) {
   switch (color) {

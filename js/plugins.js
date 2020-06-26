@@ -1,9 +1,42 @@
 // autoComplete.js on typing event emitter
-document
-  .querySelector("#autoComplete")
-  .addEventListener("autoComplete", (event) => {
-    console.log(event);
-  });
+
+const throttle = (fn, wait) => {
+  let inThrottle, lastFn, lastTime;
+  return function () {
+    const context = this,
+      args = arguments;
+    if (!inThrottle) {
+      fn.apply(context, args);
+      lastTime = Date.now();
+      inThrottle = true;
+    } else {
+      clearTimeout(lastFn);
+      lastFn = setTimeout(function () {
+        if (Date.now() - lastTime >= wait) {
+          fn.apply(context, args);
+          lastTime = Date.now();
+        }
+      }, Math.max(wait - (Date.now() - lastTime), 0));
+    }
+  };
+};
+
+document.querySelector("#autoComplete").addEventListener(
+  "autoComplete",
+  throttle((e) => {
+    trackSearch(e);
+  }, 1500)
+);
+
+function trackSearch(e) {
+  const query = e.detail && e.detail.query;
+  console.log(query);
+  if (query && query.length > 2) {
+    gtag("event", "search", {
+      search_term: query,
+    });
+  }
+}
 
 // let data = null;
 const placeholder = "Type product or brand name to check...";
@@ -65,7 +98,7 @@ const autoCompletejs = new autoComplete({
     result.setAttribute("tabindex", "1");
     result.innerHTML = "No Results";
     document.querySelector("#autoComplete_list").appendChild(result);
-    shareMyQuery(document.querySelector("#autoComplete").value);
+    // shareMyQuery(document.querySelector("#autoComplete").value);
   },
   onSelection: window.onItemSelected,
 });

@@ -10,6 +10,7 @@ Template -
         - preconnect, dns-prefetch
 - fix accesibility
 - social cards, metadata etc
+- Add recaptcha
 
 x- connect to DB
 x- add SW
@@ -17,49 +18,6 @@ x- add SW
 copy(JSON.stringify(localStorage));
 
 javascript:(function(){items = document.getElementsByClassName('p13n-sc-truncated');products = Array.from(items).map((i, index) => ({name : i.textContent, href: items[index].parentNode.href}));localStorage.setItem(location.href, JSON.stringify(products));alert('saved', products.length);})();
-
-  "Yezz",
-  "WND",
-  "XCute",
-  "verykool",
-    "Unnecto",
-      "Ulefone",
-  "VK Mobile",
-    "Tel.Me.",
-        "Parla",
-      "Plum",
-      "Posh",
-      "Prestigio",
-      "QMobile",
-      "Qtek",
-      "Razer",
-        "Sendo",
-        "Sewon",
-          "Sonim",
-            "Orange",
-            "Palm",
-                  "Benefon",
-                  "Bird",
-                "Blackview",
-              "Bosch",
-                "Maxon",
-                "Maxwest",
-                "Meizu",
-                  "Modu",
-                    "MWg",
-                      "Neonode",
-                      "NIU",
-                        "Chea",
-                          "Emporia",
-                          "Energizer",
-                            "Eten",
-                              "Icemobile",
-                              "Infinix",
-                              "Innostream",
-                              "iNQ",
-                                "Kyocera",
-                                  "LeEco",
-
 
 Dup finder -
 comp = new Set();
