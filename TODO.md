@@ -42,3 +42,6 @@ t = db.map(i=>{
 }
 ).filter(Boolean);
 
+Cleanup :
+- Trim
+-  \((.*)\)", -> ", "meta" : "$1",
