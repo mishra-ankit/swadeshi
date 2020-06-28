@@ -7,6 +7,8 @@ let randomDelay = () =>
   new Promise((resolve) => setTimeout(resolve, getRandomArbitrary(500, 1000)));
 
 let calc = async (i) => {
+  if (i.value) return i;
+
   await randomDelay();
   console.log("Fetch.", i.name);
   const resp = await fetch(
