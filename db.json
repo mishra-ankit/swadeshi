@@ -12700,5 +12700,30 @@
     "origin": "India",
     "name": "TVS Jupiter",
     "source": "https://en.wikipedia.org/wiki/TVS_Jupiter"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "India",
+    "name": "Snapdeal",
+    "source": "https://en.wikipedia.org/wiki/Snapdeal"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "Singapore",
+    "name": "Likee",
+    "source": "https://en.wikipedia.org/wiki/Likee"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "Germany",
+    "name": "Volkswagen",
+    "source": "https://en.wikipedia.org/wiki/Volkswagen"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "India",
+    "name": "Maruti Suzuki",
+    "source": "https://en.wikipedia.org/wiki/Maruti_Suzuki"
   }
+
 ]
