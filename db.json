@@ -94,12 +94,12 @@
   {
     "type": "APP",
     "origin": "China",
-    "name": "MI Community "
+    "name": "MI Community"
   },
   {
     "type": "APP",
     "origin": "China",
-    "name": "MI Store "
+    "name": "MI Store"
   },
   {
     "type": "APP",
@@ -109,27 +109,27 @@
   {
     "type": "APP",
     "origin": "China",
-    "name": "Weibo "
+    "name": "Weibo"
   },
   {
     "type": "APP",
     "origin": "China",
-    "name": "UC News "
+    "name": "UC News"
   },
   {
     "type": "APP",
     "origin": "China",
-    "name": "Xender "
+    "name": "Xender"
   },
   {
     "type": "APP",
     "origin": "China",
-    "name": "LIKE "
+    "name": "LIKE"
   },
   {
     "type": "APP",
     "origin": "China",
-    "name": "SHEIN "
+    "name": "SHEIN"
   },
   {
     "type": "APP",
@@ -149,7 +149,7 @@
   {
     "type": "APP",
     "origin": "China",
-    "name": "360 Security "
+    "name": "360 Security"
   },
   {
     "type": "APP",
@@ -164,12 +164,12 @@
   {
     "type": "APP",
     "origin": "China",
-    "name": "Baidu Translate "
+    "name": "Baidu Translate"
   },
   {
     "type": "APP",
     "origin": "China",
-    "name": "ES File Explorer "
+    "name": "ES File Explorer"
   },
   {
     "type": "APP",
@@ -184,37 +184,37 @@
   {
     "type": "APP",
     "origin": "China",
-    "name": "Selfie City Cheetah "
+    "name": "Selfie City Cheetah"
   },
   {
     "type": "APP",
     "origin": "China",
-    "name": "Baidu Map "
+    "name": "Baidu Map"
   },
   {
     "type": "APP",
     "origin": "China",
-    "name": "QQ International "
+    "name": "QQ International"
   },
   {
     "type": "APP",
     "origin": "China",
-    "name": "QQ Player "
+    "name": "QQ Player"
   },
   {
     "type": "APP",
     "origin": "China",
-    "name": "QQ News Feed "
+    "name": "QQ News Feed"
   },
   {
     "type": "APP",
     "origin": "China",
-    "name": "Clash of Kings "
+    "name": "Clash of Kings"
   },
   {
     "type": "APP",
     "origin": "China",
-    "name": "MI Video Call-Xiaomi "
+    "name": "MI Video Call-Xiaomi"
   },
   {
     "type": "APP",
@@ -224,37 +224,37 @@
   {
     "type": "APP",
     "origin": "China",
-    "name": "Vault-Hide "
+    "name": "Vault-Hide"
   },
   {
     "type": "APP",
     "origin": "China",
-    "name": "Vigo Video "
+    "name": "Vigo Video"
   },
   {
     "type": "APP",
     "origin": "China",
-    "name": "We Chat "
+    "name": "We Chat"
   },
   {
     "type": "APP",
     "origin": "China",
-    "name": "UC Browser "
+    "name": "UC Browser"
   },
   {
     "type": "APP",
     "origin": "China",
-    "name": "Club Factory "
+    "name": "Club Factory"
   },
   {
     "type": "APP",
     "origin": "China",
-    "name": "KWAI "
+    "name": "KWAI"
   },
   {
     "type": "APP",
     "origin": "China",
-    "name": "News Dog "
+    "name": "News Dog"
   },
   {
     "type": "APP",
@@ -264,42 +264,42 @@
   {
     "type": "APP",
     "origin": "China",
-    "name": "Virus Cleaner (HI Security Lab) "
+    "name": "Virus Cleaner (HI Security Lab)"
   },
   {
     "type": "APP",
     "origin": "China",
-    "name": "You Cam Makeup "
+    "name": "You Cam Makeup"
   },
   {
     "type": "APP",
     "origin": "China",
-    "name": "DU Battery Saver "
+    "name": "DU Battery Saver"
   },
   {
     "type": "APP",
     "origin": "China",
-    "name": "DU Privacy "
+    "name": "DU Privacy"
   },
   {
     "type": "APP",
     "origin": "China",
-    "name": "Cache Cleaner DU apps Studio "
+    "name": "Cache Cleaner DU apps Studio"
   },
   {
     "type": "APP",
     "origin": "China",
-    "name": "Wonder Camera "
+    "name": "Wonder Camera"
   },
   {
     "type": "APP",
     "origin": "China",
-    "name": "QQ Lancher "
+    "name": "QQ Launcher"
   },
   {
     "type": "APP",
     "origin": "China",
-    "name": "QQ Music "
+    "name": "QQ Music"
   },
   {
     "type": "APP",
@@ -506,7 +506,8 @@
   {
     "type": "COMPANY",
     "origin": "China",
-    "name": "Industrial Bank (China)",
+    "name": "Industrial Bank",
+    "meta": "China",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C"
   },
   {
@@ -1418,7 +1419,7 @@
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "Arre (brand)",
+    "name": "Arre",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands"
   },
   {
@@ -1460,7 +1461,7 @@
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "Babool (brand)",
+    "name": "Babool",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands"
   },
   {
@@ -1568,7 +1569,7 @@
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "Binaca (brand)",
+    "name": "Binaca",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands"
   },
   {
@@ -1604,7 +1605,7 @@
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "Blue Star (company)",
+    "name": "Blue Star",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands"
   },
   {
@@ -1670,7 +1671,7 @@
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "Café Coffee Day",
+    "name": "Cafe Coffee Day",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands"
   },
   {
@@ -1682,7 +1683,7 @@
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "CEAT (company)",
+    "name": "CEAT",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands"
   },
   {
@@ -1724,7 +1725,7 @@
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "Cibaca (brand)",
+    "name": "Cibaca",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands"
   },
   {
@@ -1784,7 +1785,7 @@
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "Dipper (brand)",
+    "name": "Dipper",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands"
   },
   {
@@ -1850,7 +1851,8 @@
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "Epic (web browser)",
+    "name": "Epic",
+    "meta": "web browser",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands"
   },
   {
@@ -1880,7 +1882,8 @@
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "Fastrack (fashion accessories)",
+    "name": "Fastrack",
+    "meta": "fashion accessories",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands"
   },
   {
@@ -2084,7 +2087,7 @@
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "HMT (company)",
+    "name": "HMT",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands"
   },
   {
@@ -2108,7 +2111,7 @@
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "IBall (company)",
+    "name": "IBall",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands"
   },
   {
@@ -2144,13 +2147,15 @@
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "Indane (LPG)",
+    "name": "Indane",
+    "meta": "LPG",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands"
   },
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "Independent TV (India)",
+    "name": "Independent TV",
+    "meta": "India",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands"
   },
   {
@@ -2300,7 +2305,7 @@
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "KamaSutra (brand)",
+    "name": "KamaSutra",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands"
   },
   {
@@ -2348,7 +2353,8 @@
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "Kingfisher (beer)",
+    "name": "Kingfisher",
+    "meta": "beer",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands"
   },
   {
@@ -2408,7 +2414,8 @@
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "Levista (coffee)",
+    "name": "Levista",
+    "meta": "coffee",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands"
   },
   {
@@ -2456,7 +2463,8 @@
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "Luxor (pen company)",
+    "name": "Luxor",
+    "meta": "pen company",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands"
   },
   {
@@ -2528,7 +2536,8 @@
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "MDH (spice company)",
+    "name": "MDH",
+    "meta": "spice company",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands"
   },
   {
@@ -2570,7 +2579,7 @@
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "MRF (company)",
+    "name": "MRF",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands"
   },
   {
@@ -2582,7 +2591,7 @@
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "Mufti (company)",
+    "name": "Mufti",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands"
   },
   {
@@ -2726,7 +2735,7 @@
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "Parachute (brand)",
+    "name": "Parachute",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands"
   },
   {
@@ -2780,19 +2789,20 @@
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "Premier (company)",
+    "name": "Premier",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands"
   },
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "Promise (brand)",
+    "name": "Promise",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands"
   },
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "Pulse (confectionery)",
+    "name": "Pulse",
+    "meta": "confectionery",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands"
   },
   {
@@ -2870,7 +2880,8 @@
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "Royal Enfield (India)",
+    "name": "Royal Enfield",
+    "meta": "India",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands"
   },
   {
@@ -2906,13 +2917,13 @@
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "Seniority (company)",
+    "name": "Seniority",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands"
   },
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "SEVEN (brand)",
+    "name": "SEVEN",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands"
   },
   {
@@ -3026,7 +3037,7 @@
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "Sylvania (brand)",
+    "name": "Sylvania",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands"
   },
   {
@@ -3140,7 +3151,8 @@
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "Trio (Indian soft drink)",
+    "name": "Trio",
+    "meta": "Indian soft drink",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands"
   },
   {
@@ -3290,7 +3302,8 @@
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "Wheel (detergent)",
+    "name": "Wheel",
+    "meta": "detergent",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands"
   },
   {
@@ -3320,7 +3333,7 @@
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "Xolo (company)",
+    "name": "Xolo",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands"
   },
   {
@@ -3428,7 +3441,8 @@
   {
     "type": "COMPANY",
     "origin": "China",
-    "name": "Air Travel (airline)",
+    "name": "Air Travel",
+    "meta": "airline",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Chinese_brands"
   },
   {
@@ -3506,7 +3520,7 @@
   {
     "type": "COMPANY",
     "origin": "China",
-    "name": "Anker (company)",
+    "name": "Anker",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Chinese_brands"
   },
   {
@@ -3644,7 +3658,8 @@
   {
     "type": "COMPANY",
     "origin": "China",
-    "name": "Bisu (marque)",
+    "name": "Bisu",
+    "meta": "marque",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Chinese_brands"
   },
   {
@@ -3716,7 +3731,8 @@
   {
     "type": "COMPANY",
     "origin": "China",
-    "name": "Chang Jiang (motorcycle)",
+    "name": "Chang Jiang",
+    "meta": "motorcycle",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Chinese_brands"
   },
   {
@@ -4196,7 +4212,7 @@
   {
     "type": "COMPANY",
     "origin": "China",
-    "name": "Deli (company)",
+    "name": "Deli",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Chinese_brands"
   },
   {
@@ -4208,7 +4224,8 @@
   {
     "type": "COMPANY",
     "origin": "China",
-    "name": "DFSK (Sokon)",
+    "name": "DFSK",
+    "meta": "Sokon",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Chinese_brands"
   },
   {
@@ -4292,7 +4309,7 @@
   {
     "type": "COMPANY",
     "origin": "China",
-    "name": "Eno (company)",
+    "name": "Eno",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Chinese_brands"
   },
   {
@@ -4472,7 +4489,7 @@
   {
     "type": "COMPANY",
     "origin": "China",
-    "name": "Golden Dragon (company)",
+    "name": "Golden Dragon",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Chinese_brands"
   },
   {
@@ -4556,7 +4573,8 @@
   {
     "type": "COMPANY",
     "origin": "China",
-    "name": "Guoguang (Jiangxi)",
+    "name": "Guoguang",
+    "meta": "Jiangxi",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Chinese_brands"
   },
   {
@@ -4568,7 +4586,8 @@
   {
     "type": "COMPANY",
     "origin": "China",
-    "name": "GX AirlinesHacha (corporation)",
+    "name": "GX AirlinesHacha",
+    "meta": "corporation",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Chinese_brands"
   },
   {
@@ -4664,7 +4683,8 @@
   {
     "type": "COMPANY",
     "origin": "China",
-    "name": "Haval (marque)",
+    "name": "Haval",
+    "meta": "marque",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Chinese_brands"
   },
   {
@@ -4748,7 +4768,8 @@
   {
     "type": "COMPANY",
     "origin": "China",
-    "name": "Hongqi (marque)",
+    "name": "Hongqi",
+    "meta": "marque",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Chinese_brands"
   },
   {
@@ -4868,7 +4889,8 @@
   {
     "type": "COMPANY",
     "origin": "China",
-    "name": "Jetta (car marque)",
+    "name": "Jetta",
+    "meta": "car marque",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Chinese_brands"
   },
   {
@@ -4916,7 +4938,8 @@
   {
     "type": "COMPANY",
     "origin": "China",
-    "name": "Jinbei (marque)",
+    "name": "Jinbei",
+    "meta": "marque",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Chinese_brands"
   },
   {
@@ -5000,7 +5023,8 @@
   {
     "type": "COMPANY",
     "origin": "China",
-    "name": "Keep (app)",
+    "name": "Keep",
+    "meta": "app",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Chinese_brands"
   },
   {
@@ -5036,7 +5060,8 @@
   {
     "type": "COMPANY",
     "origin": "China",
-    "name": "Kispa (detergent)",
+    "name": "Kispa",
+    "meta": "detergent",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Chinese_brands"
   },
   {
@@ -5180,7 +5205,8 @@
   {
     "type": "COMPANY",
     "origin": "China",
-    "name": "Long March (rocket family)",
+    "name": "Long March",
+    "meta": "rocket family",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Chinese_brands"
   },
   {
@@ -5336,7 +5362,8 @@
   {
     "type": "COMPANY",
     "origin": "China",
-    "name": "Momchilovtsi (drink)",
+    "name": "Momchilovtsi",
+    "meta": "drink",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Chinese_brands"
   },
   {
@@ -5408,7 +5435,8 @@
   {
     "type": "COMPANY",
     "origin": "China",
-    "name": "NIO (car company)",
+    "name": "NIO",
+    "meta": "car company",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Chinese_brands"
   },
   {
@@ -5522,7 +5550,8 @@
   {
     "type": "COMPANY",
     "origin": "China",
-    "name": "Phoenix (bicycle company)",
+    "name": "Phoenix",
+    "meta": "bicycle company",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Chinese_brands"
   },
   {
@@ -5594,7 +5623,8 @@
   {
     "type": "COMPANY",
     "origin": "China",
-    "name": "Reeb (beer)",
+    "name": "Reeb",
+    "meta": "beer",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Chinese_brands"
   },
   {
@@ -5912,7 +5942,8 @@
   {
     "type": "COMPANY",
     "origin": "China",
-    "name": "Sol (car marque)",
+    "name": "Sol",
+    "meta": "car marque",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Chinese_brands"
   },
   {
@@ -6212,7 +6243,8 @@
   {
     "type": "COMPANY",
     "origin": "China",
-    "name": "Vivo (technology company)",
+    "name": "Vivo",
+    "meta": "technology company",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Chinese_brands"
   },
   {
@@ -6266,7 +6298,8 @@
   {
     "type": "COMPANY",
     "origin": "China",
-    "name": "Warrior (shoes)",
+    "name": "Warrior",
+    "meta": "shoes",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Chinese_brands"
   },
   {
@@ -6296,13 +6329,15 @@
   {
     "type": "COMPANY",
     "origin": "China",
-    "name": "Weltmeister (marque)",
+    "name": "Weltmeister",
+    "meta": "marque",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Chinese_brands"
   },
   {
     "type": "COMPANY",
     "origin": "China",
-    "name": "West Air (China)",
+    "name": "West Air",
+    "meta": "China",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Chinese_brands"
   },
   {
@@ -6314,7 +6349,8 @@
   {
     "type": "COMPANY",
     "origin": "China",
-    "name": "White Rabbit (candy)",
+    "name": "White Rabbit",
+    "meta": "candy",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Chinese_brands"
   },
   {
@@ -6350,7 +6386,7 @@
   {
     "type": "COMPANY",
     "origin": "China",
-    "name": "WuzhoulongXAG (company)",
+    "name": "WuzhoulongXAG",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Chinese_brands"
   },
   {
@@ -6734,7 +6770,8 @@
   {
     "type": "COMPANY",
     "origin": "USA",
-    "name": "Blackhawk (tools)",
+    "name": "Blackhawk",
+    "meta": "tools",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:American_brands"
   },
   {
@@ -6752,7 +6789,8 @@
   {
     "type": "COMPANY",
     "origin": "USA",
-    "name": "Boyer (candy company)",
+    "name": "Boyer",
+    "meta": "candy company",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:American_brands"
   },
   {
@@ -6764,7 +6802,7 @@
   {
     "type": "COMPANY",
     "origin": "USA",
-    "name": "Buena Vista (brand)",
+    "name": "Buena Vista",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:American_brands"
   },
   {
@@ -6866,7 +6904,8 @@
   {
     "type": "COMPANY",
     "origin": "USA",
-    "name": "Colgate (toothpaste)",
+    "name": "Colgate",
+    "meta": "toothpaste",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:American_brands"
   },
   {
@@ -6890,7 +6929,8 @@
   {
     "type": "COMPANY",
     "origin": "USA",
-    "name": "Craftsman (tools)",
+    "name": "Craftsman",
+    "meta": "tools",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:American_brands"
   },
   {
@@ -6932,7 +6972,8 @@
   {
     "type": "COMPANY",
     "origin": "USA",
-    "name": "DeSoto (automobile)",
+    "name": "DeSoto",
+    "meta": "automobile",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:American_brands"
   },
   {
@@ -6956,7 +6997,7 @@
   {
     "type": "COMPANY",
     "origin": "USA",
-    "name": "DieHard (brand)",
+    "name": "DieHard",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:American_brands"
   },
   {
@@ -6974,7 +7015,8 @@
   {
     "type": "COMPANY",
     "origin": "USA",
-    "name": "Donald Duck (orange juice)",
+    "name": "Donald Duck",
+    "meta": "orange juice",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:American_brands"
   },
   {
@@ -7010,7 +7052,8 @@
   {
     "type": "COMPANY",
     "origin": "USA",
-    "name": "Eagle (automobile)",
+    "name": "Eagle",
+    "meta": "automobile",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:American_brands"
   },
   {
@@ -7052,7 +7095,8 @@
   {
     "type": "COMPANY",
     "origin": "USA",
-    "name": "Elijah Craig (bourbon)",
+    "name": "Elijah Craig",
+    "meta": "bourbon",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:American_brands"
   },
   {
@@ -7088,7 +7132,8 @@
   {
     "type": "COMPANY",
     "origin": "USA",
-    "name": "Evan Williams (bourbon)",
+    "name": "Evan Williams",
+    "meta": "bourbon",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:American_brands"
   },
   {
@@ -7124,7 +7169,8 @@
   {
     "type": "COMPANY",
     "origin": "USA",
-    "name": "Fighting Cock (bourbon)",
+    "name": "Fighting Cock",
+    "meta": "bourbon",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:American_brands"
   },
   {
@@ -7148,7 +7194,7 @@
   {
     "type": "COMPANY",
     "origin": "USA",
-    "name": "FRAM (brand)",
+    "name": "FRAM",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:American_brands"
   },
   {
@@ -7172,7 +7218,7 @@
   {
     "type": "COMPANY",
     "origin": "USA",
-    "name": "Gerry (company)",
+    "name": "Gerry",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:American_brands"
   },
   {
@@ -7190,7 +7236,8 @@
   {
     "type": "COMPANY",
     "origin": "USA",
-    "name": "Glidden (paints)",
+    "name": "Glidden",
+    "meta": "paints",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:American_brands"
   },
   {
@@ -7208,7 +7255,7 @@
   {
     "type": "COMPANY",
     "origin": "USA",
-    "name": "Goody (brand)",
+    "name": "Goody",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:American_brands"
   },
   {
@@ -7226,7 +7273,8 @@
   {
     "type": "COMPANY",
     "origin": "USA",
-    "name": "Graco (fluid handling)",
+    "name": "Graco",
+    "meta": "fluid handling",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:American_brands"
   },
   {
@@ -7250,7 +7298,8 @@
   {
     "type": "COMPANY",
     "origin": "USA",
-    "name": "Guardian IndustriesHaerfest (fashion brand)",
+    "name": "Guardian IndustriesHaerfest",
+    "meta": "fashion brand",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:American_brands"
   },
   {
@@ -7430,7 +7479,7 @@
   {
     "type": "COMPANY",
     "origin": "USA",
-    "name": "Kenmore (brand)",
+    "name": "Kenmore",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:American_brands"
   },
   {
@@ -7526,7 +7575,8 @@
   {
     "type": "COMPANY",
     "origin": "USA",
-    "name": "Lithia (water brand)",
+    "name": "Lithia",
+    "meta": "water brand",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:American_brands"
   },
   {
@@ -7538,7 +7588,7 @@
   {
     "type": "COMPANY",
     "origin": "USA",
-    "name": "London Fog (company)",
+    "name": "London Fog",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:American_brands"
   },
   {
@@ -7616,7 +7666,8 @@
   {
     "type": "COMPANY",
     "origin": "USA",
-    "name": "Mercury (automobile)",
+    "name": "Mercury",
+    "meta": "automobile",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:American_brands"
   },
   {
@@ -7634,7 +7685,8 @@
   {
     "type": "COMPANY",
     "origin": "USA",
-    "name": "Milky Way (chocolate bar)",
+    "name": "Milky Way",
+    "meta": "chocolate bar",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:American_brands"
   },
   {
@@ -7670,7 +7722,7 @@
   {
     "type": "COMPANY",
     "origin": "USA",
-    "name": "Munchkin (company)",
+    "name": "Munchkin",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:American_brands"
   },
   {
@@ -7712,7 +7764,7 @@
   {
     "type": "COMPANY",
     "origin": "USA",
-    "name": "Novara (company)",
+    "name": "Novara",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:American_brands"
   },
   {
@@ -7730,7 +7782,8 @@
   {
     "type": "COMPANY",
     "origin": "USA",
-    "name": "NYC CondomOcean Spray (cooperative)",
+    "name": "NYC CondomOcean Spray",
+    "meta": "cooperative",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:American_brands"
   },
   {
@@ -7790,7 +7843,7 @@
   {
     "type": "COMPANY",
     "origin": "USA",
-    "name": "Palmolive (brand)",
+    "name": "Palmolive",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:American_brands"
   },
   {
@@ -7808,7 +7861,8 @@
   {
     "type": "COMPANY",
     "origin": "USA",
-    "name": "Peak (automotive products)",
+    "name": "Peak",
+    "meta": "automotive products",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:American_brands"
   },
   {
@@ -7850,13 +7904,15 @@
   {
     "type": "COMPANY",
     "origin": "USA",
-    "name": "Plymouth (automobile)",
+    "name": "Plymouth",
+    "meta": "automobile",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:American_brands"
   },
   {
     "type": "COMPANY",
     "origin": "USA",
-    "name": "Popov (vodka)",
+    "name": "Popov",
+    "meta": "vodka",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:American_brands"
   },
   {
@@ -7886,7 +7942,7 @@
   {
     "type": "COMPANY",
     "origin": "USA",
-    "name": "Pur (brand)",
+    "name": "Pur",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:American_brands"
   },
   {
@@ -7904,7 +7960,8 @@
   {
     "type": "COMPANY",
     "origin": "USA",
-    "name": "PyrexRaid (insecticide)",
+    "name": "PyrexRaid",
+    "meta": "insecticide",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:American_brands"
   },
   {
@@ -7916,13 +7973,14 @@
   {
     "type": "COMPANY",
     "origin": "USA",
-    "name": "Reach (brand)",
+    "name": "Reach",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:American_brands"
   },
   {
     "type": "COMPANY",
     "origin": "USA",
-    "name": "Rebel Yell (bourbon)",
+    "name": "Rebel Yell",
+    "meta": "bourbon",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:American_brands"
   },
   {
@@ -7952,13 +8010,15 @@
   {
     "type": "COMPANY",
     "origin": "USA",
-    "name": "Remington (personal care brand)",
+    "name": "Remington",
+    "meta": "personal care brand",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:American_brands"
   },
   {
     "type": "COMPANY",
     "origin": "USA",
-    "name": "Rhythm (liqueur)",
+    "name": "Rhythm",
+    "meta": "liqueur",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:American_brands"
   },
   {
@@ -7982,7 +8042,7 @@
   {
     "type": "COMPANY",
     "origin": "USA",
-    "name": "Riverside (brand)",
+    "name": "Riverside",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:American_brands"
   },
   {
@@ -8036,7 +8096,8 @@
   {
     "type": "COMPANY",
     "origin": "USA",
-    "name": "Schick (razors)",
+    "name": "Schick",
+    "meta": "razors",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:American_brands"
   },
   {
@@ -8066,7 +8127,8 @@
   {
     "type": "COMPANY",
     "origin": "USA",
-    "name": "Shinola (retail company)",
+    "name": "Shinola",
+    "meta": "retail company",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:American_brands"
   },
   {
@@ -8126,7 +8188,8 @@
   {
     "type": "COMPANY",
     "origin": "USA",
-    "name": "Spam (food)",
+    "name": "Spam",
+    "meta": "food",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:American_brands"
   },
   {
@@ -8174,7 +8237,8 @@
   {
     "type": "COMPANY",
     "origin": "USA",
-    "name": "Todd Thomas (designer)",
+    "name": "Todd Thomas",
+    "meta": "designer",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:American_brands"
   },
   {
@@ -8204,7 +8268,8 @@
   {
     "type": "COMPANY",
     "origin": "USA",
-    "name": "Toastmaster (appliances)",
+    "name": "Toastmaster",
+    "meta": "appliances",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:American_brands"
   },
   {
@@ -8252,7 +8317,7 @@
   {
     "type": "COMPANY",
     "origin": "USA",
-    "name": "Trojan (brand)",
+    "name": "Trojan",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:American_brands"
   },
   {
@@ -8342,7 +8407,7 @@
   {
     "type": "COMPANY",
     "origin": "USA",
-    "name": "Wet 'n Wild (brand)",
+    "name": "Wet 'n Wild",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:American_brands"
   },
   {
@@ -8372,7 +8437,7 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "Access (company)",
+    "name": "Access",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -8390,7 +8455,7 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "AEON (company)",
+    "name": "AEON",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -8468,7 +8533,8 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "Alba (watch)",
+    "name": "Alba",
+    "meta": "watch",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -8546,7 +8612,7 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "AOR (company)",
+    "name": "AOR",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -8558,7 +8624,8 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "Aria (guitar company)",
+    "name": "Aria",
+    "meta": "guitar company",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -8588,7 +8655,8 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "Au (mobile phone company)",
+    "name": "Au",
+    "meta": "mobile phone company",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -8714,7 +8782,7 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "Clarion (company)",
+    "name": "Clarion",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -8792,7 +8860,7 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "Daifuku (company)",
+    "name": "Daifuku",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -8846,7 +8914,7 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "Denka (company)",
+    "name": "Denka",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -8912,7 +8980,8 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "Don Quijote (store)",
+    "name": "Don Quijote",
+    "meta": "store",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -8966,7 +9035,7 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "Eisai (company)",
+    "name": "Eisai",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -8996,7 +9065,7 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "Elmo (company)",
+    "name": "Elmo",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -9164,7 +9233,7 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "Fuso (company)",
+    "name": "Fuso",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -9194,7 +9263,8 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "Global (cutlery)",
+    "name": "Global",
+    "meta": "cutlery",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -9206,7 +9276,7 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "Gosen (company)",
+    "name": "Gosen",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -9218,7 +9288,7 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "GRE (company)",
+    "name": "GRE",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -9242,7 +9312,8 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "GU (retailer)",
+    "name": "GU",
+    "meta": "retailer",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -9302,7 +9373,7 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "Hatena (company)",
+    "name": "Hatena",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -9350,7 +9421,7 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "HKS (company)",
+    "name": "HKS",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -9446,7 +9517,7 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "Iiyama (company)",
+    "name": "Iiyama",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -9458,7 +9529,7 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "Imperial Hotel (company)",
+    "name": "Imperial Hotel",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -9524,13 +9595,14 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "Ishida (company)",
+    "name": "Ishida",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "Ispace (Japanese company)",
+    "name": "Ispace",
+    "meta": "Japanese company",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -9614,7 +9686,8 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "Jintan (Japanese medicine)",
+    "name": "Jintan",
+    "meta": "Japanese medicine",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -9704,7 +9777,8 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "Kawasaki (bicycle brand)",
+    "name": "Kawasaki",
+    "meta": "bicycle brand",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -9740,7 +9814,7 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "Kenko (company)",
+    "name": "Kenko",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -9806,7 +9880,8 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "Kissui (vodka)",
+    "name": "Kissui",
+    "meta": "vodka",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -9920,7 +9995,8 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "Kuretake (art products)",
+    "name": "Kuretake",
+    "meta": "art products",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -9932,7 +10008,8 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "Kuwahara (bicycle company)",
+    "name": "Kuwahara",
+    "meta": "bicycle company",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -9944,7 +10021,8 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "KyukyodoLawson (store)",
+    "name": "KyukyodoLawson",
+    "meta": "store",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -10022,13 +10100,13 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "Maruya (company)",
+    "name": "Maruya",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "Marvelous (company)",
+    "name": "Marvelous",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -10094,7 +10172,8 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "Midori (liqueur)",
+    "name": "Midori",
+    "meta": "liqueur",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -10118,7 +10197,7 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "Mikuni (company)",
+    "name": "Mikuni",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -10382,7 +10461,7 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "National (brand)",
+    "name": "National",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -10478,7 +10557,7 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "Nikō (company)",
+    "name": "Nikō",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -10604,7 +10683,8 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "Nishiki (bicycle company)",
+    "name": "Nishiki",
+    "meta": "bicycle company",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -10742,7 +10822,8 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "OKI (conglomerate company)",
+    "name": "OKI",
+    "meta": "conglomerate company",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -10832,13 +10913,14 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "Panasonic (brand)",
+    "name": "Panasonic",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "Parco (retailer)",
+    "name": "Parco",
+    "meta": "retailer",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -10886,7 +10968,8 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "Pilot (pen company)",
+    "name": "Pilot",
+    "meta": "pen company",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -10904,7 +10987,8 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "PlayStation (console)",
+    "name": "PlayStation",
+    "meta": "console",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -10982,7 +11066,7 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "Recruit (company)",
+    "name": "Recruit",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -11246,7 +11330,7 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "Shibaura (company)",
+    "name": "Shibaura",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -11516,7 +11600,8 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "Swans (eyewear)",
+    "name": "Swans",
+    "meta": "eyewear",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -11576,7 +11661,8 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "Takamine (guitar manufacturer)",
+    "name": "Takamine",
+    "meta": "guitar manufacturer",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -11660,7 +11746,7 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "Technics (brand)",
+    "name": "Technics",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -11690,7 +11776,7 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "THK (company)",
+    "name": "THK",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -11810,7 +11896,7 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "Top Secret (company)",
+    "name": "Top Secret",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -11888,7 +11974,8 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "Trails (series)",
+    "name": "Trails",
+    "meta": "series",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -11936,7 +12023,8 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "Uirō (Japanese medicine)",
+    "name": "Uirō",
+    "meta": "Japanese medicine",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -12008,7 +12096,7 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "Work WheelsXactiYaesu (brand)",
+    "name": "Work WheelsXactiYaesu",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -12164,7 +12252,8 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "YuyamaZebra (pen manufacturer)",
+    "name": "YuyamaZebra",
+    "meta": "pen manufacturer",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
   },
   {
@@ -12700,12 +12789,6 @@
     "origin": "India",
     "name": "TVS Jupiter",
     "source": "https://en.wikipedia.org/wiki/TVS_Jupiter"
-  },
-  {
-    "type": "COMPANY",
-    "origin": "India",
-    "name": "Snapdeal",
-    "source": "https://en.wikipedia.org/wiki/Snapdeal"
   },
   {
     "type": "COMPANY",
