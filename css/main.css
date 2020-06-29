@@ -332,12 +332,6 @@ textarea {
   }
 }
 
-
-  #preview-textfield{
-    font-size: 30px;
-    padding: 10px;
-  }
-
   .userguide-text{
     padding: 28px;
     font-size: 23px;
@@ -419,8 +413,6 @@ textarea {
   }
 
   .share-text{
-    font-size: 25px;
-    padding: 10px;
   }
   .share-items{
     margin: 0px;
@@ -485,10 +477,12 @@ textarea {
     padding: 2px;
   }
 
+  .heading {
+    font-size: 25px;
+    padding: 8px;
+  }
 
   .faq-heading{
-    font-size: 25px;
-    padding: 30px 5px 5px;
   }
   .faq-question{
     /*font-size: 13px;*/
@@ -561,5 +555,13 @@ body {
   padding: 5px;
 }
 .collapsed {
+  display: none;
+}
+
+.note {
+  color: #a1a1a1;
+}
+
+#work-in-progress {
   display: none;
 }

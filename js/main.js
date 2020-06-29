@@ -5,9 +5,6 @@ function setGaugeValue(value) {
   const target = document.getElementById("demo");
   const demoGauge = new Gauge(target).setOptions(opts);
 
-  document.getElementById("preview-textfield").className = "preview-textfield";
-  //demoGauge.setTextField(document.getElementById("preview-textfield"));
-
   opts = {
     angle: 0,
     lineWidth: 0.5,
@@ -46,6 +43,8 @@ function setGaugeValue(value) {
   //demoGauge.set(1844);
   var gaugeText = " - ";
   var gaugeTextEle = document.getElementById("preview-textfield");
+  var wipDiv = document.getElementById("work-in-progress");
+  wipDiv.style.display = "None";
   switch (value) {
     case Color.RED:
       demoGauge.set(2625);
@@ -56,6 +55,7 @@ function setGaugeValue(value) {
       demoGauge.set(375);
       gaugeText = getGaugeText(Color.GREEN);
       gaugeTextEle.style.color = Color.GREEN;
+      wipDiv.style.display = "block";
       break;
     case Color.YELLOW:
       demoGauge.set(1875);
@@ -98,7 +98,6 @@ function onItemSelected(feedback) {
 
   // Clear Input
   document.querySelector("#autoComplete").value = selectedObj.name;
-  console.log("getRating", getRating(selectedObj.type, selectedObj.origin));
   setGaugeValue(getRating(selectedObj.type, selectedObj.origin));
   gtag("event", "found", {
     event_label: selectedObj.name,

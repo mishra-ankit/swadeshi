@@ -45,3 +45,9 @@ t = db.map(i=>{
 Cleanup :
 - Trim
 -  \((.*)\)", -> ", "meta" : "$1",
+
+// Github link
+// Icon in autosuggestion/result
+// Browse all
+// Investment
+// Footnote/Source/event on not found
