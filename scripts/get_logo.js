@@ -16,7 +16,8 @@ let getLogo = async (i) => {
   await randomDelay();
   console.log("Fetch -", i.name);
   const resp = await fetch(
-    "https://autocomplete.clearbit.com/v1/companies/suggest?query=" + encodeURI(i.name),
+    "https://autocomplete.clearbit.com/v1/companies/suggest?query=" +
+      encodeURI(i.name),
     {
       referrer: "https://clearbit.com/logo",
       referrerPolicy: "unsafe-url",
@@ -25,9 +26,11 @@ let getLogo = async (i) => {
       mode: "cors",
       credentials: "omit",
     }
-  ).then(response => {
+  ).then((response) => {
     if (response.status !== 200) {
-      throw new Error("Request failed. " + i.name);
+      throw new Error(
+        "Request failed - " + i.name + " Status" + response.status
+      );
     }
     return response.json();
   });
@@ -47,7 +50,11 @@ let asyncFunc = async () => {
   for (let item of db) {
     let result = item;
     if (!item.value) {
-      result = await getLogo(item);
+      try {
+        result = await getLogo(item);
+      } catch (e) {
+        console.error(e);
+      }
     } else {
       console.log("Skip -", item.name);
     }
@@ -56,22 +63,27 @@ let asyncFunc = async () => {
   console.log("All logos fetched.", db.length);
   // Check if length and order is maintained.
   if (results.length !== db.length || results[0].name !== db[0].name) {
-    throw new Error("FAILED : Result and input mismatch, please check the script.");
+    throw new Error(
+      "FAILED : Result and input mismatch, please check the script."
+    );
   } else {
-    fs.writeFile("db.json", JSON.stringify(results,null, 2), (err) => {
+    fs.writeFile("db.json", JSON.stringify(results, null, 2), (err) => {
       if (err) {
         console.error(err);
         return;
       }
       console.log("File has been updated");
       const resultLogo = results.filter(logoFilter);
-      console.log("New logo added:", resultLogo.length - db.filter(logoFilter).length);
+      console.log(
+        "New logo added:",
+        resultLogo.length - db.filter(logoFilter).length
+      );
       console.log("Total logo:", resultLogo.length);
       console.log("Logo missing:", results.length - resultLogo.length);
     });
   }
 };
 
-const logoFilter = (i => i.value);
+const logoFilter = (i) => i.value;
 
 asyncFunc();
