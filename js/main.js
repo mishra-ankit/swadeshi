@@ -96,7 +96,6 @@ function onItemSelected(feedback) {
   </div>
 </div>`;
 
-  // Clear Input
   document.querySelector("#autoComplete").value = selectedObj.name;
   setGaugeValue(getRating(selectedObj.type, selectedObj.origin));
   gtag("event", "found", {
