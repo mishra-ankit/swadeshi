@@ -48,19 +48,19 @@ let results = [];
 
 let asyncFunc = async () => {
   for (let item of db) {
-    let result = item;
-    if (!item.value) {
+    let result = Object.assign({},item);
+    if (!result.value) {
       try {
-        result = await getLogo(item);
+        result = await getLogo(result);
       } catch (e) {
         console.error(e);
       }
     } else {
-      console.log("Skip -", item.name);
+      console.log("Skip -", result.name);
     }
     results.push(result);
   }
-  console.log("All logos fetched.", db.length);
+  console.log("All logos fetched");
   // Check if length and order is maintained.
   if (results.length !== db.length || results[0].name !== db[0].name) {
     throw new Error(
