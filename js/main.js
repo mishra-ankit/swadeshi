@@ -77,25 +77,20 @@ function onItemSelected(feedback) {
   // Render selected choice to selection div
   document.querySelector(".selection").innerHTML =
     `<div class="selected-item-section">
-  <ul class="selected-item">
-    <li class="item-info-name">
-      Origin Country
-    </li>
-    <li class="item-info-name">
-    -
-    </li>
-    <li class="item-info-origin">
-    ` +
+          <div class="selected-item">
+            <div class="selected-item-text">Origin Country - </div>
+            <div class="selected-country-section">
+              <div class="selected-country-name" id="selected-country-name"></div>
+              (<a target="_blank" id="selected-country-source">source</a>)
+            </div>
+          </div>
+          <div class="item-info-` +
     selectedObj.origin +
-    `
-    </li>
-  </ul>
-  <div class="item-info-` +
-    selectedObj.origin +
-    `">
-  </div>
-</div>`;
-
+    `"></div>
+        </div>`;
+  document.querySelector("#selected-country-name").innerText =
+    selectedObj.origin;
+  document.querySelector("#selected-country-source").href = selectedObj.source;
   document.querySelector("#autoComplete").value = selectedObj.name;
   setGaugeValue(getRating(selectedObj.type, selectedObj.origin));
   gtag("event", "found", {

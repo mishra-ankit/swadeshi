@@ -289,7 +289,7 @@ textarea {
     font-size: 0.5rem;
     font-weight: bold;
     transition: var(--transition-1);
-    padding: 10px;
+    padding-bottom: 8px;
 }
 
 .footer {
@@ -359,16 +359,22 @@ textarea {
     padding-right: 10px;
 }
 
-.item-info-name {
-    display: inline;
+.selected-country-section {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.selected-item-text {
+    vertical-align: top;
+    display: inline-block;
     font-size: 20px;
     /* font-weight: normal; */
     padding: 2px;
     color: #a1a1a1
 }
 
-.item-info-origin {
-    display: inline;
+.selected-country-name {
+    display: inline-block;
     font-size: 20px;
     /* font-weight: normal; */
     padding: 2px;
