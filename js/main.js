@@ -5,9 +5,6 @@ function setGaugeValue(value) {
   const target = document.getElementById("demo");
   const demoGauge = new Gauge(target).setOptions(opts);
 
-  document.getElementById("preview-textfield").className = "preview-textfield";
-  //demoGauge.setTextField(document.getElementById("preview-textfield"));
-
   opts = {
     angle: 0,
     lineWidth: 0.5,
@@ -46,6 +43,8 @@ function setGaugeValue(value) {
   //demoGauge.set(1844);
   var gaugeText = " - ";
   var gaugeTextEle = document.getElementById("preview-textfield");
+  var wipDiv = document.getElementById("work-in-progress");
+  wipDiv.style.display = "None";
   switch (value) {
     case Color.RED:
       demoGauge.set(2625);
@@ -56,6 +55,7 @@ function setGaugeValue(value) {
       demoGauge.set(375);
       gaugeText = getGaugeText(Color.GREEN);
       gaugeTextEle.style.color = Color.GREEN;
+      wipDiv.style.display = "block";
       break;
     case Color.YELLOW:
       demoGauge.set(1875);
@@ -77,28 +77,21 @@ function onItemSelected(feedback) {
   // Render selected choice to selection div
   document.querySelector(".selection").innerHTML =
     `<div class="selected-item-section">
-  <ul class="selected-item">
-    <li class="item-info-name">
-      Origin Country
-    </li>
-    <li class="item-info-name">
-    -
-    </li>
-    <li class="item-info-origin">
-    ` +
+          <div class="selected-item">
+            <div class="selected-item-text">Origin Country - </div>
+            <div class="selected-country-section">
+              <div class="selected-country-name" id="selected-country-name"></div>
+              (<a target="_blank" id="selected-country-source">source</a>)
+            </div>
+          </div>
+          <div class="item-info-` +
     selectedObj.origin +
-    `
-    </li>
-  </ul>
-  <div class="item-info-` +
-    selectedObj.origin +
-    `">
-  </div>
-</div>`;
-
-  // Clear Input
+    `"></div>
+        </div>`;
+  document.querySelector("#selected-country-name").innerText =
+    selectedObj.origin;
+  document.querySelector("#selected-country-source").href = selectedObj.source;
   document.querySelector("#autoComplete").value = selectedObj.name;
-  console.log("getRating", getRating(selectedObj.type, selectedObj.origin));
   setGaugeValue(getRating(selectedObj.type, selectedObj.origin));
   gtag("event", "found", {
     event_label: selectedObj.name,

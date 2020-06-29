@@ -28,6 +28,13 @@ document.querySelector("#autoComplete").addEventListener(
   }, 1500)
 );
 
+document
+  .querySelector("#autoComplete")
+  .addEventListener(
+    "click",
+    () => (document.querySelector("#autoComplete").value = "")
+  );
+
 function trackSearch(e) {
   const query = e.detail && e.detail.query;
   console.log(query);
