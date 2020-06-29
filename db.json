@@ -3001,17 +3001,6 @@
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "IBall",
-    "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands",
-    "value": {
-      "name": "iBall",
-      "domain": "iball.co.in",
-      "logo": "https://logo.clearbit.com/iball.co.in"
-    }
-  },
-  {
-    "type": "COMPANY",
-    "origin": "India",
     "name": "ICICI Bank",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands",
     "value": {
@@ -4713,17 +4702,6 @@
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "Xolo",
-    "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands",
-    "value": {
-      "name": "Xolo",
-      "domain": "xolo.io",
-      "logo": "https://logo.clearbit.com/xolo.io"
-    }
-  },
-  {
-    "type": "COMPANY",
-    "origin": "India",
     "name": "Yepme",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands"
   },
@@ -5596,12 +5574,6 @@
     "type": "COMPANY",
     "origin": "China",
     "name": "CloudWalk Technology",
-    "source": "https://en.wikipedia.org/w/index.php?title=Category:Chinese_brands"
-  },
-  {
-    "type": "COMPANY",
-    "origin": "China",
-    "name": "Club Factory",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Chinese_brands"
   },
   {
@@ -8239,18 +8211,6 @@
     "origin": "China",
     "name": "Vinda International",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Chinese_brands"
-  },
-  {
-    "type": "COMPANY",
-    "origin": "China",
-    "name": "Vivo",
-    "meta": "technology company",
-    "source": "https://en.wikipedia.org/w/index.php?title=Category:Chinese_brands",
-    "value": {
-      "name": "Vivo",
-      "domain": "vivo.com.br",
-      "logo": "https://logo.clearbit.com/vivo.com.br"
-    }
   },
   {
     "type": "COMPANY",
@@ -14343,17 +14303,6 @@
   {
     "type": "COMPANY",
     "origin": "Japan",
-    "name": "Panasonic",
-    "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands",
-    "value": {
-      "name": "Panasonic",
-      "domain": "panasonic.com",
-      "logo": "https://logo.clearbit.com/panasonic.com"
-    }
-  },
-  {
-    "type": "COMPANY",
-    "origin": "Japan",
     "name": "Parco",
     "meta": "retailer",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
@@ -14449,17 +14398,6 @@
     "origin": "Japan",
     "name": "PlayStation",
     "meta": "console",
-    "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands",
-    "value": {
-      "name": "PlayStation",
-      "domain": "playstation.com",
-      "logo": "https://logo.clearbit.com/playstation.com"
-    }
-  },
-  {
-    "type": "COMPANY",
-    "origin": "Japan",
-    "name": "PlayStation",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands",
     "value": {
       "name": "PlayStation",
@@ -16166,17 +16104,6 @@
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "Cafe Coffee Day",
-    "source": "https://en.wikipedia.org/wiki/List_of_food_companies",
-    "value": {
-      "name": "Cafe Coffee Day",
-      "domain": "cafecoffeeday.com",
-      "logo": "https://logo.clearbit.com/cafecoffeeday.com"
-    }
-  },
-  {
-    "type": "COMPANY",
-    "origin": "India",
     "name": "Candico",
     "source": "https://en.wikipedia.org/wiki/List_of_food_companies"
   },
@@ -16454,12 +16381,6 @@
     "type": "COMPANY",
     "origin": "India",
     "name": "Reva",
-    "source": "https://en.wikipedia.org/wiki/List_of_automobile_manufacturers_of_India"
-  },
-  {
-    "type": "COMPANY",
-    "origin": "India",
-    "name": "Premier",
     "source": "https://en.wikipedia.org/wiki/List_of_automobile_manufacturers_of_India"
   },
   {
@@ -16756,12 +16677,6 @@
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "TATA Group",
-    "source": "https://brandirectory.com/rankings/india/table"
-  },
-  {
-    "type": "COMPANY",
-    "origin": "India",
     "name": "LIC",
     "source": "https://brandirectory.com/rankings/india/table"
   },
@@ -16774,25 +16689,7 @@
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "Infosys",
-    "source": "https://brandirectory.com/rankings/india/table"
-  },
-  {
-    "type": "COMPANY",
-    "origin": "India",
     "name": "State Bank of India",
-    "source": "https://brandirectory.com/rankings/india/table"
-  },
-  {
-    "type": "COMPANY",
-    "origin": "India",
-    "name": "HDFC Bank",
-    "source": "https://brandirectory.com/rankings/india/table"
-  },
-  {
-    "type": "COMPANY",
-    "origin": "India",
-    "name": "Mahindra Group",
     "source": "https://brandirectory.com/rankings/india/table"
   },
   {
@@ -16816,30 +16713,6 @@
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "Wipro",
-    "source": "https://brandirectory.com/rankings/india/table"
-  },
-  {
-    "type": "COMPANY",
-    "origin": "India",
-    "name": "Larsen & Toubro",
-    "source": "https://brandirectory.com/rankings/india/table"
-  },
-  {
-    "type": "COMPANY",
-    "origin": "India",
-    "name": "Jio",
-    "source": "https://brandirectory.com/rankings/india/table"
-  },
-  {
-    "type": "COMPANY",
-    "origin": "India",
-    "name": "Amul",
-    "source": "https://brandirectory.com/rankings/india/table"
-  },
-  {
-    "type": "COMPANY",
-    "origin": "India",
     "name": "Gold Flake",
     "source": "https://brandirectory.com/rankings/india/table"
   },
@@ -16852,43 +16725,7 @@
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "ICICI Bank",
-    "source": "https://brandirectory.com/rankings/india/table"
-  },
-  {
-    "type": "COMPANY",
-    "origin": "India",
-    "name": "Bharat Petroleum",
-    "source": "https://brandirectory.com/rankings/india/table"
-  },
-  {
-    "type": "COMPANY",
-    "origin": "India",
-    "name": "Maruti Suzuki",
-    "source": "https://brandirectory.com/rankings/india/table"
-  },
-  {
-    "type": "COMPANY",
-    "origin": "India",
     "name": "Bajaj Group",
-    "source": "https://brandirectory.com/rankings/india/table"
-  },
-  {
-    "type": "COMPANY",
-    "origin": "India",
-    "name": "Hindustan Petroleum",
-    "source": "https://brandirectory.com/rankings/india/table"
-  },
-  {
-    "type": "COMPANY",
-    "origin": "India",
-    "name": "Tanishq",
-    "source": "https://brandirectory.com/rankings/india/table"
-  },
-  {
-    "type": "COMPANY",
-    "origin": "India",
-    "name": "Axis Bank",
     "source": "https://brandirectory.com/rankings/india/table"
   },
   {
@@ -16906,19 +16743,7 @@
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "Asian Paints",
-    "source": "https://brandirectory.com/rankings/india/table"
-  },
-  {
-    "type": "COMPANY",
-    "origin": "India",
     "name": "Hero",
-    "source": "https://brandirectory.com/rankings/india/table"
-  },
-  {
-    "type": "COMPANY",
-    "origin": "India",
-    "name": "Godrej Group",
     "source": "https://brandirectory.com/rankings/india/table"
   },
   {
@@ -16948,18 +16773,6 @@
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "Kingfisher",
-    "source": "https://brandirectory.com/rankings/india/table"
-  },
-  {
-    "type": "COMPANY",
-    "origin": "India",
-    "name": "Bank Of Baroda",
-    "source": "https://brandirectory.com/rankings/india/table"
-  },
-  {
-    "type": "COMPANY",
-    "origin": "India",
     "name": "JSW Group",
     "source": "https://brandirectory.com/rankings/india/table"
   },
@@ -16972,19 +16785,7 @@
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "Idea Cellular",
-    "source": "https://brandirectory.com/rankings/india/table"
-  },
-  {
-    "type": "COMPANY",
-    "origin": "India",
     "name": "Vedanta Resources",
-    "source": "https://brandirectory.com/rankings/india/table"
-  },
-  {
-    "type": "COMPANY",
-    "origin": "India",
-    "name": "Ashok Leyland",
     "source": "https://brandirectory.com/rankings/india/table"
   },
   {
@@ -17002,19 +16803,7 @@
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "Flipkart",
-    "source": "https://brandirectory.com/rankings/india/table"
-  },
-  {
-    "type": "COMPANY",
-    "origin": "India",
     "name": "GAIL",
-    "source": "https://brandirectory.com/rankings/india/table"
-  },
-  {
-    "type": "COMPANY",
-    "origin": "India",
-    "name": "Ultratech Cement",
     "source": "https://brandirectory.com/rankings/india/table"
   },
   {
@@ -17038,12 +16827,6 @@
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "Indigo",
-    "source": "https://brandirectory.com/rankings/india/table"
-  },
-  {
-    "type": "COMPANY",
-    "origin": "India",
     "name": "Bank of India",
     "source": "https://brandirectory.com/rankings/india/table"
   },
@@ -17057,12 +16840,6 @@
     "type": "COMPANY",
     "origin": "India",
     "name": "Nandini",
-    "source": "https://brandirectory.com/rankings/india/table"
-  },
-  {
-    "type": "COMPANY",
-    "origin": "India",
-    "name": "Apollo Tyres",
     "source": "https://brandirectory.com/rankings/india/table"
   },
   {
@@ -17098,19 +16875,7 @@
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "Royal Enfield",
-    "source": "https://brandirectory.com/rankings/india/table"
-  },
-  {
-    "type": "COMPANY",
-    "origin": "India",
     "name": "Reliance (ADAG) Group",
-    "source": "https://brandirectory.com/rankings/india/table"
-  },
-  {
-    "type": "COMPANY",
-    "origin": "India",
-    "name": "Mother Dairy",
     "source": "https://brandirectory.com/rankings/india/table"
   },
   {
@@ -17152,25 +16917,7 @@
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "MRF",
-    "source": "https://brandirectory.com/rankings/india/table"
-  },
-  {
-    "type": "COMPANY",
-    "origin": "India",
     "name": "Piramal",
-    "source": "https://brandirectory.com/rankings/india/table"
-  },
-  {
-    "type": "COMPANY",
-    "origin": "India",
-    "name": "Union Bank of India",
-    "source": "https://brandirectory.com/rankings/india/table"
-  },
-  {
-    "type": "COMPANY",
-    "origin": "India",
-    "name": "Dabur",
     "source": "https://brandirectory.com/rankings/india/table"
   },
   {
@@ -17194,12 +16941,6 @@
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "Berger Paints",
-    "source": "https://brandirectory.com/rankings/india/table"
-  },
-  {
-    "type": "COMPANY",
-    "origin": "India",
     "name": "Coal India",
     "source": "https://brandirectory.com/rankings/india/table"
   },
@@ -17207,12 +16948,6 @@
     "type": "COMPANY",
     "origin": "India",
     "name": "MRPL",
-    "source": "https://brandirectory.com/rankings/india/table"
-  },
-  {
-    "type": "COMPANY",
-    "origin": "India",
-    "name": "Air India",
     "source": "https://brandirectory.com/rankings/india/table"
   },
   {
@@ -17230,12 +16965,6 @@
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "Havells",
-    "source": "https://brandirectory.com/rankings/india/table"
-  },
-  {
-    "type": "COMPANY",
-    "origin": "India",
     "name": "Bharat Heavy Electricals",
     "source": "https://brandirectory.com/rankings/india/table"
   },
@@ -17243,12 +16972,6 @@
     "type": "COMPANY",
     "origin": "India",
     "name": "Nerolac",
-    "source": "https://brandirectory.com/rankings/india/table"
-  },
-  {
-    "type": "COMPANY",
-    "origin": "India",
-    "name": "Ambuja Cements",
     "source": "https://brandirectory.com/rankings/india/table"
   },
   {
@@ -17320,31 +17043,7 @@
   {
     "type": "COMPANY",
     "origin": "India",
-    "name": "Spicejet",
-    "source": "https://brandirectory.com/rankings/india/table"
-  },
-  {
-    "type": "COMPANY",
-    "origin": "India",
-    "name": "Indian Overseas Bank",
-    "source": "https://brandirectory.com/rankings/india/table"
-  },
-  {
-    "type": "COMPANY",
-    "origin": "India",
     "name": "Officer's Choice",
-    "source": "https://brandirectory.com/rankings/india/table"
-  },
-  {
-    "type": "COMPANY",
-    "origin": "India",
-    "name": "Voltas",
-    "source": "https://brandirectory.com/rankings/india/table"
-  },
-  {
-    "type": "COMPANY",
-    "origin": "India",
-    "name": "Mindtree",
     "source": "https://brandirectory.com/rankings/india/table"
   },
   {
@@ -17354,38 +17053,8 @@
     "source": "https://brandirectory.com/rankings/india/table"
   },
   {
-    "name": "Amazon",
-    "origin": "United States",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "Apple",
-    "origin": "United States",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "Google",
-    "origin": "United States",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "Microsoft",
-    "origin": "United States",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
     "name": "Samsung Group",
     "origin": "South Korea",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "AT&T",
-    "origin": "United States",
     "type": "COMPANY",
     "source": "https://brandirectory.com/"
   },
@@ -17408,20 +17077,8 @@
     "source": "https://brandirectory.com/"
   },
   {
-    "name": "China Construction Bank",
-    "origin": "China",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
     "name": "Walmart",
     "origin": "United States",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "Huawei",
-    "origin": "China",
     "type": "COMPANY",
     "source": "https://brandirectory.com/"
   },
@@ -17438,37 +17095,7 @@
     "source": "https://brandirectory.com/"
   },
   {
-    "name": "China Mobile",
-    "origin": "China",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "Agricultural Bank Of China",
-    "origin": "China",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "Toyota",
-    "origin": "Japan",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
     "name": "State Grid",
-    "origin": "China",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "Bank of China",
-    "origin": "China",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "WeChat",
     "origin": "China",
     "type": "COMPANY",
     "source": "https://brandirectory.com/"
@@ -17482,12 +17109,6 @@
   {
     "name": "Home Depot",
     "origin": "United States",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "Taobao",
-    "origin": "China",
     "type": "COMPANY",
     "source": "https://brandirectory.com/"
   },
@@ -17506,12 +17127,6 @@
   {
     "name": "Shell",
     "origin": "Netherlands",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "Volkswagen",
-    "origin": "Germany",
     "type": "COMPANY",
     "source": "https://brandirectory.com/"
   },
@@ -17546,20 +17161,8 @@
     "source": "https://brandirectory.com/"
   },
   {
-    "name": "PetroChina",
-    "origin": "China",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
     "name": "Bank of America",
     "origin": "United States",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "Tmall",
-    "origin": "China",
     "type": "COMPANY",
     "source": "https://brandirectory.com/"
   },
@@ -17642,12 +17245,6 @@
     "source": "https://brandirectory.com/"
   },
   {
-    "name": "Sinopec",
-    "origin": "China",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
     "name": "Intel",
     "origin": "United States",
     "type": "COMPANY",
@@ -17704,12 +17301,6 @@
   {
     "name": "SK Group",
     "origin": "South Korea",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "Honda",
-    "origin": "Japan",
     "type": "COMPANY",
     "source": "https://brandirectory.com/"
   },
@@ -17786,32 +17377,14 @@
     "source": "https://brandirectory.com/"
   },
   {
-    "name": "China Merchants Bank",
-    "origin": "China",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
     "name": "Cisco",
     "origin": "United States",
     "type": "COMPANY",
     "source": "https://brandirectory.com/"
   },
   {
-    "name": "Siemens",
-    "origin": "Germany",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
     "name": "IKEA",
     "origin": "Sweden",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "Vodafone",
-    "origin": "United Kingdom",
     "type": "COMPANY",
     "source": "https://brandirectory.com/"
   },
@@ -17846,12 +17419,6 @@
     "source": "https://brandirectory.com/"
   },
   {
-    "name": "China Telecom",
-    "origin": "China",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
     "name": "Evergrande",
     "origin": "China",
     "type": "COMPANY",
@@ -17882,18 +17449,6 @@
     "source": "https://brandirectory.com/"
   },
   {
-    "name": "Tata Group",
-    "origin": "India",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "Baidu",
-    "origin": "China",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
     "name": "SoftBank",
     "origin": "Japan",
     "type": "COMPANY",
@@ -17902,12 +17457,6 @@
   {
     "name": "Ford",
     "origin": "United States",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "Nissan",
-    "origin": "Japan",
     "type": "COMPANY",
     "source": "https://brandirectory.com/"
   },
@@ -17932,12 +17481,6 @@
   {
     "name": "Mastercard",
     "origin": "United States",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "au",
-    "origin": "Japan",
     "type": "COMPANY",
     "source": "https://brandirectory.com/"
   },
@@ -17978,20 +17521,8 @@
     "source": "https://brandirectory.com/"
   },
   {
-    "name": "Country Garden",
-    "origin": "China",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
     "name": "Target",
     "origin": "United States",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "Wuliangye",
-    "origin": "China",
     "type": "COMPANY",
     "source": "https://brandirectory.com/"
   },
@@ -18068,12 +17599,6 @@
     "source": "https://brandirectory.com/"
   },
   {
-    "name": "Bank of Communications",
-    "origin": "China",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
     "name": "Capital One",
     "origin": "United States",
     "type": "COMPANY",
@@ -18094,12 +17619,6 @@
   {
     "name": "TD",
     "origin": "Canada",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "Hitachi",
-    "origin": "Japan",
     "type": "COMPANY",
     "source": "https://brandirectory.com/"
   },
@@ -18146,12 +17665,6 @@
     "source": "https://brandirectory.com/"
   },
   {
-    "name": "Shanghai Pudong Development Bank",
-    "origin": "China",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
     "name": "Warner Bros.",
     "origin": "United States",
     "type": "COMPANY",
@@ -18172,12 +17685,6 @@
   {
     "name": "KPMG",
     "origin": "United States",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "China CITIC Bank",
-    "origin": "China",
     "type": "COMPANY",
     "source": "https://brandirectory.com/"
   },
@@ -18206,44 +17713,14 @@
     "source": "https://brandirectory.com/"
   },
   {
-    "name": "Sony",
-    "origin": "Japan",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "NetEase",
-    "origin": "China",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
     "name": "EDF",
     "origin": "France",
     "type": "COMPANY",
     "source": "https://brandirectory.com/"
   },
   {
-    "name": "Panasonic",
-    "origin": "Japan",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
     "name": "booking.com",
     "origin": "United States",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "Uniqlo",
-    "origin": "Japan",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "Industrial Bank",
-    "origin": "China",
     "type": "COMPANY",
     "source": "https://brandirectory.com/"
   },
@@ -18268,12 +17745,6 @@
   {
     "name": "JR",
     "origin": "Japan",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "JD.com",
-    "origin": "China",
     "type": "COMPANY",
     "source": "https://brandirectory.com/"
   },
@@ -18328,12 +17799,6 @@
   {
     "name": "Lockheed Martin",
     "origin": "United States",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "Vanke",
-    "origin": "China",
     "type": "COMPANY",
     "source": "https://brandirectory.com/"
   },
@@ -18440,12 +17905,6 @@
     "source": "https://brandirectory.com/"
   },
   {
-    "name": "China Unicom",
-    "origin": "China",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
     "name": "Sam's Club",
     "origin": "United States",
     "type": "COMPANY",
@@ -18466,18 +17925,6 @@
   {
     "name": "7-Eleven",
     "origin": "Japan",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "HP",
-    "origin": "United States",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "Nokia",
-    "origin": "Finland",
     "type": "COMPANY",
     "source": "https://brandirectory.com/"
   },
@@ -18512,12 +17959,6 @@
     "source": "https://brandirectory.com/"
   },
   {
-    "name": "China Minsheng Bank",
-    "origin": "China",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
     "name": "Sephora",
     "origin": "France",
     "type": "COMPANY",
@@ -18526,12 +17967,6 @@
   {
     "name": "Union Pacific",
     "origin": "United States",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "Japan Post Holdings",
-    "origin": "Japan",
     "type": "COMPANY",
     "source": "https://brandirectory.com/"
   },
@@ -18638,12 +18073,6 @@
     "source": "https://brandirectory.com/"
   },
   {
-    "name": "Hikvision",
-    "origin": "China",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
     "name": "PNC",
     "origin": "United States",
     "type": "COMPANY",
@@ -18740,12 +18169,6 @@
     "source": "https://brandirectory.com/"
   },
   {
-    "name": "Philips",
-    "origin": "Netherlands",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
     "name": "Longfor Properties",
     "origin": "China",
     "type": "COMPANY",
@@ -18776,12 +18199,6 @@
     "source": "https://brandirectory.com/"
   },
   {
-    "name": "Gillette",
-    "origin": "United States",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
     "name": "Salesforce",
     "origin": "United States",
     "type": "COMPANY",
@@ -18790,12 +18207,6 @@
   {
     "name": "Gazprom",
     "origin": "Russia",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "Youku",
-    "origin": "China",
     "type": "COMPANY",
     "source": "https://brandirectory.com/"
   },
@@ -18820,12 +18231,6 @@
   {
     "name": "Allstate",
     "origin": "United States",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "CRRC",
-    "origin": "China",
     "type": "COMPANY",
     "source": "https://brandirectory.com/"
   },
@@ -18890,12 +18295,6 @@
     "source": "https://brandirectory.com/"
   },
   {
-    "name": "China Everbright Bank",
-    "origin": "China",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
     "name": "Northrop Grumman",
     "origin": "United States",
     "type": "COMPANY",
@@ -18904,12 +18303,6 @@
   {
     "name": "Commonwealth Bank",
     "origin": "Australia",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "Caterpillar",
-    "origin": "United States",
     "type": "COMPANY",
     "source": "https://brandirectory.com/"
   },
@@ -18974,18 +18367,6 @@
     "source": "https://brandirectory.com/"
   },
   {
-    "name": "Nintendo",
-    "origin": "Japan",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "O2",
-    "origin": "United Kingdom",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
     "name": "Activision Blizzard",
     "origin": "United States",
     "type": "COMPANY",
@@ -19000,12 +18381,6 @@
   {
     "name": "Société Générale",
     "origin": "France",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "LIC",
-    "origin": "India",
     "type": "COMPANY",
     "source": "https://brandirectory.com/"
   },
@@ -19076,12 +18451,6 @@
     "source": "https://brandirectory.com/"
   },
   {
-    "name": "Bridgestone",
-    "origin": "Japan",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
     "name": "Victoria's Secret",
     "origin": "United States",
     "type": "COMPANY",
@@ -19090,12 +18459,6 @@
   {
     "name": "Roche",
     "origin": "Switzerland",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "Xiaomi",
-    "origin": "China",
     "type": "COMPANY",
     "source": "https://brandirectory.com/"
   },
@@ -19172,12 +18535,6 @@
     "source": "https://brandirectory.com/"
   },
   {
-    "name": "Nvidia",
-    "origin": "United States",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
     "name": "Kellogg's",
     "origin": "United States",
     "type": "COMPANY",
@@ -19232,18 +18589,6 @@
     "source": "https://brandirectory.com/"
   },
   {
-    "name": "Haier",
-    "origin": "China",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "Infosys",
-    "origin": "India",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
     "name": "Bouygues",
     "origin": "France",
     "type": "COMPANY",
@@ -19262,20 +18607,8 @@
     "source": "https://brandirectory.com/"
   },
   {
-    "name": "Domino's Pizza",
-    "origin": "United States",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
     "name": "ADP",
     "origin": "United States",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "Playstation",
-    "origin": "Japan",
     "type": "COMPANY",
     "source": "https://brandirectory.com/"
   },
@@ -19294,12 +18627,6 @@
   {
     "name": "Merrill Lynch",
     "origin": "United States",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "Reliance",
-    "origin": "India",
     "type": "COMPANY",
     "source": "https://brandirectory.com/"
   },
@@ -19376,20 +18703,8 @@
     "source": "https://brandirectory.com/"
   },
   {
-    "name": "suning.com",
-    "origin": "China",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
     "name": "General Dynamics",
     "origin": "United States",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "Lenovo",
-    "origin": "China",
     "type": "COMPANY",
     "source": "https://brandirectory.com/"
   },
@@ -19408,12 +18723,6 @@
   {
     "name": "Swisscom",
     "origin": "Switzerland",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "State Bank of India",
-    "origin": "India",
     "type": "COMPANY",
     "source": "https://brandirectory.com/"
   },
@@ -19450,18 +18759,6 @@
   {
     "name": "Crédit Agricole",
     "origin": "France",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "Tiffany & Co.",
-    "origin": "United States",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "Thermo Fisher Scientific",
-    "origin": "United States",
     "type": "COMPANY",
     "source": "https://brandirectory.com/"
   },
@@ -19558,12 +18855,6 @@
   {
     "name": "Asda",
     "origin": "United Kingdom",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "Western Digital",
-    "origin": "United States",
     "type": "COMPANY",
     "source": "https://brandirectory.com/"
   },
@@ -19670,12 +18961,6 @@
     "source": "https://brandirectory.com/"
   },
   {
-    "name": "Luzhou Laojiao",
-    "origin": "China",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
     "name": "Innogy",
     "origin": "Germany",
     "type": "COMPANY",
@@ -19712,12 +18997,6 @@
     "source": "https://brandirectory.com/"
   },
   {
-    "name": "SHISEIDO",
-    "origin": "Japan",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
     "name": "Westpac",
     "origin": "Australia",
     "type": "COMPANY",
@@ -19726,12 +19005,6 @@
   {
     "name": "Texas Instruments",
     "origin": "United States",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "Mahindra Group",
-    "origin": "India",
     "type": "COMPANY",
     "source": "https://brandirectory.com/"
   },
@@ -19862,32 +19135,14 @@
     "source": "https://brandirectory.com/"
   },
   {
-    "name": "Sherwin-Williams",
-    "origin": "United States",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
     "name": "AIG",
     "origin": "United States",
     "type": "COMPANY",
     "source": "https://brandirectory.com/"
   },
   {
-    "name": "HDFC Bank",
-    "origin": "India",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
     "name": "Sodexo",
     "origin": "France",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "Mobil",
-    "origin": "United States",
     "type": "COMPANY",
     "source": "https://brandirectory.com/"
   },
@@ -19900,12 +19155,6 @@
   {
     "name": "Galaxy Macau",
     "origin": "China (Hong Kong)",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "Airtel",
-    "origin": "India",
     "type": "COMPANY",
     "source": "https://brandirectory.com/"
   },
@@ -19976,12 +19225,6 @@
     "source": "https://brandirectory.com/"
   },
   {
-    "name": "HCL",
-    "origin": "India",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
     "name": "Johnnie Walker",
     "origin": "United Kingdom",
     "type": "COMPANY",
@@ -20013,12 +19256,6 @@
   },
   {
     "name": "Dunkin'",
-    "origin": "United States",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "Esso",
     "origin": "United States",
     "type": "COMPANY",
     "source": "https://brandirectory.com/"
@@ -20204,12 +19441,6 @@
     "source": "https://brandirectory.com/"
   },
   {
-    "name": "Jack Daniel's",
-    "origin": "United States",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
     "name": "La Poste",
     "origin": "France",
     "type": "COMPANY",
@@ -20266,12 +19497,6 @@
   {
     "name": "Carrier",
     "origin": "United States",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "iQiyi",
-    "origin": "China",
     "type": "COMPANY",
     "source": "https://brandirectory.com/"
   },
@@ -20344,12 +19569,6 @@
   {
     "name": "KB Financial Group",
     "origin": "South Korea",
-    "type": "COMPANY",
-    "source": "https://brandirectory.com/"
-  },
-  {
-    "name": "Daikin",
-    "origin": "Japan",
     "type": "COMPANY",
     "source": "https://brandirectory.com/"
   }

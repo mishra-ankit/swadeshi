@@ -1,18 +1,22 @@
+const db = require("../db.json");
+const fs = require("fs");
+const fetch = require("node-fetch");
+
 // Logo fetch script -
 function getRandomArbitrary(min, max) {
   return Math.random() * (max - min) + min;
 }
 
 let randomDelay = () =>
-  new Promise((resolve) => setTimeout(resolve, getRandomArbitrary(500, 1000)));
+  new Promise((resolve) => setTimeout(resolve, getRandomArbitrary(200, 500)));
 
-let calc = async (i) => {
+let getLogo = async (i) => {
   if (i.value) return i;
 
   await randomDelay();
-  console.log("Fetch.", i.name);
+  console.log("Fetch -", i.name);
   const resp = await fetch(
-    "https://autocomplete.clearbit.com/v1/companies/suggest?query=" + i.name,
+    "https://autocomplete.clearbit.com/v1/companies/suggest?query=" + encodeURI(i.name),
     {
       referrer: "https://clearbit.com/logo",
       referrerPolicy: "unsafe-url",
@@ -21,13 +25,16 @@ let calc = async (i) => {
       mode: "cors",
       credentials: "omit",
     }
-  ).then((res) => res.json());
-  //console.log(resp);
+  ).then(response => {
+    if (response.status !== 200) {
+      throw new Error("Request failed. " + i.name);
+    }
+    return response.json();
+  });
   const match = resp.find(
     (resp) => resp.name.toLowerCase() === i.name.toLowerCase()
   );
   if (match) {
-    //icons.add(match);
     i.value = match;
   } else {
     console.log("No MATCH :", i.name);
@@ -37,12 +44,34 @@ let calc = async (i) => {
 let results = [];
 
 let asyncFunc = async () => {
-  // const unresolvedPromises = db.map(i=>calc(i));
   for (let item of db) {
-    const result = await calc(item);
-    //console.log(result);
+    let result = item;
+    if (!item.value) {
+      result = await getLogo(item);
+    } else {
+      console.log("Skip -", item.name);
+    }
     results.push(result);
   }
-  //results = await Promise.all(unresolvedPromises);
+  console.log("All logos fetched.", db.length);
+  // Check if length and order is maintained.
+  if (results.length !== db.length || results[0].name !== db[0].name) {
+    throw new Error("FAILED : Result and input mismatch, please check the script.");
+  } else {
+    fs.writeFile("db.json", JSON.stringify(results,null, 2), (err) => {
+      if (err) {
+        console.error(err);
+        return;
+      }
+      console.log("File has been updated");
+      const resultLogo = results.filter(logoFilter);
+      console.log("New logo added:", resultLogo.length - db.filter(logoFilter).length);
+      console.log("Total logo:", resultLogo.length);
+      console.log("Logo missing:", results.length - resultLogo.length);
+    });
+  }
 };
+
+const logoFilter = (i => i.value);
+
 asyncFunc();
