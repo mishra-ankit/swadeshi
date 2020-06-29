@@ -16690,13 +16690,23 @@
     "type": "COMPANY",
     "origin": "India",
     "name": "State Bank of India",
-    "source": "https://brandirectory.com/rankings/india/table"
+    "source": "https://brandirectory.com/rankings/india/table",
+    "value": {
+      "name": "State Bank of India",
+      "domain": "onlinesbi.com",
+      "logo": "https://logo.clearbit.com/onlinesbi.com"
+    }
   },
   {
     "type": "COMPANY",
     "origin": "India",
     "name": "Indian Oil",
-    "source": "https://brandirectory.com/rankings/india/table"
+    "source": "https://brandirectory.com/rankings/india/table",
+    "value": {
+      "name": "Indian Oil",
+      "domain": "iocl.com",
+      "logo": "https://logo.clearbit.com/iocl.com"
+    }
   },
   {
     "type": "COMPANY",
@@ -16726,13 +16736,23 @@
     "type": "COMPANY",
     "origin": "India",
     "name": "Bajaj Group",
-    "source": "https://brandirectory.com/rankings/india/table"
+    "source": "https://brandirectory.com/rankings/india/table",
+    "value": {
+      "name": "Bajaj Group",
+      "domain": "bajajgroup.org",
+      "logo": "https://logo.clearbit.com/bajajgroup.org"
+    }
   },
   {
     "type": "COMPANY",
     "origin": "India",
     "name": "Kotak Mahindra Bank",
-    "source": "https://brandirectory.com/rankings/india/table"
+    "source": "https://brandirectory.com/rankings/india/table",
+    "value": {
+      "name": "Kotak Mahindra Bank",
+      "domain": "kotak.com",
+      "logo": "https://logo.clearbit.com/kotak.com"
+    }
   },
   {
     "type": "COMPANY",
@@ -16756,7 +16776,12 @@
     "type": "COMPANY",
     "origin": "India",
     "name": "IndusInd Bank",
-    "source": "https://brandirectory.com/rankings/india/table"
+    "source": "https://brandirectory.com/rankings/india/table",
+    "value": {
+      "name": "IndusInd Bank",
+      "domain": "indusind.com",
+      "logo": "https://logo.clearbit.com/indusind.com"
+    }
   },
   {
     "type": "COMPANY",
@@ -16768,13 +16793,23 @@
     "type": "COMPANY",
     "origin": "India",
     "name": "Britannia",
-    "source": "https://brandirectory.com/rankings/india/table"
+    "source": "https://brandirectory.com/rankings/india/table",
+    "value": {
+      "name": "Britannia",
+      "domain": "britanniaconstruction.co.uk",
+      "logo": "https://logo.clearbit.com/britanniaconstruction.co.uk"
+    }
   },
   {
     "type": "COMPANY",
     "origin": "India",
     "name": "JSW Group",
-    "source": "https://brandirectory.com/rankings/india/table"
+    "source": "https://brandirectory.com/rankings/india/table",
+    "value": {
+      "name": "JSW Group",
+      "domain": "jsw.in",
+      "logo": "https://logo.clearbit.com/jsw.in"
+    }
   },
   {
     "type": "COMPANY",
@@ -16804,13 +16839,23 @@
     "type": "COMPANY",
     "origin": "India",
     "name": "GAIL",
-    "source": "https://brandirectory.com/rankings/india/table"
+    "source": "https://brandirectory.com/rankings/india/table",
+    "value": {
+      "name": "Gail",
+      "domain": "myrepurposedlife.com",
+      "logo": "https://logo.clearbit.com/myrepurposedlife.com"
+    }
   },
   {
     "type": "COMPANY",
     "origin": "India",
     "name": "Canara Bank",
-    "source": "https://brandirectory.com/rankings/india/table"
+    "source": "https://brandirectory.com/rankings/india/table",
+    "value": {
+      "name": "Canara Bank",
+      "domain": "canarabank.in",
+      "logo": "https://logo.clearbit.com/canarabank.in"
+    }
   },
   {
     "type": "COMPANY",
@@ -16828,13 +16873,23 @@
     "type": "COMPANY",
     "origin": "India",
     "name": "Bank of India",
-    "source": "https://brandirectory.com/rankings/india/table"
+    "source": "https://brandirectory.com/rankings/india/table",
+    "value": {
+      "name": "Bank of India",
+      "domain": "bankofindia.com",
+      "logo": "https://logo.clearbit.com/bankofindia.com"
+    }
   },
   {
     "type": "COMPANY",
     "origin": "India",
     "name": "Future Retail",
-    "source": "https://brandirectory.com/rankings/india/table"
+    "source": "https://brandirectory.com/rankings/india/table",
+    "value": {
+      "name": "Future Retail",
+      "domain": "futureretail.world",
+      "logo": "https://logo.clearbit.com/futureretail.world"
+    }
   },
   {
     "type": "COMPANY",
@@ -16858,7 +16913,12 @@
     "type": "COMPANY",
     "origin": "India",
     "name": "Punjab National Bank",
-    "source": "https://brandirectory.com/rankings/india/table"
+    "source": "https://brandirectory.com/rankings/india/table",
+    "value": {
+      "name": "Punjab National Bank",
+      "domain": "pnbindia.in",
+      "logo": "https://logo.clearbit.com/pnbindia.in"
+    }
   },
   {
     "type": "COMPANY",
@@ -16870,7 +16930,12 @@
     "type": "COMPANY",
     "origin": "India",
     "name": "Yes Bank",
-    "source": "https://brandirectory.com/rankings/india/table"
+    "source": "https://brandirectory.com/rankings/india/table",
+    "value": {
+      "name": "YES BANK",
+      "domain": "yesbank.in",
+      "logo": "https://logo.clearbit.com/yesbank.in"
+    }
   },
   {
     "type": "COMPANY",
@@ -16894,7 +16959,12 @@
     "type": "COMPANY",
     "origin": "India",
     "name": "Adani Group",
-    "source": "https://brandirectory.com/rankings/india/table"
+    "source": "https://brandirectory.com/rankings/india/table",
+    "value": {
+      "name": "Adani Group",
+      "domain": "adani.com",
+      "logo": "https://logo.clearbit.com/adani.com"
+    }
   },
   {
     "type": "COMPANY",
@@ -16912,7 +16982,12 @@
     "type": "COMPANY",
     "origin": "India",
     "name": "Mphasis",
-    "source": "https://brandirectory.com/rankings/india/table"
+    "source": "https://brandirectory.com/rankings/india/table",
+    "value": {
+      "name": "Mphasis",
+      "domain": "mphasis.com",
+      "logo": "https://logo.clearbit.com/mphasis.com"
+    }
   },
   {
     "type": "COMPANY",
@@ -16948,7 +17023,12 @@
     "type": "COMPANY",
     "origin": "India",
     "name": "MRPL",
-    "source": "https://brandirectory.com/rankings/india/table"
+    "source": "https://brandirectory.com/rankings/india/table",
+    "value": {
+      "name": "MRPL",
+      "domain": "mrpl.co.in",
+      "logo": "https://logo.clearbit.com/mrpl.co.in"
+    }
   },
   {
     "type": "COMPANY",
@@ -16960,7 +17040,12 @@
     "type": "COMPANY",
     "origin": "India",
     "name": "BSNL",
-    "source": "https://brandirectory.com/rankings/india/table"
+    "source": "https://brandirectory.com/rankings/india/table",
+    "value": {
+      "name": "BSNL",
+      "domain": "bsnl.org.uk",
+      "logo": "https://logo.clearbit.com/bsnl.org.uk"
+    }
   },
   {
     "type": "COMPANY",
@@ -16978,13 +17063,23 @@
     "type": "COMPANY",
     "origin": "India",
     "name": "Saffola",
-    "source": "https://brandirectory.com/rankings/india/table"
+    "source": "https://brandirectory.com/rankings/india/table",
+    "value": {
+      "name": "Saffola",
+      "domain": "saffolalife.com",
+      "logo": "https://logo.clearbit.com/saffolalife.com"
+    }
   },
   {
     "type": "COMPANY",
     "origin": "India",
     "name": "Sun Pharma",
-    "source": "https://brandirectory.com/rankings/india/table"
+    "source": "https://brandirectory.com/rankings/india/table",
+    "value": {
+      "name": "Sun Pharma",
+      "domain": "sunpharma.com",
+      "logo": "https://logo.clearbit.com/sunpharma.com"
+    }
   },
   {
     "type": "COMPANY",
@@ -17014,13 +17109,23 @@
     "type": "COMPANY",
     "origin": "India",
     "name": "Syndicate Bank",
-    "source": "https://brandirectory.com/rankings/india/table"
+    "source": "https://brandirectory.com/rankings/india/table",
+    "value": {
+      "name": "Syndicate Bank",
+      "domain": "syndicatebank.in",
+      "logo": "https://logo.clearbit.com/syndicatebank.in"
+    }
   },
   {
     "type": "COMPANY",
     "origin": "India",
     "name": "Shree Cement",
-    "source": "https://brandirectory.com/rankings/india/table"
+    "source": "https://brandirectory.com/rankings/india/table",
+    "value": {
+      "name": "Shree Cement",
+      "domain": "shreecement.com",
+      "logo": "https://logo.clearbit.com/shreecement.com"
+    }
   },
   {
     "type": "COMPANY",
@@ -17038,7 +17143,12 @@
     "type": "COMPANY",
     "origin": "India",
     "name": "Sun Tv",
-    "source": "https://brandirectory.com/rankings/india/table"
+    "source": "https://brandirectory.com/rankings/india/table",
+    "value": {
+      "name": "Sun TV",
+      "domain": "sunnxt.com",
+      "logo": "https://logo.clearbit.com/sunnxt.com"
+    }
   },
   {
     "type": "COMPANY",
@@ -17050,7 +17160,12 @@
     "type": "COMPANY",
     "origin": "India",
     "name": "Raymond",
-    "source": "https://brandirectory.com/rankings/india/table"
+    "source": "https://brandirectory.com/rankings/india/table",
+    "value": {
+      "name": "Raymond",
+      "domain": "raymond.cc",
+      "logo": "https://logo.clearbit.com/raymond.cc"
+    }
   },
   {
     "name": "Samsung Group",
@@ -17062,37 +17177,67 @@
     "name": "Facebook",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Facebook",
+      "domain": "facebook.com",
+      "logo": "https://logo.clearbit.com/facebook.com"
+    }
   },
   {
     "name": "ICBC",
     "origin": "China",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "ICBC",
+      "domain": "icbc.com",
+      "logo": "https://logo.clearbit.com/icbc.com"
+    }
   },
   {
     "name": "Verizon",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Verizon",
+      "domain": "verizon.com",
+      "logo": "https://logo.clearbit.com/verizon.com"
+    }
   },
   {
     "name": "Walmart",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Walmart",
+      "domain": "walmart.com",
+      "logo": "https://logo.clearbit.com/walmart.com"
+    }
   },
   {
     "name": "Mercedes-Benz",
     "origin": "Germany",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Mercedes-Benz",
+      "domain": "mercedes-benz.com",
+      "logo": "https://logo.clearbit.com/mercedes-benz.com"
+    }
   },
   {
     "name": "Ping An",
     "origin": "China",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Ping An",
+      "domain": "pinganoriental.co.uk",
+      "logo": "https://logo.clearbit.com/pinganoriental.co.uk"
+    }
   },
   {
     "name": "State Grid",
@@ -17128,55 +17273,100 @@
     "name": "Shell",
     "origin": "Netherlands",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Shell",
+      "domain": "shell.com",
+      "logo": "https://logo.clearbit.com/shell.com"
+    }
   },
   {
     "name": "NTT Group",
     "origin": "Japan",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "NTT Group",
+      "domain": "nttgroup.pl",
+      "logo": "https://logo.clearbit.com/nttgroup.pl"
+    }
   },
   {
     "name": "BMW",
     "origin": "Germany",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "BMW",
+      "domain": "bmw.de",
+      "logo": "https://logo.clearbit.com/bmw.de"
+    }
   },
   {
     "name": "Wells Fargo",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Wells Fargo",
+      "domain": "wellsfargo.com",
+      "logo": "https://logo.clearbit.com/wellsfargo.com"
+    }
   },
   {
     "name": "Starbucks",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Starbucks",
+      "domain": "starbucks.com",
+      "logo": "https://logo.clearbit.com/starbucks.com"
+    }
   },
   {
     "name": "YouTube",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "YouTube",
+      "domain": "youtube.com",
+      "logo": "https://logo.clearbit.com/youtube.com"
+    }
   },
   {
     "name": "Bank of America",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Bank of America",
+      "domain": "bankofamerica.com",
+      "logo": "https://logo.clearbit.com/bankofamerica.com"
+    }
   },
   {
     "name": "Citi",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Citi",
+      "domain": "citi.com",
+      "logo": "https://logo.clearbit.com/citi.com"
+    }
   },
   {
     "name": "Chase",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Chase",
+      "domain": "chase.com",
+      "logo": "https://logo.clearbit.com/chase.com"
+    }
   },
   {
     "name": "Coca-Cola",
@@ -17194,31 +17384,56 @@
     "name": "IBM",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "IBM",
+      "domain": "ibm.com",
+      "logo": "https://logo.clearbit.com/ibm.com"
+    }
   },
   {
     "name": "Nike",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Nike",
+      "domain": "nike.com",
+      "logo": "https://logo.clearbit.com/nike.com"
+    }
   },
   {
     "name": "Boeing",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Boeing",
+      "domain": "boeing.com",
+      "logo": "https://logo.clearbit.com/boeing.com"
+    }
   },
   {
     "name": "McDonald's",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "McDonald's",
+      "domain": "mcdonalds.com",
+      "logo": "https://logo.clearbit.com/mcdonalds.com"
+    }
   },
   {
     "name": "UnitedHealthcare",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "UnitedHealthcare",
+      "domain": "uhc.com",
+      "logo": "https://logo.clearbit.com/uhc.com"
+    }
   },
   {
     "name": "Moutai",
@@ -17230,43 +17445,78 @@
     "name": "Deloitte",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Deloitte",
+      "domain": "deloitte.com",
+      "logo": "https://logo.clearbit.com/deloitte.com"
+    }
   },
   {
     "name": "Porsche",
     "origin": "Germany",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Porsche",
+      "domain": "porsche.com",
+      "logo": "https://logo.clearbit.com/porsche.com"
+    }
   },
   {
     "name": "UPS",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "UPS",
+      "domain": "ups.com",
+      "logo": "https://logo.clearbit.com/ups.com"
+    }
   },
   {
     "name": "Intel",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Intel",
+      "domain": "intel.com",
+      "logo": "https://logo.clearbit.com/intel.com"
+    }
   },
   {
     "name": "General Electric",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "General Electric",
+      "domain": "generalelectric-eg.com",
+      "logo": "https://logo.clearbit.com/generalelectric-eg.com"
+    }
   },
   {
     "name": "Visa",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Visa",
+      "domain": "visa.com",
+      "logo": "https://logo.clearbit.com/visa.com"
+    }
   },
   {
     "name": "American Express",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "American Express",
+      "domain": "americanexpress.com",
+      "logo": "https://logo.clearbit.com/americanexpress.com"
+    }
   },
   {
     "name": "Xfinity",
@@ -17278,7 +17528,12 @@
     "name": "Sumitomo Group",
     "origin": "Japan",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Sumitomo Group",
+      "domain": "sumitomo.gr.jp",
+      "logo": "https://logo.clearbit.com/sumitomo.gr.jp"
+    }
   },
   {
     "name": "China Life",
@@ -17296,13 +17551,23 @@
     "name": "Accenture",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Accenture",
+      "domain": "accenture.com",
+      "logo": "https://logo.clearbit.com/accenture.com"
+    }
   },
   {
     "name": "SK Group",
     "origin": "South Korea",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "SK Group",
+      "domain": "skgroup.co",
+      "logo": "https://logo.clearbit.com/skgroup.co"
+    }
   },
   {
     "name": "CSCEC",
@@ -17314,7 +17579,12 @@
     "name": "Oracle",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Oracle",
+      "domain": "oracle.com",
+      "logo": "https://logo.clearbit.com/oracle.com"
+    }
   },
   {
     "name": "Total",
@@ -17326,79 +17596,144 @@
     "name": "PWC",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "PwC",
+      "domain": "pwc.com",
+      "logo": "https://logo.clearbit.com/pwc.com"
+    }
   },
   {
     "name": "FedEx",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "FedEx",
+      "domain": "fedex.com",
+      "logo": "https://logo.clearbit.com/fedex.com"
+    }
   },
   {
     "name": "Lowe's",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Lowe's",
+      "domain": "lowes.com",
+      "logo": "https://logo.clearbit.com/lowes.com"
+    }
   },
   {
     "name": "EY",
     "origin": "United Kingdom",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "EY",
+      "domain": "ey.com",
+      "logo": "https://logo.clearbit.com/ey.com"
+    }
   },
   {
     "name": "Allianz",
     "origin": "Germany",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Allianz",
+      "domain": "allianz.de",
+      "logo": "https://logo.clearbit.com/allianz.de"
+    }
   },
   {
     "name": "Bosch",
     "origin": "Germany",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Bosch",
+      "domain": "bosch.com",
+      "logo": "https://logo.clearbit.com/bosch.com"
+    }
   },
   {
     "name": "Dell Technologies",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Dell Technologies",
+      "domain": "delltechnologies.com",
+      "logo": "https://logo.clearbit.com/delltechnologies.com"
+    }
   },
   {
     "name": "BP",
     "origin": "United Kingdom",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "BP",
+      "domain": "bp.com",
+      "logo": "https://logo.clearbit.com/bp.com"
+    }
   },
   {
     "name": "Uber",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Uber",
+      "domain": "uber.com",
+      "logo": "https://logo.clearbit.com/uber.com"
+    }
   },
   {
     "name": "Cisco",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Cisco",
+      "domain": "cisco.com",
+      "logo": "https://logo.clearbit.com/cisco.com"
+    }
   },
   {
     "name": "IKEA",
     "origin": "Sweden",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "IKEA",
+      "domain": "ikea.com",
+      "logo": "https://logo.clearbit.com/ikea.com"
+    }
   },
   {
     "name": "CVS Health",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "CVS Health",
+      "domain": "cvshealth.com",
+      "logo": "https://logo.clearbit.com/cvshealth.com"
+    }
   },
   {
     "name": "NETFLIX",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Netflix",
+      "domain": "netflix.com",
+      "logo": "https://logo.clearbit.com/netflix.com"
+    }
   },
   {
     "name": "Mitsui Conglomerate",
@@ -17428,7 +17763,12 @@
     "name": "HSBC",
     "origin": "United Kingdom",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "HSBC",
+      "domain": "hsbc.com",
+      "logo": "https://logo.clearbit.com/hsbc.com"
+    }
   },
   {
     "name": "JP Morgan",
@@ -17440,7 +17780,12 @@
     "name": "Nestlé",
     "origin": "Switzerland",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Nestlé",
+      "domain": "nestle.com",
+      "logo": "https://logo.clearbit.com/nestle.com"
+    }
   },
   {
     "name": "Audi",
@@ -17452,7 +17797,12 @@
     "name": "SoftBank",
     "origin": "Japan",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "SoftBank",
+      "domain": "softbank.jp",
+      "logo": "https://logo.clearbit.com/softbank.jp"
+    }
   },
   {
     "name": "Ford",
@@ -17464,7 +17814,12 @@
     "name": "Pepsi",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Pepsi",
+      "domain": "pepsi.com",
+      "logo": "https://logo.clearbit.com/pepsi.com"
+    }
   },
   {
     "name": "LG Group",
@@ -17476,13 +17831,23 @@
     "name": "Zara",
     "origin": "Spain",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "ZARA",
+      "domain": "zara.com",
+      "logo": "https://logo.clearbit.com/zara.com"
+    }
   },
   {
     "name": "Mastercard",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Mastercard",
+      "domain": "mastercard.com.au",
+      "logo": "https://logo.clearbit.com/mastercard.com.au"
+    }
   },
   {
     "name": "Santander",
@@ -17494,37 +17859,67 @@
     "name": "RBC",
     "origin": "Canada",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "RBC",
+      "domain": "rbcroyalbank.com",
+      "logo": "https://logo.clearbit.com/rbcroyalbank.com"
+    }
   },
   {
     "name": "Costco",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Costco",
+      "domain": "costcoauto.com",
+      "logo": "https://logo.clearbit.com/costcoauto.com"
+    }
   },
   {
     "name": "Chevron",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Chevron",
+      "domain": "chevron.com",
+      "logo": "https://logo.clearbit.com/chevron.com"
+    }
   },
   {
     "name": "Instagram",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Instagram",
+      "domain": "instagram.com",
+      "logo": "https://logo.clearbit.com/instagram.com"
+    }
   },
   {
     "name": "Adidas",
     "origin": "Germany",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Adidas",
+      "domain": "adidas-group.com",
+      "logo": "https://logo.clearbit.com/adidas-group.com"
+    }
   },
   {
     "name": "Target",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Target",
+      "domain": "target.com",
+      "logo": "https://logo.clearbit.com/target.com"
+    }
   },
   {
     "name": "Fox",
@@ -17536,7 +17931,12 @@
     "name": "Walgreens",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Walgreens",
+      "domain": "walgreens.com",
+      "logo": "https://logo.clearbit.com/walgreens.com"
+    }
   },
   {
     "name": "H&M",
@@ -17554,13 +17954,23 @@
     "name": "AXA",
     "origin": "France",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "AXA",
+      "domain": "axa.com",
+      "logo": "https://logo.clearbit.com/axa.com"
+    }
   },
   {
     "name": "SAP",
     "origin": "Germany",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "SAP",
+      "domain": "sap.com",
+      "logo": "https://logo.clearbit.com/sap.com"
+    }
   },
   {
     "name": "AIA",
@@ -17572,7 +17982,12 @@
     "name": "Spectrum",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Spectrum",
+      "domain": "spectrum.net",
+      "logo": "https://logo.clearbit.com/spectrum.net"
+    }
   },
   {
     "name": "CRCC",
@@ -17584,13 +17999,23 @@
     "name": "BNP Paribas",
     "origin": "France",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "BNP Paribas",
+      "domain": "group.bnpparibas",
+      "logo": "https://logo.clearbit.com/group.bnpparibas"
+    }
   },
   {
     "name": "Gucci",
     "origin": "Italy",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Gucci",
+      "domain": "gucci.com",
+      "logo": "https://logo.clearbit.com/gucci.com"
+    }
   },
   {
     "name": "Alibaba",
@@ -17602,67 +18027,122 @@
     "name": "Capital One",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Capital One",
+      "domain": "capitalone.com",
+      "logo": "https://logo.clearbit.com/capitalone.com"
+    }
   },
   {
     "name": "NBC",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "NBC",
+      "domain": "nbc.com",
+      "logo": "https://logo.clearbit.com/nbc.com"
+    }
   },
   {
     "name": "Volvo",
     "origin": "Sweden",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Volvo",
+      "domain": "volvo.com",
+      "logo": "https://logo.clearbit.com/volvo.com"
+    }
   },
   {
     "name": "TD",
     "origin": "Canada",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "TD",
+      "domain": "td.com",
+      "logo": "https://logo.clearbit.com/td.com"
+    }
   },
   {
     "name": "Cartier",
     "origin": "France",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Cartier",
+      "domain": "cartier.com",
+      "logo": "https://logo.clearbit.com/cartier.com"
+    }
   },
   {
     "name": "Louis Vuitton",
     "origin": "France",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Louis Vuitton",
+      "domain": "louisvuitton.com",
+      "logo": "https://logo.clearbit.com/louisvuitton.com"
+    }
   },
   {
     "name": "Anthem",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Anthem",
+      "domain": "anthem.com",
+      "logo": "https://logo.clearbit.com/anthem.com"
+    }
   },
   {
     "name": "KFC",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "KFC",
+      "domain": "kfc.com",
+      "logo": "https://logo.clearbit.com/kfc.com"
+    }
   },
   {
     "name": "Petronas",
     "origin": "Malaysia",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "PETRONAS",
+      "domain": "petronas.com",
+      "logo": "https://logo.clearbit.com/petronas.com"
+    }
   },
   {
     "name": "CHEVROLET",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Chevrolet",
+      "domain": "chevrolet.com",
+      "logo": "https://logo.clearbit.com/chevrolet.com"
+    }
   },
   {
     "name": "ExxonMobil",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "ExxonMobil",
+      "domain": "exxonmobil.com",
+      "logo": "https://logo.clearbit.com/exxonmobil.com"
+    }
   },
   {
     "name": "Warner Bros.",
@@ -17674,13 +18154,23 @@
     "name": "Paypal",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "PayPal",
+      "domain": "paypal.com",
+      "logo": "https://logo.clearbit.com/paypal.com"
+    }
   },
   {
     "name": "Airbus",
     "origin": "France",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Airbus",
+      "domain": "airbus.com",
+      "logo": "https://logo.clearbit.com/airbus.com"
+    }
   },
   {
     "name": "KPMG",
@@ -17692,7 +18182,12 @@
     "name": "Optum",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Optum",
+      "domain": "optum.com",
+      "logo": "https://logo.clearbit.com/optum.com"
+    }
   },
   {
     "name": "Midea",
@@ -17704,25 +18199,45 @@
     "name": "Sberbank",
     "origin": "Russia",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Sberbank",
+      "domain": "sberbank.ru",
+      "logo": "https://logo.clearbit.com/sberbank.ru"
+    }
   },
   {
     "name": "Johnson & Johnson",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Johnson & Johnson",
+      "domain": "jnj.com",
+      "logo": "https://logo.clearbit.com/jnj.com"
+    }
   },
   {
     "name": "EDF",
     "origin": "France",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "EDF",
+      "domain": "edf.fr",
+      "logo": "https://logo.clearbit.com/edf.fr"
+    }
   },
   {
     "name": "booking.com",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Booking.com",
+      "domain": "booking.com",
+      "logo": "https://logo.clearbit.com/booking.com"
+    }
   },
   {
     "name": "CRECG",
@@ -17734,13 +18249,23 @@
     "name": "Barclays",
     "origin": "United Kingdom",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Barclays",
+      "domain": "home.barclays",
+      "logo": "https://logo.clearbit.com/home.barclays"
+    }
   },
   {
     "name": "Chanel",
     "origin": "France",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "CHANEL",
+      "domain": "chanel.com",
+      "logo": "https://logo.clearbit.com/chanel.com"
+    }
   },
   {
     "name": "JR",
@@ -17758,37 +18283,67 @@
     "name": "MUFG",
     "origin": "Japan",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "MUFG",
+      "domain": "mufg.jp",
+      "logo": "https://logo.clearbit.com/mufg.jp"
+    }
   },
   {
     "name": "Tesco",
     "origin": "United Kingdom",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Tesco",
+      "domain": "tesco.com",
+      "logo": "https://logo.clearbit.com/tesco.com"
+    }
   },
   {
     "name": "Scotiabank",
     "origin": "Canada",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Scotiabank",
+      "domain": "scotiabank.com",
+      "logo": "https://logo.clearbit.com/scotiabank.com"
+    }
   },
   {
     "name": "Renault",
     "origin": "France",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Renault",
+      "domain": "renault.com",
+      "logo": "https://logo.clearbit.com/renault.com"
+    }
   },
   {
     "name": "DHL",
     "origin": "Germany",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "DHL",
+      "domain": "dhl.com",
+      "logo": "https://logo.clearbit.com/dhl.com"
+    }
   },
   {
     "name": "CBS",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "CBS",
+      "domain": "cbs.com",
+      "logo": "https://logo.clearbit.com/cbs.com"
+    }
   },
   {
     "name": "Postal Savings Bank",
@@ -17800,19 +18355,34 @@
     "name": "Lockheed Martin",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Lockheed Martin",
+      "domain": "lmco.com",
+      "logo": "https://logo.clearbit.com/lmco.com"
+    }
   },
   {
     "name": "Hermès",
     "origin": "France",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Hermès",
+      "domain": "hermes.com",
+      "logo": "https://logo.clearbit.com/hermes.com"
+    }
   },
   {
     "name": "Aetna",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Aetna",
+      "domain": "aetna.com",
+      "logo": "https://logo.clearbit.com/aetna.com"
+    }
   },
   {
     "name": "Greenland",
@@ -17830,49 +18400,89 @@
     "name": "CPIC",
     "origin": "China",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "CPIC",
+      "domain": "cpicglobal.com",
+      "logo": "https://logo.clearbit.com/cpicglobal.com"
+    }
   },
   {
     "name": "Eni",
     "origin": "Italy",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Eni",
+      "domain": "eni.com",
+      "logo": "https://logo.clearbit.com/eni.com"
+    }
   },
   {
     "name": "Movistar",
     "origin": "Spain",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Movistar",
+      "domain": "movistar.es",
+      "logo": "https://logo.clearbit.com/movistar.es"
+    }
   },
   {
     "name": "Canon",
     "origin": "Japan",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Canon",
+      "domain": "global.canon",
+      "logo": "https://logo.clearbit.com/global.canon"
+    }
   },
   {
     "name": "UBS",
     "origin": "Switzerland",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "UBS",
+      "domain": "ubs.com",
+      "logo": "https://logo.clearbit.com/ubs.com"
+    }
   },
   {
     "name": "Telstra",
     "origin": "Australia",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Telstra",
+      "domain": "telstra.com.au",
+      "logo": "https://logo.clearbit.com/telstra.com.au"
+    }
   },
   {
     "name": "Goldman Sachs",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Goldman Sachs",
+      "domain": "goldmansachs.com",
+      "logo": "https://logo.clearbit.com/goldmansachs.com"
+    }
   },
   {
     "name": "Aldi",
     "origin": "Germany",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "ALDI",
+      "domain": "aldi-nord.de",
+      "logo": "https://logo.clearbit.com/aldi-nord.de"
+    }
   },
   {
     "name": "Sky",
@@ -17884,97 +18494,177 @@
     "name": "L'Oréal",
     "origin": "France",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "L'Oréal",
+      "domain": "lorealusa.com",
+      "logo": "https://logo.clearbit.com/lorealusa.com"
+    }
   },
   {
     "name": "Engie",
     "origin": "France",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "ENGIE",
+      "domain": "engie.fr",
+      "logo": "https://logo.clearbit.com/engie.fr"
+    }
   },
   {
     "name": "Enel",
     "origin": "Italy",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Enel",
+      "domain": "enel.com",
+      "logo": "https://logo.clearbit.com/enel.com"
+    }
   },
   {
     "name": "Humana",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Humana",
+      "domain": "humana.com",
+      "logo": "https://logo.clearbit.com/humana.com"
+    }
   },
   {
     "name": "Sam's Club",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Sam's Club",
+      "domain": "samsclub.com",
+      "logo": "https://logo.clearbit.com/samsclub.com"
+    }
   },
   {
     "name": "BMO",
     "origin": "Canada",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "BMO",
+      "domain": "bmo.com",
+      "logo": "https://logo.clearbit.com/bmo.com"
+    }
   },
   {
     "name": "Delta",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Delta",
+      "domain": "delta.com",
+      "logo": "https://logo.clearbit.com/delta.com"
+    }
   },
   {
     "name": "7-Eleven",
     "origin": "Japan",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "7-Eleven",
+      "domain": "7-eleven.com",
+      "logo": "https://logo.clearbit.com/7-eleven.com"
+    }
   },
   {
     "name": "U.S. Bank",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "U.S. Bank",
+      "domain": "usbank.com",
+      "logo": "https://logo.clearbit.com/usbank.com"
+    }
   },
   {
     "name": "Lexus",
     "origin": "Japan",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Lexus",
+      "domain": "lexus.com",
+      "logo": "https://logo.clearbit.com/lexus.com"
+    }
   },
   {
     "name": "Medtronic",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Medtronic",
+      "domain": "medtronic.com",
+      "logo": "https://logo.clearbit.com/medtronic.com"
+    }
   },
   {
     "name": "American Airlines",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "American Airlines",
+      "domain": "aa.com",
+      "logo": "https://logo.clearbit.com/aa.com"
+    }
   },
   {
     "name": "Carrefour",
     "origin": "France",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Carrefour",
+      "domain": "carrefour.com",
+      "logo": "https://logo.clearbit.com/carrefour.com"
+    }
   },
   {
     "name": "Sephora",
     "origin": "France",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Sephora",
+      "domain": "sephora.com",
+      "logo": "https://logo.clearbit.com/sephora.com"
+    }
   },
   {
     "name": "Union Pacific",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Union Pacific",
+      "domain": "unionpacific.com.ar",
+      "logo": "https://logo.clearbit.com/unionpacific.com.ar"
+    }
   },
   {
     "name": "Equinor",
     "origin": "Norway",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Equinor",
+      "domain": "equinor.com",
+      "logo": "https://logo.clearbit.com/equinor.com"
+    }
   },
   {
     "name": "PICC",
@@ -17998,13 +18688,23 @@
     "name": "Land Rover",
     "origin": "United Kingdom",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Land Rover",
+      "domain": "landroverusa.com",
+      "logo": "https://logo.clearbit.com/landroverusa.com"
+    }
   },
   {
     "name": "Morgan Stanley",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Morgan Stanley",
+      "domain": "morganstanley.com",
+      "logo": "https://logo.clearbit.com/morganstanley.com"
+    }
   },
   {
     "name": "DBS",
@@ -18022,7 +18722,12 @@
     "name": "eBay",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "eBay",
+      "domain": "ebay.com",
+      "logo": "https://logo.clearbit.com/ebay.com"
+    }
   },
   {
     "name": "Lidl",
@@ -18040,7 +18745,12 @@
     "name": "GEICO",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "GEICO",
+      "domain": "geico.com",
+      "logo": "https://logo.clearbit.com/geico.com"
+    }
   },
   {
     "name": "3M",
@@ -18052,7 +18762,12 @@
     "name": "Valero",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Valero",
+      "domain": "grupovalero.com",
+      "logo": "https://logo.clearbit.com/grupovalero.com"
+    }
   },
   {
     "name": "TIM",
@@ -18064,43 +18779,78 @@
     "name": "Cognizant",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Cognizant",
+      "domain": "cognizant.com",
+      "logo": "https://logo.clearbit.com/cognizant.com"
+    }
   },
   {
     "name": "Adobe",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Adobe",
+      "domain": "adobe.com",
+      "logo": "https://logo.clearbit.com/adobe.com"
+    }
   },
   {
     "name": "PNC",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "PNC",
+      "domain": "pnc.com",
+      "logo": "https://logo.clearbit.com/pnc.com"
+    }
   },
   {
     "name": "United Airlines",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "United Airlines",
+      "domain": "united.com",
+      "logo": "https://logo.clearbit.com/united.com"
+    }
   },
   {
     "name": "ABB",
     "origin": "Switzerland",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "ABB",
+      "domain": "abb.com",
+      "logo": "https://logo.clearbit.com/abb.com"
+    }
   },
   {
     "name": "ESPN",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "ESPN",
+      "domain": "espn.com",
+      "logo": "https://logo.clearbit.com/espn.com"
+    }
   },
   {
     "name": "Ferrari",
     "origin": "Italy",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Ferrari",
+      "domain": "ferrari.com",
+      "logo": "https://logo.clearbit.com/ferrari.com"
+    }
   },
   {
     "name": "Yahoo! Group",
@@ -18112,49 +18862,89 @@
     "name": "Broadcom",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Broadcom",
+      "domain": "broadcom.com",
+      "logo": "https://logo.clearbit.com/broadcom.com"
+    }
   },
   {
     "name": "BT",
     "origin": "United Kingdom",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "BT",
+      "domain": "bt.com",
+      "logo": "https://logo.clearbit.com/bt.com"
+    }
   },
   {
     "name": "Etisalat",
     "origin": "UAE",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Etisalat",
+      "domain": "etisalat.ae",
+      "logo": "https://logo.clearbit.com/etisalat.ae"
+    }
   },
   {
     "name": "Rabobank",
     "origin": "Netherlands",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Rabobank",
+      "domain": "rabobank.nl",
+      "logo": "https://logo.clearbit.com/rabobank.nl"
+    }
   },
   {
     "name": "BASF",
     "origin": "Germany",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "BASF",
+      "domain": "basf.com",
+      "logo": "https://logo.clearbit.com/basf.com"
+    }
   },
   {
     "name": "Honeywell",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Honeywell",
+      "domain": "honeywell.com",
+      "logo": "https://logo.clearbit.com/honeywell.com"
+    }
   },
   {
     "name": "Airbnb",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Airbnb",
+      "domain": "airbnb.com",
+      "logo": "https://logo.clearbit.com/airbnb.com"
+    }
   },
   {
     "name": "Zurich",
     "origin": "Switzerland",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Zurich",
+      "domain": "zurich.com",
+      "logo": "https://logo.clearbit.com/zurich.com"
+    }
   },
   {
     "name": "Poly  Development",
@@ -18178,13 +18968,23 @@
     "name": "Purina",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Purina",
+      "domain": "purina.com",
+      "logo": "https://logo.clearbit.com/purina.com"
+    }
   },
   {
     "name": "Cigna",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Cigna",
+      "domain": "cigna.com",
+      "logo": "https://logo.clearbit.com/cigna.com"
+    }
   },
   {
     "name": "3",
@@ -18196,31 +18996,56 @@
     "name": "Danone",
     "origin": "France",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Danone",
+      "domain": "danone.com",
+      "logo": "https://logo.clearbit.com/danone.com"
+    }
   },
   {
     "name": "Salesforce",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Salesforce",
+      "domain": "salesforce.com",
+      "logo": "https://logo.clearbit.com/salesforce.com"
+    }
   },
   {
     "name": "Gazprom",
     "origin": "Russia",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Gazprom",
+      "domain": "gazprom.com",
+      "logo": "https://logo.clearbit.com/gazprom.com"
+    }
   },
   {
     "name": "Woolworths",
     "origin": "Australia",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Woolworths",
+      "domain": "woolworths.co.za",
+      "logo": "https://logo.clearbit.com/woolworths.co.za"
+    }
   },
   {
     "name": "Rolex",
     "origin": "Switzerland",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "ROLEX",
+      "domain": "rolex.com",
+      "logo": "https://logo.clearbit.com/rolex.com"
+    }
   },
   {
     "name": "Hilton",
@@ -18232,13 +19057,23 @@
     "name": "Allstate",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Allstate",
+      "domain": "allstate.com",
+      "logo": "https://logo.clearbit.com/allstate.com"
+    }
   },
   {
     "name": "CIBC",
     "origin": "Canada",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "CIBC",
+      "domain": "cibc.com",
+      "logo": "https://logo.clearbit.com/cibc.com"
+    }
   },
   {
     "name": "Bell",
@@ -18250,7 +19085,12 @@
     "name": "Metlife",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "MetLife",
+      "domain": "metlife.com",
+      "logo": "https://logo.clearbit.com/metlife.com"
+    }
   },
   {
     "name": "Gree",
@@ -18262,13 +19102,23 @@
     "name": "Subway",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Subway",
+      "domain": "subway.com",
+      "logo": "https://logo.clearbit.com/subway.com"
+    }
   },
   {
     "name": "Vinci",
     "origin": "France",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "VINCI",
+      "domain": "vinci.com",
+      "logo": "https://logo.clearbit.com/vinci.com"
+    }
   },
   {
     "name": "Subaru",
@@ -18280,7 +19130,12 @@
     "name": "NatWest",
     "origin": "United Kingdom",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "NatWest",
+      "domain": "natwest.com",
+      "logo": "https://logo.clearbit.com/natwest.com"
+    }
   },
   {
     "name": "HPE",
@@ -18298,67 +19153,122 @@
     "name": "Northrop Grumman",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Northrop Grumman",
+      "domain": "northropgrumman.com",
+      "logo": "https://logo.clearbit.com/northropgrumman.com"
+    }
   },
   {
     "name": "Commonwealth Bank",
     "origin": "Australia",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Commonwealth Bank",
+      "domain": "commbank.com.au",
+      "logo": "https://logo.clearbit.com/commbank.com.au"
+    }
   },
   {
     "name": "Coach",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Coach",
+      "domain": "coach.com",
+      "logo": "https://logo.clearbit.com/coach.com"
+    }
   },
   {
     "name": "Progressive",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Progressive",
+      "domain": "progressive.com",
+      "logo": "https://logo.clearbit.com/progressive.com"
+    }
   },
   {
     "name": "Marubeni",
     "origin": "Japan",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Marubeni",
+      "domain": "marubeni.com",
+      "logo": "https://logo.clearbit.com/marubeni.com"
+    }
   },
   {
     "name": "Tesla",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Tesla",
+      "domain": "tesla.com",
+      "logo": "https://logo.clearbit.com/tesla.com"
+    }
   },
   {
     "name": "Budweiser",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Budweiser",
+      "domain": "budweiser.com",
+      "logo": "https://logo.clearbit.com/budweiser.com"
+    }
   },
   {
     "name": "Credit Suisse",
     "origin": "Switzerland",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Credit Suisse",
+      "domain": "credit-suisse.com",
+      "logo": "https://logo.clearbit.com/credit-suisse.com"
+    }
   },
   {
     "name": "Red Bull",
     "origin": "Austria",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Red Bull",
+      "domain": "redbull.com",
+      "logo": "https://logo.clearbit.com/redbull.com"
+    }
   },
   {
     "name": "Qualcomm",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Qualcomm",
+      "domain": "qualcomm.com",
+      "logo": "https://logo.clearbit.com/qualcomm.com"
+    }
   },
   {
     "name": "Publix",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Publix",
+      "domain": "publix.com",
+      "logo": "https://logo.clearbit.com/publix.com"
+    }
   },
   {
     "name": "Prudential (US)",
@@ -18370,7 +19280,12 @@
     "name": "Activision Blizzard",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Activision Blizzard",
+      "domain": "activisionblizzard.com",
+      "logo": "https://logo.clearbit.com/activisionblizzard.com"
+    }
   },
   {
     "name": "Tyson",
@@ -18382,19 +19297,34 @@
     "name": "Société Générale",
     "origin": "France",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Société Générale",
+      "domain": "societegenerale.com",
+      "logo": "https://logo.clearbit.com/societegenerale.com"
+    }
   },
   {
     "name": "Sprint",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Sprint",
+      "domain": "sprint.com",
+      "logo": "https://logo.clearbit.com/sprint.com"
+    }
   },
   {
     "name": "Michelin",
     "origin": "France",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Michelin",
+      "domain": "michelin.com",
+      "logo": "https://logo.clearbit.com/michelin.com"
+    }
   },
   {
     "name": "T.J. Maxx",
@@ -18406,13 +19336,23 @@
     "name": "Schlumberger",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Schlumberger",
+      "domain": "slb.com",
+      "logo": "https://logo.clearbit.com/slb.com"
+    }
   },
   {
     "name": "Poste Italiane",
     "origin": "Italy",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Poste Italiane",
+      "domain": "poste.it",
+      "logo": "https://logo.clearbit.com/poste.it"
+    }
   },
   {
     "name": "Generali Group",
@@ -18442,43 +19382,78 @@
     "name": "Fresenius",
     "origin": "Germany",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Fresenius",
+      "domain": "fresenius.com",
+      "logo": "https://logo.clearbit.com/fresenius.com"
+    }
   },
   {
     "name": "Bud Light",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Bud Light",
+      "domain": "budlight.com",
+      "logo": "https://logo.clearbit.com/budlight.com"
+    }
   },
   {
     "name": "Victoria's Secret",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Victoria's Secret",
+      "domain": "victoriassecret.com",
+      "logo": "https://logo.clearbit.com/victoriassecret.com"
+    }
   },
   {
     "name": "Roche",
     "origin": "Switzerland",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Roche",
+      "domain": "roche.com",
+      "logo": "https://logo.clearbit.com/roche.com"
+    }
   },
   {
     "name": "Telus",
     "origin": "Canada",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "TELUS",
+      "domain": "telus.com",
+      "logo": "https://logo.clearbit.com/telus.com"
+    }
   },
   {
     "name": "NIVEA",
     "origin": "Germany",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "NIVEA",
+      "domain": "nivea-me.com",
+      "logo": "https://logo.clearbit.com/nivea-me.com"
+    }
   },
   {
     "name": "CHINA OVERSEAS LAND & INVESTMENT",
     "origin": "China (Hong Kong)",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "China Overseas Land & Investment",
+      "domain": "coli.com.hk",
+      "logo": "https://logo.clearbit.com/coli.com.hk"
+    }
   },
   {
     "name": "Ross Dress For Less",
@@ -18496,7 +19471,12 @@
     "name": "Itaú",
     "origin": "Brazil",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Itaú",
+      "domain": "itau.cl",
+      "logo": "https://logo.clearbit.com/itau.cl"
+    }
   },
   {
     "name": "Brookfield",
@@ -18508,7 +19488,12 @@
     "name": "Heineken",
     "origin": "Netherlands",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Heineken",
+      "domain": "heineken.com",
+      "logo": "https://logo.clearbit.com/heineken.com"
+    }
   },
   {
     "name": "Enterprise",
@@ -18520,13 +19505,23 @@
     "name": "Lloyds Bank",
     "origin": "United Kingdom",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Lloyds Bank",
+      "domain": "lloydsbank.com",
+      "logo": "https://logo.clearbit.com/lloydsbank.com"
+    }
   },
   {
     "name": "KEPCO",
     "origin": "South Korea",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Kepco",
+      "domain": "kepcopower.com",
+      "logo": "https://logo.clearbit.com/kepcopower.com"
+    }
   },
   {
     "name": "Lego",
@@ -18544,7 +19539,12 @@
     "name": "Pampers",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Pampers",
+      "domain": "pampers.com",
+      "logo": "https://logo.clearbit.com/pampers.com"
+    }
   },
   {
     "name": "BNSF",
@@ -18574,19 +19574,34 @@
     "name": "Southwest Airlines",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Southwest Airlines",
+      "domain": "southwest.com",
+      "logo": "https://logo.clearbit.com/southwest.com"
+    }
   },
   {
     "name": "ANZ",
     "origin": "Australia",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "ANZ",
+      "domain": "anz.com.au",
+      "logo": "https://logo.clearbit.com/anz.com.au"
+    }
   },
   {
     "name": "Dollar General",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Dollar General",
+      "domain": "dollargeneral.com",
+      "logo": "https://logo.clearbit.com/dollargeneral.com"
+    }
   },
   {
     "name": "Bouygues",
@@ -18604,13 +19619,23 @@
     "name": "Centurylink",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "CenturyLink",
+      "domain": "centurylink.com",
+      "logo": "https://logo.clearbit.com/centurylink.com"
+    }
   },
   {
     "name": "ADP",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "ADP",
+      "domain": "adp.com",
+      "logo": "https://logo.clearbit.com/adp.com"
+    }
   },
   {
     "name": "Prudential (UK)",
@@ -18622,19 +19647,34 @@
     "name": "John Deere",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "John Deere",
+      "domain": "deere.com",
+      "logo": "https://logo.clearbit.com/deere.com"
+    }
   },
   {
     "name": "Merrill Lynch",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Merrill Lynch",
+      "domain": "ml.com",
+      "logo": "https://logo.clearbit.com/ml.com"
+    }
   },
   {
     "name": "Dior",
     "origin": "France",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Dior",
+      "domain": "dior.com",
+      "logo": "https://logo.clearbit.com/dior.com"
+    }
   },
   {
     "name": "HCA",
@@ -18646,13 +19686,23 @@
     "name": "Safran",
     "origin": "France",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Safran",
+      "domain": "safran-group.com",
+      "logo": "https://logo.clearbit.com/safran-group.com"
+    }
   },
   {
     "name": "Emirates",
     "origin": "UAE",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Emirates",
+      "domain": "emirates.com",
+      "logo": "https://logo.clearbit.com/emirates.com"
+    }
   },
   {
     "name": "nab",
@@ -18664,13 +19714,23 @@
     "name": "Bayer",
     "origin": "Germany",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Bayer",
+      "domain": "bayer.com",
+      "logo": "https://logo.clearbit.com/bayer.com"
+    }
   },
   {
     "name": "Discover",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Discover",
+      "domain": "discover.com",
+      "logo": "https://logo.clearbit.com/discover.com"
+    }
   },
   {
     "name": "ABC",
@@ -18682,13 +19742,23 @@
     "name": "20th Century Fox",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "20th Century Fox",
+      "domain": "foxkorea.co.kr",
+      "logo": "https://logo.clearbit.com/foxkorea.co.kr"
+    }
   },
   {
     "name": "LinkedIn",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "LinkedIn",
+      "domain": "linkedin.com",
+      "logo": "https://logo.clearbit.com/linkedin.com"
+    }
   },
   {
     "name": "Mizuho Financial Group",
@@ -18700,13 +19770,23 @@
     "name": "Bradesco",
     "origin": "Brazil",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "bradesco",
+      "domain": "empresasemrede.com.br",
+      "logo": "https://logo.clearbit.com/empresasemrede.com.br"
+    }
   },
   {
     "name": "General Dynamics",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "General Dynamics",
+      "domain": "gd.com",
+      "logo": "https://logo.clearbit.com/gd.com"
+    }
   },
   {
     "name": "Geely Auto",
@@ -18724,13 +19804,23 @@
     "name": "Swisscom",
     "origin": "Switzerland",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Swisscom",
+      "domain": "swisscom.ch",
+      "logo": "https://logo.clearbit.com/swisscom.ch"
+    }
   },
   {
     "name": "BHP",
     "origin": "Australia",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "BHP",
+      "domain": "bhp.com",
+      "logo": "https://logo.clearbit.com/bhp.com"
+    }
   },
   {
     "name": "Nescafé",
@@ -18748,61 +19838,111 @@
     "name": "Chubb",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Chubb",
+      "domain": "chubb.com",
+      "logo": "https://logo.clearbit.com/chubb.com"
+    }
   },
   {
     "name": "Capgemini",
     "origin": "France",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Capgemini",
+      "domain": "capgemini.com",
+      "logo": "https://logo.clearbit.com/capgemini.com"
+    }
   },
   {
     "name": "Crédit Agricole",
     "origin": "France",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Crédit Agricole",
+      "domain": "credit-agricole.fr",
+      "logo": "https://logo.clearbit.com/credit-agricole.fr"
+    }
   },
   {
     "name": "Saint-Gobain",
     "origin": "France",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Saint-Gobain",
+      "domain": "saint-gobain.com",
+      "logo": "https://logo.clearbit.com/saint-gobain.com"
+    }
   },
   {
     "name": "SFR",
     "origin": "France",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "SFR",
+      "domain": "sfr.fr",
+      "logo": "https://logo.clearbit.com/sfr.fr"
+    }
   },
   {
     "name": "Sainsbury's",
     "origin": "United Kingdom",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Sainsbury's",
+      "domain": "sainsburys.co.uk",
+      "logo": "https://logo.clearbit.com/sainsburys.co.uk"
+    }
   },
   {
     "name": "Lukoil",
     "origin": "Russia",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "LUKOIL",
+      "domain": "lukoil.com",
+      "logo": "https://logo.clearbit.com/lukoil.com"
+    }
   },
   {
     "name": "Daiwa House",
     "origin": "Japan",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Daiwa House",
+      "domain": "daiwahouse.co.jp",
+      "logo": "https://logo.clearbit.com/daiwahouse.co.jp"
+    }
   },
   {
     "name": "Sysco",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Sysco",
+      "domain": "sysco.com",
+      "logo": "https://logo.clearbit.com/sysco.com"
+    }
   },
   {
     "name": "PTT",
     "origin": "Thailand",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Ptt",
+      "domain": "ptt.gov.tr",
+      "logo": "https://logo.clearbit.com/ptt.gov.tr"
+    }
   },
   {
     "name": "Telenor",
@@ -18814,7 +19954,12 @@
     "name": "El Corte Inglés",
     "origin": "Spain",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "El Corte Inglés",
+      "domain": "elcorteingles.es",
+      "logo": "https://logo.clearbit.com/elcorteingles.es"
+    }
   },
   {
     "name": "Pall Mall",
@@ -18832,13 +19977,23 @@
     "name": "OCBC Bank",
     "origin": "Singapore",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "OCBC Bank",
+      "domain": "ocbc.com",
+      "logo": "https://logo.clearbit.com/ocbc.com"
+    }
   },
   {
     "name": "Nordea",
     "origin": "Denmark",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Nordea",
+      "domain": "nordea.com",
+      "logo": "https://logo.clearbit.com/nordea.com"
+    }
   },
   {
     "name": "Chunghwa",
@@ -18850,13 +20005,23 @@
     "name": "Kroger",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Kroger",
+      "domain": "kroger.com",
+      "logo": "https://logo.clearbit.com/kroger.com"
+    }
   },
   {
     "name": "Asda",
     "origin": "United Kingdom",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Asda",
+      "domain": "asda.com",
+      "logo": "https://logo.clearbit.com/asda.com"
+    }
   },
   {
     "name": "CNOOC",
@@ -18868,43 +20033,78 @@
     "name": "Standard Chartered",
     "origin": "China",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Standard Chartered",
+      "domain": "sc.com",
+      "logo": "https://logo.clearbit.com/sc.com"
+    }
   },
   {
     "name": "DXC Technology",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "DXC Technology",
+      "domain": "dxc.technology",
+      "logo": "https://logo.clearbit.com/dxc.technology"
+    }
   },
   {
     "name": "Travelers",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Travelers",
+      "domain": "travelers.com",
+      "logo": "https://logo.clearbit.com/travelers.com"
+    }
   },
   {
     "name": "Tim Hortons",
     "origin": "Canada",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Tim Hortons",
+      "domain": "timhortons.com",
+      "logo": "https://logo.clearbit.com/timhortons.com"
+    }
   },
   {
     "name": "BUICK",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Buick",
+      "domain": "buick.com",
+      "logo": "https://logo.clearbit.com/buick.com"
+    }
   },
   {
     "name": "McLane",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "McLane",
+      "domain": "mclaneco.com",
+      "logo": "https://logo.clearbit.com/mclaneco.com"
+    }
   },
   {
     "name": "Sprite",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Sprite",
+      "domain": "sprite.com",
+      "logo": "https://logo.clearbit.com/sprite.com"
+    }
   },
   {
     "name": "Nippon Life Insurance",
@@ -18916,31 +20116,56 @@
     "name": "Raytheon",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Raytheon",
+      "domain": "mathalive.com",
+      "logo": "https://logo.clearbit.com/mathalive.com"
+    }
   },
   {
     "name": "Intesa Sanpaolo",
     "origin": "Italy",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Intesa Sanpaolo",
+      "domain": "intesasanpaolo.com",
+      "logo": "https://logo.clearbit.com/intesasanpaolo.com"
+    }
   },
   {
     "name": "Swiss Re",
     "origin": "Switzerland",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Swiss Re",
+      "domain": "swissre.com",
+      "logo": "https://logo.clearbit.com/swissre.com"
+    }
   },
   {
     "name": "Coles",
     "origin": "Australia",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Coles",
+      "domain": "colescareers.com.au",
+      "logo": "https://logo.clearbit.com/colescareers.com.au"
+    }
   },
   {
     "name": "Carmax",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "CarMax",
+      "domain": "carmax.com",
+      "logo": "https://logo.clearbit.com/carmax.com"
+    }
   },
   {
     "name": "Emerson Electric",
@@ -18952,79 +20177,144 @@
     "name": "Macy's",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Macy's",
+      "domain": "macys.com",
+      "logo": "https://logo.clearbit.com/macys.com"
+    }
   },
   {
     "name": "CLINIQUE",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Clinique",
+      "domain": "clinique.com",
+      "logo": "https://logo.clearbit.com/clinique.com"
+    }
   },
   {
     "name": "Innogy",
     "origin": "Germany",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "innogy",
+      "domain": "innogy.com",
+      "logo": "https://logo.clearbit.com/innogy.com"
+    }
   },
   {
     "name": "Pizza Hut",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Pizza Hut",
+      "domain": "pizzahut.com",
+      "logo": "https://logo.clearbit.com/pizzahut.com"
+    }
   },
   {
     "name": "Circle K",
     "origin": "Canada",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Circle K",
+      "domain": "circlek.com",
+      "logo": "https://logo.clearbit.com/circlek.com"
+    }
   },
   {
     "name": "AutoZone",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "AutoZone",
+      "domain": "autozone.com",
+      "logo": "https://logo.clearbit.com/autozone.com"
+    }
   },
   {
     "name": "Micron Technology",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Micron Technology",
+      "domain": "micron.com",
+      "logo": "https://logo.clearbit.com/micron.com"
+    }
   },
   {
     "name": "E.Leclerc",
     "origin": "France",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "E.Leclerc",
+      "domain": "e-leclerc.com",
+      "logo": "https://logo.clearbit.com/e-leclerc.com"
+    }
   },
   {
     "name": "Westpac",
     "origin": "Australia",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Westpac",
+      "domain": "westpac.com.au",
+      "logo": "https://logo.clearbit.com/westpac.com.au"
+    }
   },
   {
     "name": "Texas Instruments",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Texas Instruments",
+      "domain": "ti.com",
+      "logo": "https://logo.clearbit.com/ti.com"
+    }
   },
   {
     "name": "Deutsche Post",
     "origin": "Germany",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Deutsche Post",
+      "domain": "deutschepost.de",
+      "logo": "https://logo.clearbit.com/deutschepost.de"
+    }
   },
   {
     "name": "Kohl's",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Kohl's",
+      "domain": "kohls.com",
+      "logo": "https://logo.clearbit.com/kohls.com"
+    }
   },
   {
     "name": "HBO",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "HBO",
+      "domain": "hbo.com",
+      "logo": "https://logo.clearbit.com/hbo.com"
+    }
   },
   {
     "name": "Dalian Wanda",
@@ -19048,13 +20338,23 @@
     "name": "BBC",
     "origin": "United Kingdom",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "BBC",
+      "domain": "bbc.com",
+      "logo": "https://logo.clearbit.com/bbc.com"
+    }
   },
   {
     "name": "Guerlain",
     "origin": "France",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Guerlain",
+      "domain": "guerlain.com",
+      "logo": "https://logo.clearbit.com/guerlain.com"
+    }
   },
   {
     "name": "Pantene",
@@ -19078,13 +20378,23 @@
     "name": "Suzuki",
     "origin": "Japan",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Suzuki",
+      "domain": "suzukicycles.com",
+      "logo": "https://logo.clearbit.com/suzukicycles.com"
+    }
   },
   {
     "name": "ConocoPhillips",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "ConocoPhillips",
+      "domain": "conocophillips.com",
+      "logo": "https://logo.clearbit.com/conocophillips.com"
+    }
   },
   {
     "name": "ctrip.com",
@@ -19102,13 +20412,23 @@
     "name": "Discovery",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Discovery",
+      "domain": "discovery.com",
+      "logo": "https://logo.clearbit.com/discovery.com"
+    }
   },
   {
     "name": "Estée Lauder",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Estée Lauder",
+      "domain": "esteelauder.com",
+      "logo": "https://logo.clearbit.com/esteelauder.com"
+    }
   },
   {
     "name": "Victoria",
@@ -19120,7 +20440,12 @@
     "name": "CNBM",
     "origin": "China",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "CNBM",
+      "domain": "paper-pulper.com",
+      "logo": "https://logo.clearbit.com/paper-pulper.com"
+    }
   },
   {
     "name": "Tokio Marine Holdings",
@@ -19138,25 +20463,45 @@
     "name": "AIG",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "AIG",
+      "domain": "aig.com",
+      "logo": "https://logo.clearbit.com/aig.com"
+    }
   },
   {
     "name": "Sodexo",
     "origin": "France",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Sodexo",
+      "domain": "sodexo.com",
+      "logo": "https://logo.clearbit.com/sodexo.com"
+    }
   },
   {
     "name": "VMWARE",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "VMware",
+      "domain": "vmware.com",
+      "logo": "https://logo.clearbit.com/vmware.com"
+    }
   },
   {
     "name": "Galaxy Macau",
     "origin": "China (Hong Kong)",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Galaxy Macau",
+      "domain": "galaxymacau.com",
+      "logo": "https://logo.clearbit.com/galaxymacau.com"
+    }
   },
   {
     "name": "Las Vegas Sands Corporation",
@@ -19168,7 +20513,12 @@
     "name": "Pfizer",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Pfizer",
+      "domain": "pfizer.com",
+      "logo": "https://logo.clearbit.com/pfizer.com"
+    }
   },
   {
     "name": "Wrigley's",
@@ -19180,19 +20530,34 @@
     "name": "Applied Materials",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Applied Materials",
+      "domain": "appliedmaterials.com",
+      "logo": "https://logo.clearbit.com/appliedmaterials.com"
+    }
   },
   {
     "name": "Telia",
     "origin": "Sweden",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Telia",
+      "domain": "telia.lt",
+      "logo": "https://logo.clearbit.com/telia.lt"
+    }
   },
   {
     "name": "Lay's",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "LAY'S",
+      "domain": "lays.com",
+      "logo": "https://logo.clearbit.com/lays.com"
+    }
   },
   {
     "name": "Centene Corporation",
@@ -19204,43 +20569,78 @@
     "name": "Burberry",
     "origin": "United Kingdom",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Burberry",
+      "domain": "burberry.com",
+      "logo": "https://logo.clearbit.com/burberry.com"
+    }
   },
   {
     "name": "McCain",
     "origin": "Canada",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "McCain",
+      "domain": "mccain-inc.com",
+      "logo": "https://logo.clearbit.com/mccain-inc.com"
+    }
   },
   {
     "name": "Huggies",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Huggies",
+      "domain": "huggies.com",
+      "logo": "https://logo.clearbit.com/huggies.com"
+    }
   },
   {
     "name": "BAE Systems",
     "origin": "United Kingdom",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "BAE Systems",
+      "domain": "baesystems.com",
+      "logo": "https://logo.clearbit.com/baesystems.com"
+    }
   },
   {
     "name": "Johnnie Walker",
     "origin": "United Kingdom",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Johnnie Walker",
+      "domain": "johnniewalker.com",
+      "logo": "https://logo.clearbit.com/johnniewalker.com"
+    }
   },
   {
     "name": "Nordstrom",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Nordstrom",
+      "domain": "nordstrom.com",
+      "logo": "https://logo.clearbit.com/nordstrom.com"
+    }
   },
   {
     "name": "Petrobras",
     "origin": "Brazil",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Petrobras",
+      "domain": "petrobras.com.br",
+      "logo": "https://logo.clearbit.com/petrobras.com.br"
+    }
   },
   {
     "name": "Cathay Life Insurance Co",
@@ -19252,7 +20652,12 @@
     "name": "CSX",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "CSX",
+      "domain": "csx.com",
+      "logo": "https://logo.clearbit.com/csx.com"
+    }
   },
   {
     "name": "Dunkin'",
@@ -19264,13 +20669,23 @@
     "name": "Crédit Mutuel",
     "origin": "France",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Crédit Mutuel",
+      "domain": "creditmutuel.fr",
+      "logo": "https://logo.clearbit.com/creditmutuel.fr"
+    }
   },
   {
     "name": "Telkom Indonesia",
     "origin": "Indonesia",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Telkom Indonesia",
+      "domain": "telkom.co.id",
+      "logo": "https://logo.clearbit.com/telkom.co.id"
+    }
   },
   {
     "name": "CN",
@@ -19288,7 +20703,12 @@
     "name": "ABN AMRO",
     "origin": "Netherlands",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "ABN AMRO",
+      "domain": "abnamro.com",
+      "logo": "https://logo.clearbit.com/abnamro.com"
+    }
   },
   {
     "name": "Chow Tai Fook",
@@ -19318,19 +20738,34 @@
     "name": "Aflac",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Aflac",
+      "domain": "aflac.com",
+      "logo": "https://logo.clearbit.com/aflac.com"
+    }
   },
   {
     "name": "Prada",
     "origin": "Italy",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Prada",
+      "domain": "prada.com",
+      "logo": "https://logo.clearbit.com/prada.com"
+    }
   },
   {
     "name": "Dove",
     "origin": "United Kingdom",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Dove",
+      "domain": "dove.com",
+      "logo": "https://logo.clearbit.com/dove.com"
+    }
   },
   {
     "name": "CFLD",
@@ -19348,31 +20783,56 @@
     "name": "Maersk",
     "origin": "Denmark",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Maersk",
+      "domain": "maersk.com",
+      "logo": "https://logo.clearbit.com/maersk.com"
+    }
   },
   {
     "name": "Abbott",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Abbott",
+      "domain": "abbott.com",
+      "logo": "https://logo.clearbit.com/abbott.com"
+    }
   },
   {
     "name": "KBC",
     "origin": "Belgium",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "KBC",
+      "domain": "kbc.global",
+      "logo": "https://logo.clearbit.com/kbc.global"
+    }
   },
   {
     "name": "SSE",
     "origin": "United Kingdom",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "SSE",
+      "domain": "sse.co.uk",
+      "logo": "https://logo.clearbit.com/sse.co.uk"
+    }
   },
   {
     "name": "The North Face",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "The North Face",
+      "domain": "thenorthface.com",
+      "logo": "https://logo.clearbit.com/thenorthface.com"
+    }
   },
   {
     "name": "CCCC",
@@ -19384,13 +20844,23 @@
     "name": "Garnier",
     "origin": "France",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Garnier",
+      "domain": "garnierusa.com",
+      "logo": "https://logo.clearbit.com/garnierusa.com"
+    }
   },
   {
     "name": "United Technologies",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "United Technologies",
+      "domain": "united.com.hk",
+      "logo": "https://logo.clearbit.com/united.com.hk"
+    }
   },
   {
     "name": "Doosan Group",
@@ -19402,7 +20872,12 @@
     "name": "Omega",
     "origin": "Switzerland",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "OMEGA",
+      "domain": "omegawatches.com",
+      "logo": "https://logo.clearbit.com/omegawatches.com"
+    }
   },
   {
     "name": "Polo Ralph Lauren",
@@ -19414,13 +20889,23 @@
     "name": "Repsol",
     "origin": "Spain",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Repsol",
+      "domain": "repsol.com",
+      "logo": "https://logo.clearbit.com/repsol.com"
+    }
   },
   {
     "name": "Cummins",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Cummins",
+      "domain": "cummins.com",
+      "logo": "https://logo.clearbit.com/cummins.com"
+    }
   },
   {
     "name": "Ferguson",
@@ -19432,19 +20917,34 @@
     "name": "Thales",
     "origin": "France",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Thales",
+      "domain": "thalesgroup.com",
+      "logo": "https://logo.clearbit.com/thalesgroup.com"
+    }
   },
   {
     "name": "CaixaBank",
     "origin": "Spain",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "CaixaBank",
+      "domain": "caixabank.es",
+      "logo": "https://logo.clearbit.com/caixabank.es"
+    }
   },
   {
     "name": "La Poste",
     "origin": "France",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "La Poste",
+      "domain": "laposte.fr",
+      "logo": "https://logo.clearbit.com/laposte.fr"
+    }
   },
   {
     "name": "Shinhan Financial Group",
@@ -19456,19 +20956,34 @@
     "name": "ArcelorMittal",
     "origin": "Luxembourg",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "ArcelorMittal",
+      "domain": "arcelormittal.com",
+      "logo": "https://logo.clearbit.com/arcelormittal.com"
+    }
   },
   {
     "name": "BB&T",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "BB&T",
+      "domain": "bbt.com",
+      "logo": "https://logo.clearbit.com/bbt.com"
+    }
   },
   {
     "name": "Banco do Brasil",
     "origin": "Brazil",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Banco do Brasil",
+      "domain": "bb.com.br",
+      "logo": "https://logo.clearbit.com/bb.com.br"
+    }
   },
   {
     "name": "Viettel Telecom",
@@ -19492,25 +21007,45 @@
     "name": "Deutsche Bank",
     "origin": "Germany",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Deutsche Bank",
+      "domain": "db.com",
+      "logo": "https://logo.clearbit.com/db.com"
+    }
   },
   {
     "name": "Carrier",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Carrier",
+      "domain": "carrier.com",
+      "logo": "https://logo.clearbit.com/carrier.com"
+    }
   },
   {
     "name": "Clarins",
     "origin": "France",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Clarins",
+      "domain": "clarinsusa.com",
+      "logo": "https://logo.clearbit.com/clarinsusa.com"
+    }
   },
   {
     "name": "CNP Assurances",
     "origin": "France",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "CNP Assurances",
+      "domain": "cnp.fr",
+      "logo": "https://logo.clearbit.com/cnp.fr"
+    }
   },
   {
     "name": "Tide/Ariel",
@@ -19522,13 +21057,23 @@
     "name": "Bloomberg",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Bloomberg",
+      "domain": "bloomberg.com",
+      "logo": "https://logo.clearbit.com/bloomberg.com"
+    }
   },
   {
     "name": "Safeway",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Safeway",
+      "domain": "safeway.com",
+      "logo": "https://logo.clearbit.com/safeway.com"
+    }
   },
   {
     "name": "Caixa",
@@ -19546,25 +21091,45 @@
     "name": "Halliburton",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Halliburton",
+      "domain": "halliburton.com",
+      "logo": "https://logo.clearbit.com/halliburton.com"
+    }
   },
   {
     "name": "Adecco",
     "origin": "Switzerland",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Adecco",
+      "domain": "adeccousa.com",
+      "logo": "https://logo.clearbit.com/adeccousa.com"
+    }
   },
   {
     "name": "Maybank",
     "origin": "Malaysia",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Maybank",
+      "domain": "maybank.com",
+      "logo": "https://logo.clearbit.com/maybank.com"
+    }
   },
   {
     "name": "Gatorade",
     "origin": "United States",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "value": {
+      "name": "Gatorade",
+      "domain": "gatorade.com",
+      "logo": "https://logo.clearbit.com/gatorade.com"
+    }
   },
   {
     "name": "KB Financial Group",
