@@ -560,6 +560,12 @@
   },
   {
     "type": "COMPANY",
+    "origin": "India",
+    "name": "Ola Cabs",
+    "source": "https://en.wikipedia.org/wiki/Ola_Cabs"
+  },
+  {
+    "type": "COMPANY",
     "origin": "China",
     "name": "China Shenhua Energy",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Lists_of_companies_by_country&from=C",
@@ -2544,6 +2550,12 @@
   {
     "type": "COMPANY",
     "origin": "India",
+    "name": "Dream 11",
+    "source": "https://en.wikipedia.org/wiki/Dream11"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "India",
     "name": "Delhivery",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands",
     "value": {
@@ -2910,6 +2922,12 @@
     "origin": "India",
     "name": "Hero Motors Company",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "India",
+    "name": "MakeMyTrip",
+    "source": "https://en.wikipedia.org/wiki/MakeMyTrip"
   },
   {
     "type": "COMPANY",
@@ -3898,6 +3916,42 @@
     "origin": "India",
     "name": "Parle-G",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "India",
+    "name": "PolicyBazaar",
+    "source": "https://en.wikipedia.org/wiki/PolicyBazaar"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "India",
+    "name": "Quikr",
+    "source": "https://en.wikipedia.org/wiki/Quikr"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "India",
+    "name": "Rivigo",
+    "source": "https://techcrunch.com/2019/07/10/rivigo-india-seriese/"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "India",
+    "name": "Zomato",
+    "source": "https://en.wikipedia.org/wiki/Zomato"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "India",
+    "name": "Swiggy",
+    "source": "https://en.wikipedia.org/wiki/Swiggy"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "India",
+    "name": "Udaan",
+    "source": "https://techcrunch.com/2019/10/02/udaan-series-d/"
   },
   {
     "type": "COMPANY",
@@ -14282,6 +14336,18 @@
     "origin": "Japan",
     "name": "Orion Breweries",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "India",
+    "name": "BigBasket",
+    "source": "https://en.wikipedia.org/wiki/Bigbasket"
+  },
+  {
+    "type": "COMPANY",
+    "origin": "India",
+    "name": "Byju’s",
+    "source": "https://en.wikipedia.org/wiki/BYJU%27S"
   },
   {
     "type": "COMPANY",
