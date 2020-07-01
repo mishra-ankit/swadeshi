@@ -44,7 +44,7 @@ function setGaugeValue(value) {
   var gaugeText = " - ";
   var gaugeTextEle = document.getElementById("preview-textfield");
   var wipDiv = document.getElementById("work-in-progress");
-  wipDiv.style.display = "None";
+  wipDiv.style.display = "block";
   switch (value) {
     case Color.RED:
       demoGauge.set(2625);
@@ -55,7 +55,6 @@ function setGaugeValue(value) {
       demoGauge.set(375);
       gaugeText = getGaugeText(Color.GREEN);
       gaugeTextEle.style.color = Color.GREEN;
-      wipDiv.style.display = "block";
       break;
     case Color.YELLOW:
       demoGauge.set(1875);
@@ -92,18 +91,27 @@ function onItemSelected(feedback) {
     selectedObj.origin;
   document.querySelector("#selected-country-source").href = selectedObj.source;
   document.querySelector("#autoComplete").value = selectedObj.name;
-  setGaugeValue(getRating(selectedObj.type, selectedObj.origin));
+  if (selectedObj.hasChineseInvestment) {
+    document.getElementById("note").innerText =
+      "*The company has some Chinese investments.";
+  } else {
+    document.getElementById("note").innerText = "";
+  }
+  setGaugeValue(getRating(selectedObj));
   gtag("event", "found", {
     event_label: selectedObj.name,
     value: selectedObj.name,
   });
 }
 
-function getRating(type, origin, manufacturedIn) {
+function getRating({ type, origin, hasChineseInvestment }) {
   if (!origin) {
     return Color.YELLOW;
   }
   if (origin.toLowerCase() === Country.INDIA.toLowerCase()) {
+    if (hasChineseInvestment) {
+      return Color.ORANGE;
+    }
     return Color.GREEN;
   } else if (origin.toLowerCase() === Country.CHINA.toLowerCase()) {
     return Color.RED;

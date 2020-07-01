@@ -562,6 +562,8 @@
     "type": "COMPANY",
     "origin": "India",
     "name": "Ola Cabs",
+    "hasChineseInvestment": true,
+    "investmentSrc": "",
     "source": "https://en.wikipedia.org/wiki/Ola_Cabs"
   },
   {
