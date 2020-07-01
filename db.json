@@ -2551,12 +2551,16 @@
     "type": "COMPANY",
     "origin": "India",
     "name": "Dream 11",
+    "hasChineseInvestment": true,
+    "investmentSrc": "",
     "source": "https://en.wikipedia.org/wiki/Dream11"
   },
   {
     "type": "COMPANY",
     "origin": "India",
     "name": "Delhivery",
+    "hasChineseInvestment": true,
+    "investmentSrc": "",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands",
     "value": {
       "name": "Delhivery",
@@ -2729,6 +2733,8 @@
     "type": "COMPANY",
     "origin": "India",
     "name": "Flipkart",
+    "hasChineseInvestment": true,
+    "investmentSrc": "",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands",
     "value": {
       "name": "Flipkart",
@@ -2927,12 +2933,16 @@
     "type": "COMPANY",
     "origin": "India",
     "name": "MakeMyTrip",
+    "hasChineseInvestment": true,
+    "investmentSrc": "",
     "source": "https://en.wikipedia.org/wiki/MakeMyTrip"
   },
   {
     "type": "COMPANY",
     "origin": "India",
     "name": "Hike Messenger",
+    "hasChineseInvestment": true,
+    "investmentSrc": "",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands"
   },
   {
@@ -3881,6 +3891,8 @@
     "type": "COMPANY",
     "origin": "India",
     "name": "Oyo Rooms",
+    "hasChineseInvestment": true,
+    "investmentSrc": "",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands"
   },
   {
@@ -3921,36 +3933,48 @@
     "type": "COMPANY",
     "origin": "India",
     "name": "PolicyBazaar",
+    "hasChineseInvestment": true,
+    "investmentSrc": "",
     "source": "https://en.wikipedia.org/wiki/PolicyBazaar"
   },
   {
     "type": "COMPANY",
     "origin": "India",
     "name": "Quikr",
+    "hasChineseInvestment": true,
+    "investmentSrc": "",
     "source": "https://en.wikipedia.org/wiki/Quikr"
   },
   {
     "type": "COMPANY",
     "origin": "India",
     "name": "Rivigo",
+    "hasChineseInvestment": true,
+    "investmentSrc": "",
     "source": "https://techcrunch.com/2019/07/10/rivigo-india-seriese/"
   },
   {
     "type": "COMPANY",
     "origin": "India",
     "name": "Zomato",
+    "hasChineseInvestment": true,
+    "investmentSrc": "",
     "source": "https://en.wikipedia.org/wiki/Zomato"
   },
   {
     "type": "COMPANY",
     "origin": "India",
     "name": "Swiggy",
+    "hasChineseInvestment": true,
+    "investmentSrc": "",
     "source": "https://en.wikipedia.org/wiki/Swiggy"
   },
   {
     "type": "COMPANY",
     "origin": "India",
     "name": "Udaan",
+    "hasChineseInvestment": true,
+    "investmentSrc": "",
     "source": "https://techcrunch.com/2019/10/02/udaan-series-d/"
   },
   {
@@ -3968,6 +3992,8 @@
     "type": "COMPANY",
     "origin": "India",
     "name": "Paytm",
+    "hasChineseInvestment": true,
+    "investmentSrc": "",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands",
     "value": {
       "name": "Paytm",
@@ -4286,6 +4312,8 @@
     "type": "COMPANY",
     "origin": "India",
     "name": "Snapdeal",
+    "hasChineseInvestment": true,
+    "investmentSrc": "",
     "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands",
     "value": {
       "name": "Snapdeal",
@@ -14341,12 +14369,16 @@
     "type": "COMPANY",
     "origin": "India",
     "name": "BigBasket",
+    "hasChineseInvestment": true,
+    "investmentSrc": "",
     "source": "https://en.wikipedia.org/wiki/Bigbasket"
   },
   {
     "type": "COMPANY",
     "origin": "India",
     "name": "Byju’s",
+    "hasChineseInvestment": true,
+    "investmentSrc": "",
     "source": "https://en.wikipedia.org/wiki/BYJU%27S"
   },
   {
