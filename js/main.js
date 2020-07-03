@@ -40,29 +40,40 @@ function setGaugeValue(value) {
   // demoGauge.setTextField(document.getElementById("preview-textfield"));
   demoGauge.minValue = 0;
   demoGauge.maxValue = 3000;
-  //demoGauge.set(1844);
+  demoGauge.set(Math.random() * 3000);
+
+  function setGaugeValue(value) {
+    setTimeout(function () {
+      demoGauge.set(value);
+    }, 1000);
+  }
+
   var gaugeText = " - ";
   var gaugeTextEle = document.getElementById("preview-textfield");
   var wipDiv = document.getElementById("work-in-progress");
   wipDiv.style.display = "block";
   switch (value) {
     case Color.RED:
-      demoGauge.set(2625);
+      //demoGauge.set(2625);
+      setGaugeValue(2625);
       gaugeText = getGaugeText(Color.RED);
       gaugeTextEle.style.color = Color.RED;
       break;
     case Color.GREEN:
-      demoGauge.set(375);
+      //demoGauge.set(375);
+      setGaugeValue(375);
       gaugeText = getGaugeText(Color.GREEN);
       gaugeTextEle.style.color = Color.GREEN;
       break;
     case Color.YELLOW:
-      demoGauge.set(1875);
+      //demoGauge.set(1875);
+      setGaugeValue(1875);
       gaugeText = getGaugeText(Color.YELLOW);
       gaugeTextEle.style.color = Color.YELLOW;
       break;
     case Color.ORANGE:
-      demoGauge.set(1125);
+      //demoGauge.set(1125);
+      setGaugeValue(1125);
       gaugeText = getGaugeText(Color.ORANGE);
       gaugeTextEle.style.color = Color.ORANGE;
       break;

@@ -87,12 +87,12 @@
 }
 
 #autoComplete_list {
-    position: fixed;
+    /* position: fixed; */
     z-index: 1000;
     padding: 0;
     left: 0;
     right: 0;
-    margin-top: 0;
+    margin-top: 4px;
     margin-left: auto;
     margin-right: auto;
     width: 25rem;
@@ -186,12 +186,12 @@
         border-radius: 1rem;
     }
     #autoComplete_list {
-        position: fixed;
+        /* position: fixed; */
         z-index: 1000;
         padding: 0;
         left: 0;
         right: 0;
-        margin-top: 0;
+        margin-top: 4px;
         margin-left: auto;
         margin-right: auto;
         width: 16rem;
