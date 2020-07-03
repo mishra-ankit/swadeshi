@@ -128,11 +128,21 @@ function setupBaseForAlternatives(alternativesSection, tags) {
   alternativesSection.innerHTML = `<span class="sub-heading">Alternatives &#128071;</span></br>`;
 }
 
+function sentenceCase(str) {
+  return (
+    str
+      // insert a space before all caps
+      .replace(/([A-Z])/g, " $1")
+      // uppercase the first character
+      .replace(/^./, (str) => str.toUpperCase())
+  );
+}
+
 function displayAlternatives(alternativesSection, alternatives) {
   for (const [key, value] of alternatives.entries()) {
     var tag = document.createElement("SPAN");
     tag.classList.add("badge", "badge-warning", "margin-2");
-    var tagText = document.createTextNode(key);
+    var tagText = document.createTextNode(sentenceCase(key) + " :");
     tag.appendChild(tagText);
     alternativesSection.appendChild(tag);
     value.forEach((alt) => {
