@@ -367,17 +367,12 @@ textarea {
 .selected-item-text {
     vertical-align: top;
     display: inline-block;
-    font-size: 20px;
-    /* font-weight: normal; */
-    padding: 2px;
     color: #a1a1a1
 }
 
 .selected-country-name {
     display: inline-block;
-    font-size: 20px;
-    /* font-weight: normal; */
-    padding: 2px;
+    color: #a1a1a1
 }
 
 .item-info-India {
@@ -495,7 +490,10 @@ textarea {
     padding: 8px;
 }
 
-.faq-heading {}
+.sub-heading {
+    font-size: 20px;
+    padding: 2px;
+}
 
 .faq-question {
     /*font-size: 13px;*/
@@ -581,4 +579,25 @@ body {
 
 #work-in-progress {
     display: none;
+}
+
+.result-div {
+    display: inline-block;
+    margin: 8px;
+    background-color: snow;
+}
+
+.margin-2 {
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+#result-div>.card-body {
+    padding: 0px !important;
+}
+
+.alternatives-section {
+    text-align: left;
+    margin-left: 4px;
+    margin-bottom: 8px;
 }

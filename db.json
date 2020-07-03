@@ -12,7 +12,14 @@
       "name": "Xiaomi",
       "domain": "mi.com",
       "logo": "https://logo.clearbit.com/mi.com"
-    }
+    },
+    "tags": [
+      "laptops",
+      "mobiles",
+      "tv",
+      "powerBank",
+      "smartWatch"
+    ]
   },
   {
     "type": "COMPANY",
@@ -22,7 +29,11 @@
       "name": "Lenovo",
       "domain": "lenovo.com",
       "logo": "https://logo.clearbit.com/lenovo.com"
-    }
+    },
+    "tags": [
+      "laptops",
+      "audio"
+    ]
   },
   {
     "type": "COMPANY",
@@ -32,7 +43,12 @@
       "name": "OPPO",
       "domain": "oppo.com",
       "logo": "https://logo.clearbit.com/oppo.com"
-    }
+    },
+    "tags": [
+      "mobiles",
+      "audio",
+      "powerBank"
+    ]
   },
   {
     "type": "COMPANY",
@@ -42,7 +58,11 @@
       "name": "Vivo",
       "domain": "vivo.com.br",
       "logo": "https://logo.clearbit.com/vivo.com.br"
-    }
+    },
+    "tags": [
+      "mobiles",
+      "powerBank"
+    ]
   },
   {
     "type": "COMPANY",
@@ -52,7 +72,15 @@
       "name": "Huawei",
       "domain": "huawei.com",
       "logo": "https://logo.clearbit.com/huawei.com"
-    }
+    },
+    "tags": [
+      "laptops",
+      "mobiles",
+      "audio",
+      "tv",
+      "powerBank",
+      "smartWatch"
+    ]
   },
   {
     "type": "COMPANY",
@@ -864,7 +892,10 @@
       "name": "Acer",
       "domain": "acer.com",
       "logo": "https://logo.clearbit.com/acer.com"
-    }
+    },
+    "tags": [
+      "laptops"
+    ]
   },
   {
     "type": "COMPANY",
@@ -919,7 +950,12 @@
       "name": "Apple",
       "domain": "apple.com",
       "logo": "https://logo.clearbit.com/apple.com"
-    }
+    },
+    "tags": [
+      "mobiles",
+      "laptops",
+      "smartWatch"
+    ]
   },
   {
     "type": "COMPANY",
@@ -941,7 +977,11 @@
       "name": "ASUS",
       "domain": "asus.com",
       "logo": "https://logo.clearbit.com/asus.com"
-    }
+    },
+    "tags": [
+      "mobiles",
+      "laptops"
+    ]
   },
   {
     "type": "COMPANY",
@@ -1003,7 +1043,10 @@
       "name": "Dell",
       "domain": "dell.com",
       "logo": "https://logo.clearbit.com/dell.com"
-    }
+    },
+    "tags": [
+      "laptops"
+    ]
   },
   {
     "type": "COMPANY",
@@ -1048,13 +1091,21 @@
       "name": "Google",
       "domain": "google.com",
       "logo": "https://logo.clearbit.com/google.com"
-    }
+    },
+    "tags": [
+      "mobiles"
+    ]
   },
   {
     "type": "COMPANY",
     "name": "Haier",
     "origin": "China",
-    "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country"
+    "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country",
+    "tags": [
+      "refrigerators",
+      "airConditioners",
+      "washingMachines"
+    ]
   },
   {
     "type": "COMPANY",
@@ -1076,7 +1127,10 @@
       "name": "HP",
       "domain": "hp.com",
       "logo": "https://logo.clearbit.com/hp.com"
-    }
+    },
+    "tags": [
+      "laptops"
+    ]
   },
   {
     "type": "COMPANY",
@@ -1109,7 +1163,12 @@
       "name": "Intex",
       "domain": "intex-rus.ru",
       "logo": "https://logo.clearbit.com/intex-rus.ru"
-    }
+    },
+    "tags": [
+      "tv",
+      "powerBank",
+      "smartWatch"
+    ]
   },
   {
     "type": "COMPANY",
@@ -1126,19 +1185,32 @@
     "type": "COMPANY",
     "name": "Karbonn",
     "origin": "India",
-    "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country"
+    "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country",
+    "tags": [
+      "mobiles"
+    ]
   },
   {
     "type": "COMPANY",
     "name": "Lava",
     "origin": "India",
-    "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country"
+    "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country",
+    "tags": [
+      "mobiles"
+    ]
   },
   {
     "type": "COMPANY",
     "name": "LG",
     "origin": "South Korea",
-    "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country"
+    "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country",
+    "tags": [
+      "tv",
+      "mobiles",
+      "refrigerators",
+      "airConditioners",
+      "washingMachines"
+    ]
   },
   {
     "type": "COMPANY",
@@ -1149,7 +1221,12 @@
       "name": "Micromax",
       "domain": "micromaxstore.ru",
       "logo": "https://logo.clearbit.com/micromaxstore.ru"
-    }
+    },
+    "tags": [
+      "tv",
+      "mobiles",
+      "laptops"
+    ]
   },
   {
     "type": "COMPANY",
@@ -1160,7 +1237,10 @@
       "name": "Microsoft",
       "domain": "microsoft.com",
       "logo": "https://logo.clearbit.com/microsoft.com"
-    }
+    },
+    "tags": [
+      "laptops"
+    ]
   },
   {
     "type": "COMPANY",
@@ -1183,7 +1263,10 @@
       "name": "Motorola",
       "domain": "motorola.com",
       "logo": "https://logo.clearbit.com/motorola.com"
-    }
+    },
+    "tags": [
+      "mobiles"
+    ]
   },
   {
     "type": "COMPANY",
@@ -1205,7 +1288,10 @@
       "name": "Nokia",
       "domain": "nokia.com",
       "logo": "https://logo.clearbit.com/nokia.com"
-    }
+    },
+    "tags": [
+      "mobiles"
+    ]
   },
   {
     "type": "COMPANY",
@@ -1233,7 +1319,12 @@
       "name": "Panasonic",
       "domain": "panasonic.com",
       "logo": "https://logo.clearbit.com/panasonic.com"
-    }
+    },
+    "tags": [
+      "tv",
+      "cameras",
+      "airConditioners"
+    ]
   },
   {
     "type": "COMPANY",
@@ -1255,7 +1346,11 @@
       "name": "Philips",
       "domain": "philips.com",
       "logo": "https://logo.clearbit.com/philips.com"
-    }
+    },
+    "tags": [
+      "audio",
+      "powerBank"
+    ]
   },
   {
     "type": "COMPANY",
@@ -1266,7 +1361,10 @@
       "name": "RealMe",
       "domain": "realme.govt.nz",
       "logo": "https://logo.clearbit.com/realme.govt.nz"
-    }
+    },
+    "tags": [
+      "mobiles"
+    ]
   },
   {
     "type": "COMPANY",
@@ -1294,7 +1392,16 @@
       "name": "Samsung",
       "domain": "samsung.com",
       "logo": "https://logo.clearbit.com/samsung.com"
-    }
+    },
+    "tags": [
+      "tv",
+      "mobiles",
+      "powerBank",
+      "smartWatch",
+      "cctv",
+      "refrigerators",
+      "washingMachines"
+    ]
   },
   {
     "type": "COMPANY",
@@ -1322,7 +1429,13 @@
       "name": "Sony",
       "domain": "sony.net",
       "logo": "https://logo.clearbit.com/sony.net"
-    }
+    },
+    "tags": [
+      "tv",
+      "audio",
+      "cameras",
+      "cctv"
+    ]
   },
   {
     "type": "COMPANY",
@@ -1351,7 +1464,12 @@
     "type": "COMPANY",
     "name": "TCL",
     "origin": "China",
-    "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country"
+    "source": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country",
+    "tags": [
+      "tv",
+      "airConditioners",
+      "washingMachines"
+    ]
   },
   {
     "type": "COMPANY",
@@ -1627,7 +1745,10 @@
       "name": "Hitachi",
       "domain": "hitachi.com",
       "logo": "https://logo.clearbit.com/hitachi.com"
-    }
+    },
+    "tags": [
+      "airConditioners"
+    ]
   },
   {
     "type": "COMPANY",
@@ -1739,7 +1860,10 @@
       "name": "Jio",
       "domain": "jio.com",
       "logo": "https://logo.clearbit.com/jio.com"
-    }
+    },
+    "tags": [
+      "mobiles"
+    ]
   },
   {
     "type": "COMPANY",
@@ -2319,7 +2443,10 @@
     "type": "COMPANY",
     "origin": "India",
     "name": "Blue Star",
-    "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands"
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands",
+    "tags": [
+      "airConditioners"
+    ]
   },
   {
     "type": "COMPANY",
@@ -4722,7 +4849,11 @@
     "type": "COMPANY",
     "origin": "India",
     "name": "Voltas",
-    "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands"
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands",
+    "tags": [
+      "refrigerators",
+      "airConditioners"
+    ]
   },
   {
     "type": "COMPANY",
@@ -4882,7 +5013,10 @@
     "type": "COMPANY",
     "origin": "China",
     "name": "Aigo",
-    "source": "https://en.wikipedia.org/w/index.php?title=Category:Chinese_brands"
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Chinese_brands",
+    "tags": [
+      "cameras"
+    ]
   },
   {
     "type": "COMPANY",
@@ -5855,7 +5989,10 @@
       "name": "DJI",
       "domain": "dji.com",
       "logo": "https://logo.clearbit.com/dji.com"
-    }
+    },
+    "tags": [
+      "cameras"
+    ]
   },
   {
     "type": "COMPANY",
@@ -11844,7 +11981,10 @@
     "type": "COMPANY",
     "origin": "Japan",
     "name": "Daikin",
-    "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands"
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Japanese_brands",
+    "tags": [
+      "airConditioners"
+    ]
   },
   {
     "type": "COMPANY",
@@ -12233,7 +12373,10 @@
       "name": "FUJIFILM",
       "domain": "fujifilm.com",
       "logo": "https://logo.clearbit.com/fujifilm.com"
-    }
+    },
+    "tags": [
+      "cameras"
+    ]
   },
   {
     "type": "COMPANY",
@@ -13954,7 +14097,10 @@
       "name": "Nikon",
       "domain": "nikon.com",
       "logo": "https://logo.clearbit.com/nikon.com"
-    }
+    },
+    "tags": [
+      "cameras"
+    ]
   },
   {
     "type": "COMPANY",
@@ -17756,7 +17902,11 @@
       "name": "Bosch",
       "domain": "bosch.com",
       "logo": "https://logo.clearbit.com/bosch.com"
-    }
+    },
+    "tags": [
+      "refrigerators",
+      "washingMachines"
+    ]
   },
   {
     "name": "Dell Technologies",
@@ -18538,7 +18688,10 @@
       "name": "Canon",
       "domain": "global.canon",
       "logo": "https://logo.clearbit.com/global.canon"
-    }
+    },
+    "tags": [
+      "cameras"
+    ]
   },
   {
     "name": "UBS",

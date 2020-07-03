@@ -1,142 +1,138 @@
 <!doctype html>
 <html class="no-js" lang="en">
+
 <head>
-  <meta charset="utf-8">
-  <title>IndiaMade</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="title" content="India Made">
-  <meta name="description" content="Find origin of companies and brand, before buying">
-  <meta name="keywords"
-    content="aatmanirbhar,swadeshi,app,mobile,android,technology,indian,boycott,chinese,china,india, products, boycottchina, non-china, laptop, mobile, audio, tv">
-  <meta property="og:title" content="">
-  <meta property="og:type" content="">
-  <meta property="og:url" content="">
-  <meta property="og:image" content="">
-  <meta name="google-site-verification" content="7D53nOPJTBBKJcnm_2mFeEea1gZaPw_cPd4DPL_xE7Y" />
-  <link rel="preconnect" as="script" href="https://www.google-analytics.com">
-  <link rel="manifest" href="site.webmanifest">
-  <link rel="apple-touch-icon" href="icon.png">
-  <link rel="stylesheet" href="css/normalize.css">
-  <link rel="stylesheet" href="css/main.css">
-  <link rel="stylesheet" href="css/autocomplete.css">
+    <meta charset="utf-8">
+    <title>IndiaMade</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="India Made">
+    <meta name="description" content="Find origin of companies and brand, before buying">
+    <meta name="keywords" content="aatmanirbhar,swadeshi,app,mobile,android,technology,indian,boycott,chinese,china,india, products, boycottchina, non-china, laptop, mobile, audio, tv">
+    <meta property="og:title" content="">
+    <meta property="og:type" content="">
+    <meta property="og:url" content="">
+    <meta property="og:image" content="">
+    <meta name="google-site-verification" content="7D53nOPJTBBKJcnm_2mFeEea1gZaPw_cPd4DPL_xE7Y" />
+    <link rel="preconnect" as="script" href="https://www.google-analytics.com">
+    <link rel="manifest" href="site.webmanifest">
+    <link rel="apple-touch-icon" href="icon.png">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/autocomplete.css">
 </head>
 
 <body>
-  <div id="container" class="container">
-    <h1 class="header">IndiaMade</h1>
-    <!-- Add your site or application content here -->
-    <input autofocus id="autoComplete" tabindex="1">
-    <!-- <div class="userguide-text">
-    </div> -->
-    <div class="canvas-gauge">
-      <canvas id="demo"></canvas>
-      <div class="heading" id="preview-textfield"></div>
-    </div>
-    <div class="selection"></div>
-
-    <!--  Content ends here-->
-    <!--  <script src="js/vendor/modernizr-3.11.2.min.js"></script>-->
-
-    <div class="note" id="work-in-progress">
-      <span id="note"></span> <a
-          href="https://docs.google.com/forms/d/e/1FAIpQLSdD0vqYpWpEC_UuZ6CGDYwSDTkvngu4jecaC9zerAZmW_f8vA/viewform?usp=sf_link"
-          target="_blank">Want to help us ?</a>
-    </div>
-  </div>
-  <section class="share-section">
-    <div class="share-text heading">Help us to spread the word!</div>
-    <ul class="share-items">
-      <li class="share-info-item">
-        <a class="share-button" target="_blank" rel="noreferrer"
-          href="https://api.whatsapp.com/send?text=Let's%20all%20come%20together%20and%20use%20https://www.indiamade.org/%20to%20support%20Indian%20products.%20#BoycottChineseGoods%20#BoycottChineseApps">
-          <img src="./img/whatsapp.png" alt="WhatsApp">
-          Share on WhatsApp
-        </a>
-      </li>
-      <li class="share-info-item">
-        <a class="share-button" target="_blank" rel="noreferrer"
-          href="https://www.facebook.com/sharer/sharer.php?u=https://www.indiamade.org/&quote=Let's%20all%20come%20together%20and%20use%20https://www.indiamade.org/%20to%20support%20Indian%20products.%20#BoycottChineseGoods%20#BoycottChineseApps">
-          <img src="./img/facebook.svg" alt="Facebook">
-          Share on Facebook
-        </a>
-      </li>
-      <li class="share-info-item">
-        <a class="share-button" target="_blank" rel="noreferrer"
-          href="https://twitter.com/intent/tweet?url=&text=Let's%20all%20come%20together%20and%20use%20https://www.indiamade.org/%20to%20support%20Indian%20products.%20#BoycottChineseGoods%20#BoycottChineseApps">
-          <img src="./img/twitter.svg" alt="Twitter">
-          Share on Twitter
-        </a>
-      </li>
-
-
-    </ul>
-  </section>
-  <section id="faq" class="faq-section">
-    <div class="faq-heading heading">Frequently Asked Questions</div>
-    <ul class="faq-questions-list">
-      <li class="faq-questions-list-item">
-        <div class="faq-question">
-          1. Will boycotting Chinese products make any impact?
+    <div id="container" class="container">
+        <h1 class="header">IndiaMade</h1>
+        <input autofocus id="autoComplete" tabindex="1">
+        <section>
+            <div id="result-div">
+                <div class="card-body">
+                    <div class="canvas-gauge">
+                        <canvas id="demo"></canvas>
+                        <div class="sub-heading" id="preview-textfield"></div>
+                    </div>
+                    <div class="selection"></div>
+                    <section class="alternatives-section" id="alternatives-section">
+                    </section>
+                </div>
+                <div class="note" id="work-in-progress">
+                    <span id="note"></span>
+                </div>
+            </div>
+        </section>
+        <div id="help-div" class="hidden">
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdD0vqYpWpEC_UuZ6CGDYwSDTkvngu4jecaC9zerAZmW_f8vA/viewform?usp=sf_link" target="_blank">Want to help us?</a>
         </div>
-        <div class="faq-answer">
-          We understand that China is not dependent only on India for exporting its goods. But certainly India gets a
-          huge share of Chinese export. Our belief is that boycotting Chinese goods shall help in 2 ways. Firstly, it
-          will encourage fellow Indians to use more native products which will in turn encourage more indigenous
-          businesses in India. Secondly, it will send a strong message to China that India is united and Indians can
-          go at any length when its about the nation.
-        </div>
-      </li>
-      <li class="faq-questions-list-item">
-        <div class="faq-question">
-          2. I am not able to find many companies/brands or products.
-        </div>
-        <div class="faq-answer">
-          We are continuously working on enlarging our database. So far, we haven't been able to find a good source of
-          registered companies/brands. Please provide the list of companies which are not in our database in a
-          feedback. We will find the information and update. </div>
-      </li>
-      <li class="faq-questions-list-item">
-        <div class="faq-question">
-          3. How can I contact the team behind IndiaMade ?
-        </div>
-        <div class="faq-answer">
-          We would love to chat with you. Please drop a note <a href="https://forms.gle/K16mESMbMckKyf4p6"
-            target="_blank">here</a> and we will get back to you. </div>
-      </li>
-    </ul>
-    <div class="feedbackDiv">
-      <a href="https://docs.google.com/forms/d/e/1FAIpQLSdD0vqYpWpEC_UuZ6CGDYwSDTkvngu4jecaC9zerAZmW_f8vA/viewform?usp=sf_link"
-        target="_blank">Please share your feedback</a>
     </div>
-    </div>
-  </section>
-  <footer class="footer">
-    <div class="copyrights">Copyright &copy; 2020 <a href="#">IndiaMade</a> All Rights Reserved</div>
-  </footer>
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async defer src="https://www.googletagmanager.com/gtag/js?id=UA-68398065-4"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
-    gtag('config', 'UA-68398065-4');
-  </script>
+    <section class="share-section">
+        <div class="share-text heading">Help us to spread the word!</div>
+        <ul class="share-items">
+            <li class="share-info-item">
+                <a class="share-button" target="_blank" rel="noreferrer" href="https://api.whatsapp.com/send?text=Let's%20all%20come%20together%20and%20use%20https://www.indiamade.org/%20to%20support%20Indian%20products.%20#BoycottChineseGoods%20#BoycottChineseApps">
+                    <img src="./img/whatsapp.png" alt="WhatsApp"> Share on WhatsApp
+                </a>
+            </li>
+            <li class="share-info-item">
+                <a class="share-button" target="_blank" rel="noreferrer" href="https://www.facebook.com/sharer/sharer.php?u=https://www.indiamade.org/&quote=Let's%20all%20come%20together%20and%20use%20https://www.indiamade.org/%20to%20support%20Indian%20products.%20#BoycottChineseGoods%20#BoycottChineseApps">
+                    <img src="./img/facebook.svg" alt="Facebook"> Share on Facebook
+                </a>
+            </li>
+            <li class="share-info-item">
+                <a class="share-button" target="_blank" rel="noreferrer" href="https://twitter.com/intent/tweet?url=&text=Let's%20all%20come%20together%20and%20use%20https://www.indiamade.org/%20to%20support%20Indian%20products.%20#BoycottChineseGoods%20#BoycottChineseApps">
+                    <img src="./img/twitter.svg" alt="Twitter"> Share on Twitter
+                </a>
+            </li>
 
-  <script src="https://cdn.jsdelivr.net/npm/@tarekraafat/autocomplete.js@7.2.0/dist/js/autoComplete.min.js"></script>
-  <script src="js/constants.js"></script>
-  <script src="js/gauge.js"></script>
-  <!--  <script src="js/serverside.js"></script>-->
-  <script src="js/main.js"></script>
-  <script src="js/plugins.js"></script>
-  <script>
-    // register ServiceWorker, remember to use absolute path!
-    if (navigator.serviceWorker) {
-      navigator.serviceWorker.register('/sw.js', { scope: '/' })
-    }
-    // --- Application code here ---
-  </script>
-  <link href="https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC&family=Mada&family=Mali&display=swap"
-    rel="stylesheet">
+
+        </ul>
+    </section>
+    <section id="faq" class="faq-section">
+        <div class="faq-heading heading">Frequently Asked Questions</div>
+        <ul class="faq-questions-list">
+            <li class="faq-questions-list-item">
+                <div class="faq-question">
+                    1. Will boycotting Chinese products make any impact?
+                </div>
+                <div class="faq-answer">
+                    We understand that China is not dependent only on India for exporting its goods. But certainly India gets a huge share of Chinese export. Our belief is that boycotting Chinese goods shall help in 2 ways. Firstly, it will encourage fellow Indians to use
+                    more native products which will in turn encourage more indigenous businesses in India. Secondly, it will send a strong message to China that India is united and Indians can go at any length when its about the nation.
+                </div>
+            </li>
+            <li class="faq-questions-list-item">
+                <div class="faq-question">
+                    2. I am not able to find many companies/brands or products.
+                </div>
+                <div class="faq-answer">
+                    We are continuously working on enlarging our database. So far, we haven't been able to find a good source of registered companies/brands. Please provide the list of companies which are not in our database in a feedback. We will find the information and
+                    update. </div>
+            </li>
+            <li class="faq-questions-list-item">
+                <div class="faq-question">
+                    3. How can I contact the team behind IndiaMade ?
+                </div>
+                <div class="faq-answer">
+                    We would love to chat with you. Please drop a note <a href="https://forms.gle/K16mESMbMckKyf4p6" target="_blank">here</a> and we will get back to you. </div>
+            </li>
+        </ul>
+        <div class="feedbackDiv">
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdD0vqYpWpEC_UuZ6CGDYwSDTkvngu4jecaC9zerAZmW_f8vA/viewform?usp=sf_link" target="_blank">Please share your feedback</a>
+        </div>
+        </div>
+    </section>
+    <footer class="footer">
+        <div class="copyrights">Copyright &copy; 2020 <a href="#">IndiaMade</a> All Rights Reserved</div>
+    </footer>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async defer src="https://www.googletagmanager.com/gtag/js?id=UA-68398065-4"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+        gtag('config', 'UA-68398065-4');
+    </script>
+
+    <script src="https://cdn.jsdelivr.net/npm/@tarekraafat/autocomplete.js@7.2.0/dist/js/autoComplete.min.js"></script>
+    <script src="js/constants.js"></script>
+    <script src="js/gauge.js"></script>
+    <!--  <script src="js/serverside.js"></script>-->
+    <script src="js/main.js"></script>
+    <script src="js/plugins.js"></script>
+    <script src="js/alternatives.js"></script>
+    <script>
+        // register ServiceWorker, remember to use absolute path!
+        if (navigator.serviceWorker) {
+            navigator.serviceWorker.register('/sw.js', {
+                scope: '/'
+            })
+        }
+        // --- Application code here ---
+    </script>
+    <link href="https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC&family=Mada&family=Mali&display=swap" rel="stylesheet">
 </body>
 
 </html>

@@ -1,0 +1,224 @@
+{
+    "Lenovo": [
+        "laptops",
+        "audio",
+        "mobiles"
+    ],
+    "Xiaomi": [
+        "laptops",
+        "mobiles",
+        "tv",
+        "powerBank",
+        "smartWatch"
+    ],
+    "Huawei": [
+        "laptops",
+        "mobiles",
+        "audio",
+        "tv",
+        "powerBank",
+        "smartWatch"
+    ],
+    "Oneplus": [
+        "mobiles",
+        "tv",
+        "powerBank"
+    ],
+    "Oppo": [
+        "mobiles",
+        "audio",
+        "powerBank"
+    ],
+    "Motorola": [
+        "mobiles"
+    ],
+    "Vivo": [
+        "mobiles",
+        "powerBank"
+    ],
+    "Realme": [
+        "mobiles"
+    ],
+    "TCL": [
+        "tv",
+        "airConditioners",
+        "washingMachines"
+    ],
+    "Amazfit": [
+        "smartWatch"
+    ],
+    "DJI": [
+        "cameras"
+    ],
+    "Aigo": [
+        "cameras"
+    ],
+    "HikVision": [
+        "cctv"
+    ],
+    "Haier": [
+        "refrigerators",
+        "airConditioners",
+        "washingMachines"
+    ],
+    "Sony": [
+        "tv",
+        "audio",
+        "cameras",
+        "cctv"
+    ],
+    "Panasonic": [
+        "tv",
+        "cameras",
+        "airConditioners"
+    ],
+    "LG": [
+        "tv",
+        "mobiles",
+        "refrigerators",
+        "airConditioners",
+        "washingMachines"
+    ],
+    "Samsung": [
+        "tv",
+        "mobiles",
+        "powerBank",
+        "smartWatch",
+        "cctv",
+        "refrigerators",
+        "washingMachines"
+    ],
+    "Apple": [
+        "mobiles",
+        "laptops",
+        "smartWatch"
+    ],
+    "Google": [
+        "mobiles"
+    ],
+    "Nokia": [
+        "mobiles"
+    ],
+    "Asus": [
+        "mobiles",
+        "laptops"
+    ],
+    "Acer": [
+        "laptops"
+    ],
+    "Microsoft": [
+        "laptops"
+    ],
+    "Dell": [
+        "laptops"
+    ],
+    "HP": [
+        "laptops"
+    ],
+    "Logitech": [
+        "audio"
+    ],
+    "JBL": [
+        "audio"
+    ],
+    "Philips": [
+        "audio",
+        "powerBank"
+    ],
+    "Bose": [
+        "audio"
+    ],
+    "Nikon": [
+        "cameras"
+    ],
+    "Canon": [
+        "cameras"
+    ],
+    "Fujifilm": [
+        "cameras"
+    ],
+    "GoPro": [
+        "cameras"
+    ],
+    "FitBit": [
+        "smartWatch"
+    ],
+    "Whirlpool": [
+        "refrigerators",
+        "washingMachines"
+    ],
+    "Bosch": [
+        "refrigerators",
+        "washingMachines"
+    ],
+    "Hitachi": [
+        "airConditioners"
+    ],
+    "Daikin": [
+        "airConditioners"
+    ],
+    "Micromax": [
+        "tv",
+        "mobiles",
+        "laptops"
+    ],
+    "Onida": [
+        "tv",
+        "refrigerators",
+        "airConditioners"
+    ],
+    "Intex": [
+        "tv",
+        "powerBank",
+        "smartWatch"
+    ],
+    "Jio": [
+        "mobiles"
+    ],
+    "Lava": [
+        "mobiles"
+    ],
+    "Karbonn": [
+        "mobiles"
+    ],
+    "iBall": [
+        "laptops",
+        "audio"
+    ],
+    "Zebronics": [
+        "audio",
+        "powerBank",
+        "smartWatch"
+    ],
+    "Ambrane": [
+        "audio",
+        "powerBank"
+    ],
+    "Syska": [
+        "powerBank"
+    ],
+    "CP Plus": [
+        "cctv"
+    ],
+    "Godrej": [
+        "cctv",
+        "refrigerators",
+        "airConditioners",
+        "washingMachines"
+    ],
+    "Voltas": [
+        "refrigerators",
+        "airConditioners"
+    ],
+    "Mitashi": [
+        "refrigerators",
+        "airConditioners",
+        "washingMachines"
+    ],
+    "Blue Star": [
+        "airConditioners"
+    ],
+    "IFB": [
+        "washingMachines"
+    ]
+}

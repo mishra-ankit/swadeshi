@@ -77,9 +77,9 @@ function onItemSelected(feedback) {
   document.querySelector(".selection").innerHTML =
     `<div class="selected-item-section">
           <div class="selected-item">
-            <div class="selected-item-text">Origin Country - </div>
+            <div class="selected-item-text sub-heading">Origin Country - </div>
             <div class="selected-country-section">
-              <div class="selected-country-name" id="selected-country-name"></div>
+              <div class="selected-country-name sub-heading" id="selected-country-name"></div>
               (<a target="_blank" id="selected-country-source">source</a>)
             </div>
           </div>
@@ -93,15 +93,71 @@ function onItemSelected(feedback) {
   document.querySelector("#autoComplete").value = selectedObj.name;
   if (selectedObj.hasChineseInvestment) {
     document.getElementById("note").innerText =
-      "*The company has some Chinese investments.";
+      "*The company has Chinese investments";
   } else {
     document.getElementById("note").innerText = "";
   }
-  setGaugeValue(getRating(selectedObj));
+  document.querySelector("#help-div").classList.remove("hidden");
+  document.querySelector("#result-div").classList.add("card", "result-div");
+  const rating = getRating(selectedObj);
+  handleAlternatives(rating, selectedObj);
+
+  setGaugeValue(rating);
   gtag("event", "found", {
     event_label: selectedObj.name,
     value: selectedObj.name,
   });
+}
+
+function handleAlternatives(rating, selectedObj) {
+  const alternativesSection = document.querySelector("#alternatives-section");
+  alternativesSection.classList.add("hidden");
+
+  if (rating === Color.RED) {
+    var alternatives = getAlternatives(selectedObj);
+    if (alternatives && alternatives.size > 0) {
+      setupBaseForAlternatives(alternativesSection, selectedObj.tags);
+      displayAlternatives(alternativesSection, alternatives);
+    }
+  }
+}
+
+function setupBaseForAlternatives(alternativesSection, tags) {
+  alternativesSection.innerHTML = "";
+  alternativesSection.classList.remove("hidden");
+  alternativesSection.innerHTML = `<span class="sub-heading">Alternatives &#128071;</span></br>`;
+}
+
+function displayAlternatives(alternativesSection, alternatives) {
+  for (const [key, value] of alternatives.entries()) {
+    var tag = document.createElement("SPAN");
+    tag.classList.add("badge", "badge-warning", "margin-2");
+    var tagText = document.createTextNode(key);
+    tag.appendChild(tagText);
+    alternativesSection.appendChild(tag);
+    value.forEach((alt) => {
+      var node = document.createElement("SPAN");
+      node.classList.add("badge", "badge-info", "badge-pill", "margin-2");
+      var textnode = document.createTextNode(alt);
+      node.appendChild(textnode);
+      alternativesSection.appendChild(node);
+    });
+    alternativesSection.appendChild(document.createElement("BR"));
+  }
+}
+
+function getAlternatives(selectedObj) {
+  const alternatives = new Map();
+  if (selectedObj && selectedObj.tags && selectedObj.tags.length > 0) {
+    selectedObj.tags.forEach((tag) => {
+      var altCompanies = new Set();
+      indianProducts[tag].forEach((alt) => {
+        altCompanies.add(alt.name);
+      });
+      alternatives.set(tag, altCompanies);
+    });
+  }
+  return alternatives;
 }
 
 function getRating({ type, origin, hasChineseInvestment }) {
@@ -135,11 +191,26 @@ function sendMyFeedback() {
 function getGaugeText(color) {
   switch (color) {
     case Color.GREEN:
-      return GreenPhrases[Math.floor(Math.random() * GreenPhrases.length)];
+      return (
+        GreenPhrases[Math.floor(Math.random() * GreenPhrases.length)] +
+        " &#" +
+        GreenEmoticons[Math.floor(Math.random() * GreenEmoticons.length)] +
+        ";"
+      );
     case Color.RED:
-      return RedPhrases[Math.floor(Math.random() * RedPhrases.length)];
+      return (
+        RedPhrases[Math.floor(Math.random() * RedPhrases.length)] +
+        " &#" +
+        RedEmoticons[Math.floor(Math.random() * RedEmoticons.length)] +
+        ";"
+      );
     case Color.ORANGE:
-      return OrangePhrases[Math.floor(Math.random() * OrangePhrases.length)];
+      return (
+        OrangePhrases[Math.floor(Math.random() * OrangePhrases.length)] +
+        " &#" +
+        OrangeEmoticons[Math.floor(Math.random() * OrangeEmoticons.length)] +
+        ";"
+      );
     case Color.YELLOW:
       return YellowPhrases[Math.floor(Math.random() * YellowPhrases.length)];
   }

@@ -46,7 +46,7 @@ function trackSearch(e) {
 }
 
 // let data = null;
-const placeholder = "Type product or brand name to check...";
+const placeholder = "Type brand name to check...";
 
 // The autoComplete.js Engine instance creator
 const autoCompletejs = new autoComplete({
