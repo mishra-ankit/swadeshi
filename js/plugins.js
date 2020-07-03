@@ -66,6 +66,11 @@ const autoCompletejs = new autoComplete({
             .setAttribute("placeholder", placeholder);
           // Returns Fetched data
           console.log("DB length -", data.length);
+          window.data = data;
+          if (window.location.search) {
+            // If opened with a URL like q=Bajaj
+            window.showResultFromQueryParam(window.location);
+          }
           return data;
         });
     },
@@ -107,7 +112,15 @@ const autoCompletejs = new autoComplete({
     document.querySelector("#autoComplete_list").appendChild(result);
     // shareMyQuery(document.querySelector("#autoComplete").value);
   },
-  onSelection: window.onItemSelected,
+  onSelection: (obj) => {
+    const selectedObj = obj.selection.value;
+    history.pushState(
+      selectedObj,
+      document.title + " " + selectedObj.name,
+      "?q=" + selectedObj.name
+    );
+    window.onItemSelected(selectedObj);
+  },
 });
 
 // Toggle results list and other elements

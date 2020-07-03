@@ -70,8 +70,17 @@ function setGaugeValue(value) {
   gaugeTextEle.innerHTML = gaugeText;
 }
 
-function onItemSelected(feedback) {
-  const selectedObj = feedback.selection.value;
+window.addEventListener("popstate", function (event) {
+  if (event.state && event.state.name) {
+    onItemSelected(event.state);
+  }
+});
+
+function getLogoURL(obj) {
+  return obj.value && obj.value.logo;
+}
+
+function onItemSelected(selectedObj) {
   action("dim");
   // Render selected choice to selection div
   document.querySelector(".selection").innerHTML =
@@ -186,18 +195,6 @@ function getRating({ type, origin, hasChineseInvestment }) {
   return Color.ORANGE;
 }
 
-function sendMyFeedback() {
-  const message = document.querySelector("#feedbackTxt").value;
-  sendFeedback(message);
-  document.getElementsByClassName("collapsible")[0].style.display = "none";
-  document.getElementsByClassName("feedbackSharedDiv")[0].style.display =
-    "block";
-}
-
-// function shareMyQuery(query) {
-//   shareQuery(query);
-// }
-
 function getGaugeText(color) {
   switch (color) {
     case Color.GREEN:
@@ -223,5 +220,16 @@ function getGaugeText(color) {
       );
     case Color.YELLOW:
       return YellowPhrases[Math.floor(Math.random() * YellowPhrases.length)];
+  }
+}
+
+function showResultFromQueryParam() {
+  const urlParams = new URLSearchParams(window.location.search);
+  const searchParam = urlParams.get("q");
+  const match =
+    data &&
+    data.find((item) => item.name.toLowerCase() === searchParam.toLowerCase());
+  if (match) {
+    onItemSelected(match);
   }
 }
