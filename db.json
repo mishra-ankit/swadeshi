@@ -122,7 +122,10 @@
   {
     "type": "APP",
     "origin": "China",
-    "name": "Tik Tok"
+    "name": "Tik Tok",
+    "tags": [
+      "social"
+    ]
   },
   {
     "type": "APP",
@@ -162,7 +165,10 @@
       "name": "HELO",
       "domain": "flyhelo.com",
       "logo": "https://logo.clearbit.com/flyhelo.com"
-    }
+    },
+    "tags": [
+      "social"
+    ]
   },
   {
     "type": "APP",
@@ -217,7 +223,10 @@
       "name": "UC News",
       "domain": "ucnews.in",
       "logo": "https://logo.clearbit.com/ucnews.in"
-    }
+    },
+    "tags": [
+      "news"
+    ]
   },
   {
     "type": "APP",
@@ -227,7 +236,10 @@
       "name": "Xender",
       "domain": "xender.com",
       "logo": "https://logo.clearbit.com/xender.com"
-    }
+    },
+    "tags": [
+      "fileSharing"
+    ]
   },
   {
     "type": "APP",
@@ -247,7 +259,10 @@
   {
     "type": "APP",
     "origin": "China",
-    "name": "APUS Browser"
+    "name": "APUS Browser",
+    "tags": [
+      "browsers"
+    ]
   },
   {
     "type": "APP",
@@ -297,7 +312,10 @@
   {
     "type": "APP",
     "origin": "China",
-    "name": "QQMail"
+    "name": "QQMail",
+    "tags": [
+      "mail"
+    ]
   },
   {
     "type": "APP",
@@ -317,7 +335,11 @@
       "name": "QQ International",
       "domain": "imqq.com",
       "logo": "https://logo.clearbit.com/imqq.com"
-    }
+    },
+    "tags": [
+      "chatting",
+      "videoCalling"
+    ]
   },
   {
     "type": "APP",
@@ -332,7 +354,10 @@
   {
     "type": "APP",
     "origin": "China",
-    "name": "Clash of Kings"
+    "name": "Clash of Kings",
+    "tags": [
+      "games"
+    ]
   },
   {
     "type": "APP",
@@ -347,7 +372,10 @@
       "name": "Parallel Space",
       "domain": "parallel-app.com",
       "logo": "https://logo.clearbit.com/parallel-app.com"
-    }
+    },
+    "tags": [
+      "utility"
+    ]
   },
   {
     "type": "APP",
@@ -372,12 +400,18 @@
       "name": "UC Browser",
       "domain": "ucweb.com",
       "logo": "https://logo.clearbit.com/ucweb.com"
-    }
+    },
+    "tags": [
+      "browsers"
+    ]
   },
   {
     "type": "APP",
     "origin": "China",
-    "name": "Club Factory"
+    "name": "Club Factory",
+    "tags": [
+      "shopping"
+    ]
   },
   {
     "type": "APP",
@@ -437,7 +471,10 @@
   {
     "type": "APP",
     "origin": "China",
-    "name": "QQ Music"
+    "name": "QQ Music",
+    "tags": [
+      "music"
+    ]
   },
   {
     "type": "APP",
@@ -452,7 +489,10 @@
       "name": "Mail Master",
       "domain": "mailxmaster.com",
       "logo": "https://logo.clearbit.com/mailxmaster.com"
-    }
+    },
+    "tags": [
+      "mail"
+    ]
   },
   {
     "type": "COMPANY",
@@ -928,7 +968,10 @@
       "name": "Amazon",
       "domain": "amazon.com",
       "logo": "https://logo.clearbit.com/amazon.com"
-    }
+    },
+    "tags": [
+      "shopping"
+    ]
   },
   {
     "type": "COMPANY",
@@ -2869,7 +2912,10 @@
       "name": "Flipkart",
       "domain": "flipkart.com",
       "logo": "https://logo.clearbit.com/flipkart.com"
-    }
+    },
+    "tags": [
+      "shopping"
+    ]
   },
   {
     "type": "COMPANY",
@@ -3614,7 +3660,10 @@
     "type": "COMPANY",
     "origin": "India",
     "name": "Limeroad",
-    "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands"
+    "source": "https://en.wikipedia.org/w/index.php?title=Category:Indian_brands",
+    "tags": [
+      "shopping"
+    ]
   },
   {
     "type": "COMPANY",
@@ -4104,7 +4153,10 @@
     "name": "Udaan",
     "hasChineseInvestment": true,
     "investmentSrc": "",
-    "source": "https://techcrunch.com/2019/10/02/udaan-series-d/"
+    "source": "https://techcrunch.com/2019/10/02/udaan-series-d/",
+    "tags": [
+      "shopping"
+    ]
   },
   {
     "type": "COMPANY",
@@ -4161,7 +4213,10 @@
       "name": "PhonePe",
       "domain": "phonepe.com",
       "logo": "https://logo.clearbit.com/phonepe.com"
-    }
+    },
+    "tags": [
+      "finance"
+    ]
   },
   {
     "type": "COMPANY",
@@ -4448,7 +4503,10 @@
       "name": "Snapdeal",
       "domain": "snapdeal.com",
       "logo": "https://logo.clearbit.com/snapdeal.com"
-    }
+    },
+    "tags": [
+      "shopping"
+    ]
   },
   {
     "type": "COMPANY",
@@ -8507,7 +8565,11 @@
       "name": "WeChat",
       "domain": "wechat.com",
       "logo": "https://logo.clearbit.com/wechat.com"
-    }
+    },
+    "tags": [
+      "chatting",
+      "videoCalling"
+    ]
   },
   {
     "type": "COMPANY",
@@ -8573,7 +8635,10 @@
       "name": "WPS Office",
       "domain": "wps.com",
       "logo": "https://logo.clearbit.com/wps.com"
-    }
+    },
+    "tags": [
+      "office"
+    ]
   },
   {
     "type": "COMPANY",
@@ -18271,7 +18336,10 @@
     "name": "Alibaba",
     "origin": "China",
     "type": "COMPANY",
-    "source": "https://brandirectory.com/"
+    "source": "https://brandirectory.com/",
+    "tags": [
+      "shopping"
+    ]
   },
   {
     "name": "Capital One",
