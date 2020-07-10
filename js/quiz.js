@@ -5596,13 +5596,13 @@ function addHammerEvent() {
 }
 
 function takeDecision(event) {
-  remaining--;
   const love = event.additionalEvent === "panright";
   const origin = event.target.getAttribute("origin");
   scoreGame(love, origin);
 }
 
 function scoreGame(love, origin) {
+  remaining--;
   if ((love && origin === "India") || (!love && origin !== "India")) {
     incrementScore();
   } else {
@@ -5628,6 +5628,7 @@ function die() {
 function checkGameState() {
   if (death >= MAX_DEATH) {
     alert("Game over!!!" + " score = " + score);
+    location.reload();
   }
 
   if (remaining <= 0) {
