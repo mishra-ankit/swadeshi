@@ -1,23 +1,40 @@
+<html lang="en">
+
 <head>
-    <link href="css/quiz.css" rel="stylesheet" />
-    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+    <meta charset="UTF-8">
+    <title>IndiaMade - Quiz</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/quiz.css">
 </head>
-<div class="tinder">
-    <div class="tinder--status">
-        <i class="fa fa-remove"></i>
-        <i class="fa fa-heart"></i>
+
+<body translate="no">
+    <div class="tinder loaded">
+        <div class="game-status">
+            <div class="life-status">
+                <i class="fa fa-heart life" id="life1" aria-hidden="true"></i>
+                <i class="fa fa-heart life" id="life2" aria-hidden="true"></i>
+                <i class="fa fa-heart life" id="life3" aria-hidden="true"></i>
+            </div>
+            <div class="score-status">
+                <span>Score: </span>
+                <span id="score" class="score">0</span>
+            </div>
+        </div>
+        <div class="tinder--status">
+            <i class="fa fa-remove"></i>
+            <i class="fa fa-heart"></i>
+        </div>
+        <div class="tinder--cards" id="tinder--cards">
+        </div>
+        <div class="tinder--buttons">
+            <button id="nope"><i class="fa fa-remove"></i></button>
+            <button id="love"><i class="fa fa-heart"></i></button>
+        </div>
     </div>
+    <script src="js/hammer.js"></script>
+    <script src="js/quiz.js" id="rendered-js"></script>
 
-    <div class="tinder--cards" id="tinder--cards">
+</body>
 
-    </div>
-
-    <div class="tinder--buttons">
-        <button id="nope"><i class="fa fa-remove"></i></button>
-        <button id="love"><i class="fa fa-heart"></i></button>
-    </div>
-</div>
-
-<script src="js/hammer.js"></script>
-<script src="js/quiz.js"></script>
+</html>

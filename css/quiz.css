@@ -65,6 +65,59 @@ body {
     transform: scale(1);
 }
 
+.game-status {
+    -webkit-box-flex: 1;
+    text-align: center;
+    display: -webkit-box;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: end;
+    align-items: flex-end;
+    z-index: 1;
+    margin: 8px;
+    animation-name: pulse;
+}
+
+.life {
+    animation-name: pulse;
+    animation-iteration-count: infinite;
+    animation-duration: 1s;
+}
+
+#life1 {
+    color: red;
+}
+
+.death {
+    animation-name: burst;
+    animation-duration: 1s;
+    color: black !important;
+}
+
+#life2 {
+    color: red;
+}
+
+#life3 {
+    color: red;
+}
+
+.life-status {
+    font-size: 28px;
+    margin-right: 16px;
+}
+
+.score-status {
+    margin-left: 16px;
+    align-self: center;
+}
+
+.score {
+    animation-name: score;
+    animation-duration: 1s;
+}
+
 .tinder--cards {
     -webkit-box-flex: 1;
     flex-grow: 1;
@@ -154,4 +207,65 @@ body {
 
 .fa-remove {
     color: #CDD6DD;
+}
+
+@keyframes pulse {
+    0% {
+        -webkit-transform: scale(1.1);
+        transform: scale(1.1);
+    }
+    50% {
+        -webkit-transform: scale(0.8);
+        transform: scale(0.8);
+    }
+    100% {
+        -webkit-transform: scale(1.1);
+        transform: scale(1.1);
+    }
+}
+
+@keyframes burst {
+    0% {
+        opacity: .6;
+    }
+    50% {
+        -webkit-transform: scale(1.8);
+        transform: scale(1.8);
+        opacity: 0;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+@keyframes score {
+    0% {
+        -webkit-transform: translate(0, -3px);
+        transform: translate(0, -3px);
+    }
+    4% {
+        -webkit-transform: translate(0, 3px);
+        transform: translate(0, 3px);
+    }
+    8% {
+        -webkit-transform: translate(0, -3px);
+        transform: translate(0, -3px);
+    }
+    12% {
+        -webkit-transform: translate(0, 3px);
+        transform: translate(0, 3px);
+    }
+    16% {
+        -webkit-transform: translate(0, -3px);
+        transform: translate(0, -3px);
+    }
+    20% {
+        -webkit-transform: translate(0, 3px);
+        transform: translate(0, 3px);
+    }
+    22%,
+    100% {
+        -webkit-transform: translate(0, 0);
+        transform: translate(0, 0);
+    }
 }

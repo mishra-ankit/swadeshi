@@ -4,10 +4,11 @@ var tinderContainer = document.querySelector(".tinder");
 var allCards = document.querySelectorAll(".tinder--card");
 var nope = document.getElementById("nope");
 var love = document.getElementById("love");
-const LOAD_SIZE = 20;
+const LOAD_SIZE = 10;
 const RELOAD_THRESHOLD = 2;
-var remaining = LOAD_SIZE;
-var life = 3;
+const MAX_DEATH = 3;
+var remaining = 0;
+var death = 0;
 var score = 0;
 var totalLoaded = 0;
 var quizDb = [
@@ -5493,9 +5494,13 @@ var quizDb = [
   },
 ];
 
+// shuffle
+quizDb.sort(() => Math.random() - 0.5);
+
 function loadCards() {
   var nextCards = quizDb.slice(totalLoaded, totalLoaded + LOAD_SIZE);
   totalLoaded += LOAD_SIZE;
+  remaining += LOAD_SIZE;
 
   var tinderCardsDiv = document.querySelector("#tinder--cards");
   nextCards.forEach((comp) => {
@@ -5582,35 +5587,51 @@ function addHammerEvent() {
           "px) rotate(" +
           rotate +
           "deg)";
-        if (event.additionalEvent === "panright") {
-          if (event.target.getAttribute("origin") !== "India") {
-            life--;
-          } else {
-            score++;
-          }
-        } else {
-          if (event.target.getAttribute("origin") === "India") {
-            life--;
-          } else {
-            score++;
-          }
-        }
-        remaining--;
-        checkGameState(event);
-
+        console.log(remaining);
+        takeDecision(event);
         initCards();
       }
     });
   });
 }
 
-function checkGameState(event) {
-  if (life <= 0) {
+function takeDecision(event) {
+  remaining--;
+  const love = event.additionalEvent === "panright";
+  const origin = event.target.getAttribute("origin");
+  scoreGame(love, origin);
+}
+
+function scoreGame(love, origin) {
+  if ((love && origin === "India") || (!love && origin !== "India")) {
+    incrementScore();
+  } else {
+    die();
+  }
+  checkGameState();
+}
+
+function incrementScore() {
+  score++;
+  const scoreEle = document.querySelector("#score");
+  scoreEle.textContent = score;
+  scoreEle.style.webkitAnimationPlayState = "running";
+}
+
+function die() {
+  death++;
+  const lifeIcon = document.querySelector(`#life${death}`);
+  lifeIcon.classList.toggle("life");
+  lifeIcon.classList.toggle("death");
+}
+
+function checkGameState() {
+  if (death >= MAX_DEATH) {
     alert("Game over!!!" + " score = " + score);
   }
 
-  if (remaining <= RELOAD_THRESHOLD) {
-    // loadGame();
+  if (remaining <= 0) {
+    loadGame();
   }
 }
 
@@ -5641,6 +5662,8 @@ function createButtonListener(love) {
         "translate(-" + moveOutWidth + "px, -100px) rotate(30deg)";
     }
 
+    const origin = card.getAttribute("origin");
+    scoreGame(love, origin);
     initCards();
 
     event.preventDefault();
