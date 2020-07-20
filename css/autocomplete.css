@@ -16,7 +16,7 @@
     padding: 0 2rem 0 3.5rem;
     color: rgba(0, 0, 128, 1);
     height: 3rem;
-    width: 16.5rem;
+    width: 29.5rem;
     background-image: url(./magnifier.svg);
     background-size: 1.7rem;
     background-position: left 1.05rem top 0.7rem;
@@ -31,7 +31,7 @@
   } */
 
 #autoComplete::placeholder {
-    color: rgba(0, 0, 128, 0.3);
+    color: rgba(0, 0, 128, 0.5);
     transition: all 0.3s ease;
     -webkit-transition: all -webkit-transform 0.3s ease;
 }
@@ -46,7 +46,7 @@
 #autoComplete:focus::placeholder {
     padding: 0.1rem 0.6rem;
     font-size: 1rem;
-    color: rgba(0, 0, 128, 0.3);
+    color: rgba(0, 0, 128, 0.5);
     transition: all 0.3s ease;
     -webkit-transition: all -webkit-transform 0.3s ease;
 }
@@ -65,7 +65,7 @@
     padding: 0 2rem 0 3.5rem;
     color: rgba(0, 0, 128, 1);
     height: 3rem;
-    width: 20.5rem;
+    width: 29.5rem;
     background-image: url(./magnifier.svg);
     background-size: 1.7rem;
     background-position: left 1.05rem top 0.7rem;
@@ -78,7 +78,7 @@
     padding: 0 2rem 0 3.5rem;
     color: rgba(0, 0, 128, 1);
     height: 3rem;
-    width: 20.5rem;
+    width: 35.5rem;
     border: 0.05rem solid rgb(0, 0, 128);
     background-image: url(./magnifier.svg);
     background-size: 1.5rem;
@@ -95,7 +95,7 @@
     margin-top: 4px;
     margin-left: auto;
     margin-right: auto;
-    width: 25rem;
+    width: 35rem;
     transition: all 0.1s ease-in-out;
     -webkit-transition: all -webkit-transform 0.1s ease;
     max-height: 400px;
@@ -113,6 +113,7 @@
     color: rgb(123, 123, 123);
     transition: all 0.1s ease-in-out;
     background-color: #fff;
+    color: rgba(0, 0, 128, 1);
 }
 
 .autoComplete_result::selection {
@@ -168,13 +169,13 @@
     }
     #autoComplete:focus {
         cursor: text;
-        /* width: 11rem; */
+        width: 18rem;
         background-size: 1.6rem;
         background-position: left 1.1rem top 0.75rem;
     }
     #autoComplete:hover {
         cursor: pointer;
-        /* width: 11rem; */
+        width: 18rem;
     }
     .autoComplete_result:first-child {
         border-radius: 1rem 1rem 0 0;
@@ -229,3 +230,4 @@
         background-position: left 1.1rem top 0.8rem;
     }
 }
+

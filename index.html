@@ -25,13 +25,24 @@
 <body>
     <div id="container" class="container">
         <h1 class="header">IndiaMade</h1>
+    <div>
         <input autofocus id="autoComplete" tabindex="1">
-        <section>
+        <div class="typing-effect">
+            <span class="hand-point">👆
+            </span>
+            <span
+               class="txt-rotate"
+               data-period="1000"
+               data-rotate='[ "Oppo", "TikTok", "Redmi", "Amul", "Tata" ]'>
+            </span>
+        </div>
+        </div>
+        <section class="gauge-section">
             <div id="result-div">
                 <div class="card-body">
                     <div class="canvas-gauge">
                         <canvas id="demo"></canvas>
-                        <div class="sub-heading" id="preview-textfield"></div>
+                        <div class="gauge-text" id="preview-textfield"></div>
                     </div>
                     <div class="selection"></div>
                     <section class="alternatives-section" id="alternatives-section">

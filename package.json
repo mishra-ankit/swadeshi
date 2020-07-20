@@ -43,6 +43,7 @@
     "db.json": "npm run dedupe"
   },
   "dependencies": {
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.4",
+    "serve": "^11.3.2"
   }
 }

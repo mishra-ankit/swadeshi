@@ -46,7 +46,7 @@ function trackSearch(e) {
 }
 
 // let data = null;
-const placeholder = "Type brand name to check...";
+const placeholder = "Search company or products...";
 
 // The autoComplete.js Engine instance creator
 const autoCompletejs = new autoComplete({
@@ -126,6 +126,7 @@ const autoCompletejs = new autoComplete({
 // Toggle results list and other elements
 const action = function (action) {
   const resultCard = document.querySelector("#result-div");
+
   if (action === "dim") {
     resultCard.style.opacity = 1;
   } else {
