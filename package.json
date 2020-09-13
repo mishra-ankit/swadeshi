@@ -27,7 +27,7 @@
     "lint-staged": "^10.1.1",
     "mongodb": "^3.5.9",
     "morgan": "^1.10.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "parcel-bundler": "^1.12.4",
     "parcel-plugin-imagemin": "^4.0.1",
     "prettier": "2.0.5"
